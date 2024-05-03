@@ -14,8 +14,10 @@ It is also important that in your pull request you order the contribution alphab
 - [Official Material](#official-material)
 
 ### Official Material
-*Collection of everything officially made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
+*Collection of everything officially made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice) that counts as an integral part of Touhou (not including Fangames with official licensing)*
 
 Name | Description | Author 
 ---- | ----------- | ------
-[東方花映塚 ～ Phantasmagoria of Flower View.](https://store.steampowered.com/app/1420810/__Phantasmagoria_of_Flower_View/) | Ninth entry in the shoot 'em up series, Touhou Project. Featuring 16 playable characters in a split screen versus mode, with singleplayer and multiplayer support. | Team Shanghai Alice (ZUN)
+[東方Project News](https://touhou-project.news/) | Touhou Yomoya News, your official website for getting Touhou news. | Team Shanghai Alice (ZUN), ©東方よもやま委員会
+[東方花映塚 ～ Phantasmagoria of Flower View.](https://store.steampowered.com/app/1420810/__Phantasmagoria_of_Flower_View/) | 9th entry in the shoot 'em up series, Touhou Project. Featuring 16 playable characters in a split screen versus mode, with singleplayer and multiplayer support. | Team Shanghai Alice (ZUN)
+[東方文花帖 ～ Shoot the Bullet.](https://store.steampowered.com/app/1420650/__Shoot_the_Bullet/) | 9.5th entry in the shoot 'em up series, Touhou Project. This time featuring Aya Shameimaru (射命丸文), the Tengu photographer as the protagonist. In this singleplayer game, you have to use Aya's photography skills to disappear the bullets on screen, in your quest to take nice pictures of the foes of previous games. | Team Shanghai Alice (ZUN)
