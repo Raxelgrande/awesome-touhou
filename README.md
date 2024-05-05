@@ -104,6 +104,6 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | English | SpaceBanana420
-[Thcrap](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download) | Utility for applying Mods, including translations, to Touhou Project games. | English | Touhou Patch Center
+[Thcrap](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download) | Utility for applying Mods, including Translations, to Touhou Project games. | English | Touhou Patch Center
 [Thprac](https://github.com/touhouworldcup/thprac) | A tool for practicing Touhou Shmups | English | Ack, Touhou World Cup & [Contributors](https://github.com/touhouworldcup/thprac/graphs/contributors)
 
