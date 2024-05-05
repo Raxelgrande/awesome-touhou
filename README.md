@@ -12,13 +12,17 @@ It is also important that in your pull request you follow the correct markdown f
 
 ## Table of Contents
 - ### [Official Works](#official-works)
-  - [Official Games](#official-games)
-  - [Official Music](#official-music)
-  - [Official Websites](#official-websites)
+  - #### [Official Games](#official-games)
+  - #### [Official Music](#official-music)
+  - #### [Official Websites](#official-websites)
 
 - ### [Fan Works](#fan-works)
-  - [Software](#software)
-  - [Information Websites](#information-websites)
+  - #### [Software](#software)
+    - [Games](#games)
+    - [Modding](#modding)
+    
+
+  - #### [Information Websites](#information-websites)
 
 ### Official Games
 *Collection of all the games made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice) that counts as an integral part of Touhou's canon (not including Fangames with official licensing).*
@@ -82,12 +86,24 @@ Name | Description | Author
 [ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | Team Shanghai Alice (ZUN)
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | Team Shanghai Alice (ZUN)
 
-
-### Software
-*Collection of software related in some way to Touhou.
+### Games
+*Collection of awesome fangames that are based (in some way or another) on the Touhou Project series*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Touhou Artificial Dream in Arcadia](https://store.steampowered.com/app/2248430/Touhou_Artificial_Dream_in_Arcadia/) | Explore Gensokyo from an outsider's perspective in this old-school Touhou DRPG! | English, 日本語, 中文 | [Bar Holographic Otaku/Potemki11](https://en.touhouwiki.net/wiki/Potemki11)
 
 ### Information Websites 
 *Collection of informative websites, things like Wikis and News Websites are included here*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [日本語](https://touhougarakuta.com), [中文](https://cn.touhougarakuta.com), [한국어](https://ko.touhougarakuta.com), [English](https://en.touhougarakuta.com) | ©東方我楽多叢誌
+
+
+### Modding
+*Collection of software dedicated to modify the behavior of Touhou Project games*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | English | SpaceBanana420
+[Thcrap](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download) | Utility for applying Mods, including translations, to Touhou Project games. | English | Touhou Patch Center
+[Thprac](https://github.com/touhouworldcup/thprac) | A tool for practicing Touhou Shmups | English | Ack, Touhou World Cup & [Contributors](https://github.com/touhouworldcup/thprac/graphs/contributors)
+
