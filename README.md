@@ -10,6 +10,15 @@ Feel welcome to contribute! Please submit a pull request, create an issue or con
 We ask that in your contributions, specifically pull requests, you edit `README.md`.
 It is also important that in your pull request you follow the correct markdown format.
 
+## Thanks & Contributors 
+- [Maribel Hearn's Touhou Portal](https://maribelhearn.com/)
+
+I want to specially thank Mari for creating this amazing resource, it served as inspiration and as a source for several things in this list. 
+
+- [English Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+
+Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been possible. Multiple things from this list come from here.
+
 ## Table of Contents
 - ### [Official Works](#official-works)
   - [Official Games](#official-games)
@@ -17,6 +26,8 @@ It is also important that in your pull request you follow the correct markdown f
   - [Official Websites](#official-websites)
 
 - ### [Fan Works](#fan-works)
+  - #### [Social Media](#social-media)
+    - [Forums](#forums)
   - #### [Software](#software)
     - [Games](#games)
     - [Modding](#modding)
@@ -86,24 +97,36 @@ Name | Description | Author
 [ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | Team Shanghai Alice (ZUN)
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | Team Shanghai Alice (ZUN)
 
-### Games
-*Collection of awesome fangames that are based (in some way or another) on the Touhou Project series*
+### Forums
+*Forums to discuss things about Touhou*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Touhou Artificial Dream in Arcadia](https://store.steampowered.com/app/2248430/Touhou_Artificial_Dream_in_Arcadia/) | Explore Gensokyo from an outsider's perspective in this old-school Touhou DRPG! | English, 日本語, 中文 | [Bar Holographic Otaku/Potemki11](https://en.touhouwiki.net/wiki/Potemki11)
+[Maidens of the Kaleidoscope](https://www.shrinemaiden.com/) | Third incarnation of the MotK Forums | English | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
+[Moriya Shrine Forums](https://moriyashrine.org/forums/) | Let's discuss Touhou Project together! | English | Moriya Shrine
+
+### Games
+*Awesome fangames that are based (in some way or another) on the Touhou Project series*
+
+*If you can't find the fangame you are looking for, check [here](https://en.touhouwiki.net/wiki/Category:Fangames)*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Touhou Artificial Dream in Arcadia](https://store.steampowered.com/app/2248430/Touhou_Artificial_Dream_in_Arcadia/) | Explore Gensokyo from an outsider's perspective in this old-school Touhou DRPG! | 🇬🇧, 🇯🇵, 🇨🇳 | [Bar Holographic Otaku/Potemki11](https://en.touhouwiki.net/wiki/Potemki11)
 
 ### Information Websites 
-*Collection of informative websites, things like Wikis and News Websites are included here*
+*Informative websites, things like Wikis and News Websites are included here*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [日本語](https://touhougarakuta.com), [中文](https://cn.touhougarakuta.com), [한국어](https://ko.touhougarakuta.com), [English](https://en.touhougarakuta.com) | ©東方我楽多叢誌
+[Maribel Hearn's Touhou Portal](https://maribelhearn.com/) | A privacy-friendly collection of convenient webpages for the Touhou community. Hover your cursor over a link for a description of that page. Flags show available translations. | 🇬🇧, Certain parts are multilingual | maribelhearn@disroot.org 
+[TBH Wiki](https://thwiki.cc/%E9%A6%96%E9%A1%B5) | Chinese Touhou Project Wikipedia | 🇨🇳, 🇯🇵, 🇮🇹, 🇬🇧 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [🇯🇵](https://touhougarakuta.com), [🇨🇳](https://cn.touhougarakuta.com), [🇰🇷](https://ko.touhougarakuta.com), [🇬🇧](https://en.touhougarakuta.com) | ©東方我楽多叢誌
+[Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) | This wiki is dedicated to the Touhou Project, a Japanese gaming series that mostly contains curtain fire shoot'em up games made by ZUN. | Multilingual, select yours in the sidebar | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
 
 ### Modding
-*Collection of software dedicated to modify the behavior or facilitate the enjoyment of Touhou Project games*
+*Software dedicated to modify the behavior or facilitate the enjoyment of Touhou Project games*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | English | SpaceBanana420
-[Thcrap](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download) | Utility for applying Mods, including Translations, to Touhou Project games. | English | Touhou Patch Center
-[Thprac](https://github.com/touhouworldcup/thprac) | A tool for practicing Touhou Shmups | English | Ack, Touhou World Cup & [Contributors](https://github.com/touhouworldcup/thprac/graphs/contributors)
+[Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | 🇬🇧 | SpaceBanana420
+[Thcrap](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download) | Utility for applying Mods, including Translations, to Touhou Project games. | Multilingual | Touhou Patch Center
+[Thprac](https://github.com/touhouworldcup/thprac) | A tool for practicing Touhou Shmups | 🇬🇧 | Ack, Touhou World Cup & [Contributors](https://github.com/touhouworldcup/thprac/graphs/contributors)
 
