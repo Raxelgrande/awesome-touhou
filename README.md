@@ -74,7 +74,7 @@ Name | Description | Author
 [Amusement Makers](http://www.kt.rim.or.jp/~aotaka/am/index.htm) | Old, inactive website of Amusement Makers. | aotaka@kt.rim.or.jp
 [Kourindou Blog](https://kourindou.exblog.jp/) | ZUN's inactive blog. | Team Shanghai Alice (ZUN)
 [Team Shanghai Alice](https://www16.big.or.jp/~zun/) | We are a circle that develops shoot 'em up games and creates music. | Team Shanghai Alice (ZUN)
-[Touhou Music](https://www.touhou-music.jp) | Making music for Touhou Project easier. | ©上海アリス幻樂団
+[Touhou Music](https://www.touhou-music.jp) | Making music for Touhou Project easier. | Team Shanghai Alice (ZUN)
 [ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | Team Shanghai Alice (ZUN)
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | Team Shanghai Alice (ZUN)
 
