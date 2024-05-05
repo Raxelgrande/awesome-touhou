@@ -61,9 +61,15 @@ Name | Description | Author
 [Twilight Frontier Discography](https://open.spotify.com/intl-es/artist/1dzPHjckgJihSzVzKOvHxO/discography/album) | Full discography available for streaming on Spotify. | Twilight Frontier, Team Shanghai Alice (ZUN) & others 
 
 ### Official Websites
-*Collection of websites made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
+*Collection of websites & social media made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
 
 Name | Description | Author 
 ---- | ----------- | ------
 [東方Project News](https://touhou-project.news/) | Touhou Yomoya News, your official website for getting Touhou news. | Team Shanghai Alice (ZUN), ©東方よもやま委員会
+[Amusement Makers](http://www.kt.rim.or.jp/~aotaka/am/index.htm) | Old, inactive website of Amusement Makers. | aotaka@kt.rim.or.jp
+[Kourindou Blog](https://kourindou.exblog.jp/) | ZUN's inactive blog. | Team Shanghai Alice (ZUN)
+[Team Shanghai Alice](https://www16.big.or.jp/~zun/) | We are a circle that develops shoot 'em up games and creates music. | Team Shanghai Alice (ZUN)
+[Touhou Music](https://www.touhou-music.jp) | Making music for Touhou Project easier. | ©上海アリス幻樂団
+[ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | Team Shanghai Alice (ZUN)
+[ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | Team Shanghai Alice (ZUN)
 
