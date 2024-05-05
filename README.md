@@ -122,6 +122,7 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Maribel Hearn's Touhou Portal](https://maribelhearn.com/) | A privacy-friendly collection of convenient webpages for the Touhou community. Hover your cursor over a link for a description of that page. Flags show available translations. | 🇬🇧, Certain parts are multilingual | maribelhearn@disroot.org 
 [TBH Wiki](https://thwiki.cc/%E9%A6%96%E9%A1%B5) | Chinese Touhou Project Wikipedia | 🇨🇳, 🇯🇵, 🇮🇹, 🇬🇧 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[Touhou Community Jargon](https://maribelhearn.com/jargon) | This list contains explanations for terms and acronyms used in the community of Touhou players. It also contains general gaming and shoot 'em up terms that are relevant to Touhou. | 🇬🇧, 🇨🇳 | maribelhearn@disroot.org
 [Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [🇯🇵](https://touhougarakuta.com), [🇨🇳](https://cn.touhougarakuta.com), [🇰🇷](https://ko.touhougarakuta.com), [🇬🇧](https://en.touhougarakuta.com) | ©東方我楽多叢誌
 [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) | This wiki is dedicated to the Touhou Project, a Japanese gaming series that mostly contains curtain fire shoot'em up games made by ZUN. | Multilingual, select yours in the sidebar | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
@@ -131,15 +132,21 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [LunarCast Network](http://lunarcast.net/) | LunarCast Network hosts various projects and services such as Danmakufu Remake and the Replay Database! | 🇬🇧 | LunarCast Network
+[Survival Progress Table Generator](https://maribelhearn.com/survival) | Fill in the best survivals you have pulled off in the table below. Click 'Save' in the top left to save your progress. | 🇬🇧 | maribelhearn@disroot.org
 [Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | 🇬🇧 | SpaceBanana420
-[Thcrap](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download) | Utility for applying Mods, including Translations, to Touhou Project games. | Multilingual | Touhou Patch Center
-[Thprac](https://github.com/touhouworldcup/thprac) | A tool for practicing Touhou Shmups | 🇬🇧 | Ack, Touhou World Cup & [Contributors](https://github.com/touhouworldcup/thprac/graphs/contributors)
-[Touhou Danmakufu](http://dmf.shrinemaiden.org/) | A relatively easy-to-use STG maker program which leans toward making Touhou Project-style games with a C-like programming language. | Touhou Danmakufu
+[Touhou Danmakufu](http://dmf.shrinemaiden.org/) | A relatively easy-to-use STG maker program which leans toward making Touhou Project-style games with a C-like programming language. | 🇬🇧 | Touhou Danmakufu
+[Touhou Patches and Tools](https://maribelhearn.com/tools) | This page contains download links to all kinds of different patches or tools applicable to the official Touhou shooting games. | Multilingual | maribelhearn@disroot.org 
 
 ### Danmaku Replays & Scoring
-*Find everything around replays and getting high scores here!*
+*Find everything around replays, world records and getting high scores here!*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[Dodging Rain Competition](https://maribelhearn.com/drc) |  Two teams go up against each other in several different categories. | Multilingual | maribelhearn@disroot.org
+[High Score Storage](https://maribelhearn.com/scoring) | Enter your high scores. You can leave any high score empty | 🇬🇧 | maribelhearn@disroot.org
 [Gensokyo Replay Archive](https://maribelhearn.com/gensokyo) | A complete archive of the Touhou replays from replays.gensokyo.org, with the same search functionality as said website. | 🇬🇧 | maribelhearn@disroot.org
+[Competitive PoFV](https://maribelhearn.com/pofv) | This is a portal for competitive PoFV play, featuring the current tier list, a guide to help you get started with netplay, and links to relevant resources | 🇬🇧, 🇨🇳 | maribelhearn@disroot.org
+[Royalflare Replay Archive](https://maribelhearn.com/royalflare) | On 3 January 2022, Royalflare stopped allowing replay uploads, and it will shut down at the end of the month. As such, this archive has been created to preserve all of its replays and history. Unlike the original website, these replays cannot be deleted. | 🇬🇧 | maribelhearn@disroot.org 
 [The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) | This Wiki is designed to be User-Friendly, and a simple way to organize Resources for Danmaku Games. | 🇬🇧 | maribelhearn@disroot.org
+[Touhou Fangame Acomplishments](https://maribelhearn.com/fangame) | This page lists known Lunatic No Miss No Bomb (LNN) clears and notable high scores for Touhou fangames, as well as Touhou-related games. | 🇬🇧 | maribelhearn@disroot.org
+[Touhou World Records](https://maribelhearn.com/wr) | An accurate list of Touhou world records, updated every so often. | Multilingual | maribelhearn@disroot.org
 
