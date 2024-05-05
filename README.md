@@ -12,9 +12,9 @@ It is also important that in your pull request you follow the correct markdown f
 
 ## Table of Contents
 - ### [Official Works](#official-works)
-  - #### [Official Games](#official-games)
-  - #### [Official Music](#official-music)
-  - #### [Official Websites](#official-websites)
+  - [Official Games](#official-games)
+  - [Official Music](#official-music)
+  - [Official Websites](#official-websites)
 
 - ### [Fan Works](#fan-works)
   - #### [Software](#software)
@@ -22,7 +22,7 @@ It is also important that in your pull request you follow the correct markdown f
     - [Modding](#modding)
     
 
-  - #### [Information Websites](#information-websites)
+    - [Information Websites](#information-websites)
 
 ### Official Games
 *Collection of all the games made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice) that counts as an integral part of Touhou's canon (not including Fangames with official licensing).*
