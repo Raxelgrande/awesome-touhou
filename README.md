@@ -16,6 +16,10 @@ It is also important that in your pull request you follow the correct markdown f
   - [Official Music](#official-music)
   - [Official Websites](#official-websites)
 
+- ### [Fan Works](#fan-works)
+  - [Software](#software)
+  - [Information Websites](#information-websites)
+
 ### Official Games
 *Collection of all the games made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice) that counts as an integral part of Touhou's canon (not including Fangames with official licensing).*
 
@@ -74,7 +78,16 @@ Name | Description | Author
 [Amusement Makers](http://www.kt.rim.or.jp/~aotaka/am/index.htm) | Old, inactive website of Amusement Makers. | aotaka@kt.rim.or.jp
 [Kourindou Blog](https://kourindou.exblog.jp/) | ZUN's inactive blog. | Team Shanghai Alice (ZUN)
 [Team Shanghai Alice](https://www16.big.or.jp/~zun/) | We are a circle that develops shoot 'em up games and creates music. | Team Shanghai Alice (ZUN)
-[Touhou Music](https://www.touhou-music.jp) | Making music for Touhou Project easier. | Team Shanghai Alice (ZUN)
+[Touhou Doujin Music Distribution](https://www.touhou-music.jp) | Making music for Touhou Project easier. | Team Shanghai Alice (ZUN)
 [ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | Team Shanghai Alice (ZUN)
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | Team Shanghai Alice (ZUN)
 
+
+### Software
+*Collection of software related in some way to Touhou.
+
+### Information Websites 
+*Collection of informative websites, things like Wikis and News Websites are included here*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [日本語](https://touhougarakuta.com), [中文](https://cn.touhougarakuta.com), [한국어](https://ko.touhougarakuta.com), [English](https://en.touhougarakuta.com) | ©東方我楽多叢誌
