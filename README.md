@@ -100,7 +100,7 @@ Name | Description | Language | Author
 
 
 ### Modding
-*Collection of software dedicated to modify the behavior of Touhou Project games*
+*Collection of software dedicated to modify the behavior or facilitate the enjoyment of Touhou Project games*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | English | SpaceBanana420
