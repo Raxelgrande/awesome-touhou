@@ -11,14 +11,15 @@ We ask that in your contributions, specifically pull requests, you edit `README.
 It is also important that in your pull request you follow the correct markdown format.
 
 ## Table of Contents
-- ### [Official Everything](#official-everything)
+- ### [Official Works](#official-works)
   - [Official Games](#official-games)
+  - [Official Music](#official-music)
   - [Official Websites](#official-websites)
 
 ### Official Games
 *Collection of all the games made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice) that counts as an integral part of Touhou's canon (not including Fangames with official licensing).*
 
-*[Purchasing Guide](https://en.touhouwiki.net/wiki/Purchasing_Guide)*
+*For the games that lack a direct link to Steam, or if you wish to get a physical copy, please check the [Purchasing Guide](https://en.touhouwiki.net/wiki/Purchasing_Guide)*
 
 Name | Description | Author 
 ---- | ----------- | ------
@@ -42,13 +43,22 @@ Name | Description | Author
 [東方深秘録　～ Urban Legend in Limbo.](https://en.touhouwiki.net/wiki/Urban_Legend_in_Limbo) | 14.5th entry and the 2nd in the 2nd generation of the fighting games. Urban legends have started manifesting themselves like crazy, even possesing the protagonists and giving them new, fitting powers. In their power testing, the real, occult truth is revealed. 4 new characters are added. | Twilight Frontier & Team Shanghai Alice (ZUN)
 [東方紺珠伝 ～ Legacy of Lunatic Kingdom.](https://store.steampowered.com/app/937580/__Legacy_of_Lunatic_Kingdom/) | 15th entry in the shoot 'em up series. Troubles in the Moon made the Lunarians start an invasion of Gensokyo, making Reimu, Marisa, Sanae and the exiled Moon Rabbit Reisen go to the Moon and defeat the most powerful enemies yet. This game features another game mode, where you get checkpoints every little time, balancing the arguably hardest mainline game so far. | Team Shanghai Alice (ZUN)
 [東方憑依華　～ Antinomy of Common Flowers.](https://store.steampowered.com/app/716710/_Antinomy_of_Common_Flowers/) | 15.5th entry and the last in the 2nd generation of the fighting games. On top of the ongoing urban legend problems, the perfect possesion phenomenon appeared in Gensokyo, allowing one person to take over the body of the other. It's the task of the protagonists to defeat a nefarious duo exploiting perfect possesion. This game adds 5 more characters and uses the story as an excuse to include character switching mid battle. | Twilight Frontier & Team Shanghai Alice (ZUN)
-[東方天空璋 ～ Hidden Star in Four Seasons.](https://store.steampowered.com/app/745880/__Hidden_Star_in_Four_Seasons/) | 16th entry in the shoot 'em up series. Seasons have gone berserk again, but this time, different areas in the small Gensokyo can vary from spring to summer. Reimu and Marisa are joined in solving this incident by Aya Shameimaru and Cirno. And to make things worse, weaklings are again experimenting surges of strength, who's behind this? You have the added gimmick of selecting a season as a shot type, that mimmicks one of the protagonist's regular attacks | Team Shanghai Alice (ZUN)
+[東方天空璋 ～ Hidden Star in Four Seasons.](https://store.steampowered.com/app/745880/__Hidden_Star_in_Four_Seasons/) | 16th entry in the shoot 'em up series. Seasons have gone berserk again, but this time, different areas in the small Gensokyo can vary from spring to summer. Reimu and Marisa are joined in solving this incident by Aya Shameimaru and Cirno. And to make things worse, weaklings are again experimenting surges of strength, who's behind this? You have the added gimmick of selecting a season as a shot type, that mimmicks one of the protagonist's regular attacks. | Team Shanghai Alice (ZUN)
 [秘封ナイトメアダイアリー ～ Violet Detector.](https://store.steampowered.com/app/924650/__Violet_Detector/) | 16.5th entry and the 3rd one in the photography shoot 'em up series in Touhou Project. Instead of a Tengu, you are in the shoes of Sumireko Usami, who is trapped in an endless danmaku nightmare due to her abusing entering Gensokyo via her dreams. Only her phone camera, psychic powers and the player's skill can save her. | Team Shanghai Alice (ZUN)
 [東方鬼形獣 〜 Wily Beast and Weakest Creature.](https://store.steampowered.com/app/1079160/__Wily_Beast_and_Weakest_Creature/) | 17th entry in the shoot 'em up series. Beast spirits began to invade from Hell en masse. "They're trying to take over the surface world with brute force and sheer numbers. I beg of you! Venture into Hell with me, and put a stop to their plans!" So she was told, by a beast spirit that was cooperative with humans... Reimu, Marisa and Youmu are the protagonists, who can pick between 3 animal spirits that grant powerups to certain danmaku skills. | Team Shanghai Alice (ZUN)
 [東方剛欲異聞　～ 水没した沈愁地獄 (Sunken Fossil World)](https://store.steampowered.com/app/1440500/_/) | 17.5th entry and a standalone horizontal side-scrolling danmaku water action game. Black water (oil) began pouring out of most of Gensokyo's water sources, it's up to most of Gensokyo to figure out a way of defeating the underground monster creating all this oil. | Twilight Frontier & Team Shanghai Alice (ZUN)
 [東方虹龍洞 ～ Unconnected Marketeers.](https://store.steampowered.com/app/1566410/__Unconnected_Marketeers/) | 18th entry in the shoot 'em up series. The story revolves around the circulation of mysterious cards, which seem to contain the secrets of various humans and youkai. You can play between Reimu, Marisa, Sanae and Sakuya. You can customize your character's skills by selecting cards before and during the game's progression. | Team Shanghai Alice (ZUN) 
 [バレットフィリア達の闇市場　〜 100th Black Market.](https://store.steampowered.com/app/2097720/_100th_Black_Market/) | 18.5th entry in the shoot 'em up series, combined with some rougelite elements. This time you only control Marisa, who is investigating the black markets of the mysterious cards and to enlarge her collection. Will Marisa's personal interest get in the way of solving the incident? | Team Shanghai Alice (ZUN)
 [東方獣王園　〜 Unfinished Dream of All Living Ghost](https://store.steampowered.com/app/2097720/_100th_Black_Market/) | 19th entry in the shoot 'em up series. Once again, you have a split screen versus mode with singleplayer and multiplayer support. Following the opening of the markets, Gensokyo's land has abruptly lost its ownership and an invasion from Hell's Animal Realm has begun. The game's cast all seek to either bring the invasion to a halt or take advantage of the ongoing situation. There are 19 total characters that you slowly unlock by playing the game's story mode. | Team Shanghai Alice (ZUN)
+
+### Official Music
+*Collection of music that appears in works made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
+
+*If you wish a physical copy or to purchase the music digitally, please check the [Purchasing Guide](https://en.touhouwiki.net/wiki/Purchasing_Guide)*
+Name | Description | Author 
+---- | ----------- | ------
+[Team Shanghai Alice Discography](https://open.spotify.com/artist/53UfU5Etv91LUU69GzTQ1X/discography/album) | Full discography available for streaming on Spotify. | Team Shanghai Alice (ZUN)
+[Twilight Frontier Discography](https://open.spotify.com/intl-es/artist/1dzPHjckgJihSzVzKOvHxO/discography/album) | Full discography available for streaming on Spotify. | Twilight Frontier, Team Shanghai Alice (ZUN) & others 
 
 ### Official Websites
 *Collection of websites made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
