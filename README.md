@@ -26,6 +26,8 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
   - [Official Websites](#official-websites)
 
 - ### [Fan Works](#fan-works)
+  - #### [Gaming Communities](#gaming-communities)
+    - [Danmaku Replays & Scoring](#danmaku-replays-&-scoring)
   - #### [Social Media](#social-media)
     - [Forums](#forums)
   - #### [Software](#software)
@@ -128,7 +130,16 @@ Name | Description | Language | Author
 *Software dedicated to modify the behavior or facilitate the enjoyment of Touhou Project games*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[LunarCast Network](http://lunarcast.net/) | LunarCast Network hosts various projects and services such as Danmakufu Remake and the Replay Database! | 🇬🇧 | LunarCast Network
 [Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | 🇬🇧 | SpaceBanana420
 [Thcrap](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download) | Utility for applying Mods, including Translations, to Touhou Project games. | Multilingual | Touhou Patch Center
 [Thprac](https://github.com/touhouworldcup/thprac) | A tool for practicing Touhou Shmups | 🇬🇧 | Ack, Touhou World Cup & [Contributors](https://github.com/touhouworldcup/thprac/graphs/contributors)
+[Touhou Danmakufu](http://dmf.shrinemaiden.org/) | A relatively easy-to-use STG maker program which leans toward making Touhou Project-style games with a C-like programming language. | Touhou Danmakufu
+
+### Danmaku Replays & Scoring
+*Find everything around replays and getting high scores here!*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Gensokyo Replay Archive](https://maribelhearn.com/gensokyo) | A complete archive of the Touhou replays from replays.gensokyo.org, with the same search functionality as said website. | 🇬🇧 | maribelhearn@disroot.org
+[The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) | This Wiki is designed to be User-Friendly, and a simple way to organize Resources for Danmaku Games. | 🇬🇧 | maribelhearn@disroot.org
 
