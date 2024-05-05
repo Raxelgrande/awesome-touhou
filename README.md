@@ -27,7 +27,7 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
 
 - ### [Fan Works](#fan-works)
   - #### [Gaming Communities](#gaming-communities)
-    - [Danmaku Replays & Scoring](#danmaku-replays-&-scoring)
+    - [Danmaku Replays & Scoring](#danmaku-replays--scoring)
   - #### [Social Media](#social-media)
     - [Forums](#forums)
   - #### [Software](#software)
