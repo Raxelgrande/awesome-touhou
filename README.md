@@ -39,6 +39,7 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
     - [Forums](#forums)
     - [Real Life Events](#real-life-events)
   - #### [Software](#software)
+    - [Fun Software](#fun-software)
     - [Games](#games)
     - [Modding](#modding)
   - #### [Images](#images)
@@ -149,6 +150,12 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Fumo Buying Guides](https://fumo.website) | With the helpful information on this site, you too can welcome a soft friend into your home. | 🇬🇧, 🇯🇵 in the linked materials | [Fumosite](https://github.com/Ununoctium117/fumosite)
+
+# Fun Software
+*Fun programs that are not games*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Yukkuri Talk](https://yukkuritalk.com) | ゆっくりしていってね！！！| 🇬🇧 | [@kdingo](https://twitter.com/kdingo)
 
 ### Games
 *Awesome fangames that are based (in some way or another) on the Touhou Project series*
