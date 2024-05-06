@@ -32,6 +32,7 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
     - [Danmaku Replays & Scoring](#danmaku-replays--scoring)
   - #### [Music](#music)
     - [Doujin Circles](#doujin-circles)
+    - [Music Streaming](#music-streaming)
   - #### [Social Media](#social-media)
     - [Forums](#forums)
   - #### [Software](#software)
@@ -188,6 +189,13 @@ Name | Description | Language | Author
 [Touhou Danmakufu](http://dmf.shrinemaiden.org/) | A relatively easy-to-use STG maker program which leans toward making Touhou Project-style games with a C-like programming language. | 🇬🇧 | Touhou Danmakufu
 [Touhou Patches and Tools](https://maribelhearn.com/tools) | This page contains download links to all kinds of different patches or tools applicable to the official Touhou shooting games. | Multilingual | maribelhearn@disroot.org 
 
+### Music Streaming
+*Your place to enjoy Doujin music via Streaming*
+
+*If something's missing, try searching at [The Doujin Circles Section](https://github.com/Raxelgrande/awesome-touhou?tab=readme-ov-file#doujin-circles)*
+Name | Description | Language | Musical Genre | Author 
+---- | ----------- | -------- | ------------- | ------
+[Gensokyo Radio](https://gensokyoradio.net) | The #1 radio station for fan-made Touhou Project arrangements since 2011. | 🇬🇧 | Radio, Multi Genre | staff@gensokyoradio.net
 
 ### Danmaku Replays & Scoring
 *Find everything around replays, world records and getting high scores here!*
