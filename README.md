@@ -117,6 +117,7 @@ Name | Description | Language | Author
 [Kourindou Blog](https://kourindou.exblog.jp/) | ZUN's inactive blog. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Team Shanghai Alice](https://www16.big.or.jp/~zun/) | We are a circle that develops shoot 'em up games and creates music. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Touhou Doujin Music Distribution](https://www.touhou-music.jp) | Making music for Touhou Project easier. | 🇯🇵 | Team Shanghai Alice (ZUN)
+[Touhou Vote](https://toho-vote.info) | Annual vote for your favorite everything in Touhou Project | 🇯🇵 | ZUN
 [ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 
@@ -175,6 +176,7 @@ Name | Description | Language | Author
 [TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Community Jargon](https://maribelhearn.com/jargon) | This list contains explanations for terms and acronyms used in the community of Touhou players. It also contains general gaming and shoot 'em up terms that are relevant to Touhou. | 🇬🇧, 🇨🇳 | maribelhearn@disroot.org
 [Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [🇯🇵](https://touhougarakuta.com), [🇨🇳](https://cn.touhougarakuta.com), [🇰🇷](https://ko.touhougarakuta.com), [🇬🇧](https://en.touhougarakuta.com) | ©東方我楽多叢誌
+[Touhou Popularity Vote](https://maribelhearn.com/thvote) | An English translation of the full results of the annual THWiki Popularity Poll | maribelhearn@disroot.org 
 [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) | This wiki is dedicated to the Touhou Project, a Japanese gaming series that mostly contains curtain fire shoot'em up games made by ZUN. | Multilingual, select yours in the sidebar | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
 [Touhou Wiki Japan](http://thwiki.info) | The Japanese Touhou Wiki made with PukiWuki | 🇯🇵 | [Emuqy](https://twitter.com/mktoho12)
 
