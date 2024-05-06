@@ -30,6 +30,8 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
   
   - #### [Gaming Communities](#gaming-communities)
     - [Danmaku Replays & Scoring](#danmaku-replays--scoring)
+  - #### [Music](#music)
+    - [Doujin Circles](#doujin-circles)
   - #### [Social Media](#social-media)
     - [Forums](#forums)
   - #### [Software](#software)
@@ -117,6 +119,13 @@ Name | Description | Language | Author
 [ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 
+### Doujin Circles
+*Your place to search things about your favorite Doujin Circles, specially music ones*
+Name | Description | Language | Musical Genre | Author 
+---- | ----------- | -------- | ------------- | ------
+[TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳  | Not Music | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | Not Music | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
+
 ### Fanfiction
 *Your place for everything Fanfiction!*
 Name | Description | Language | Author 
@@ -162,7 +171,6 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Maribel Hearn's Touhou Portal](https://maribelhearn.com/) | A privacy-friendly collection of convenient webpages for the Touhou community. Hover your cursor over a link for a description of that page. Flags show available translations. | 🇬🇧, Certain parts are multilingual | maribelhearn@disroot.org 
 [TBH Wiki](https://thwiki.cc/%E9%A6%96%E9%A1%B5) | Chinese Touhou Project Wikipedia | 🇨🇳, 🇯🇵, 🇮🇹, 🇬🇧 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
-[TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Community Jargon](https://maribelhearn.com/jargon) | This list contains explanations for terms and acronyms used in the community of Touhou players. It also contains general gaming and shoot 'em up terms that are relevant to Touhou. | 🇬🇧, 🇨🇳 | maribelhearn@disroot.org
 [Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [🇯🇵](https://touhougarakuta.com), [🇨🇳](https://cn.touhougarakuta.com), [🇰🇷](https://ko.touhougarakuta.com), [🇬🇧](https://en.touhougarakuta.com) | ©東方我楽多叢誌
@@ -179,6 +187,7 @@ Name | Description | Language | Author
 [Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | 🇬🇧 | SpaceBanana420
 [Touhou Danmakufu](http://dmf.shrinemaiden.org/) | A relatively easy-to-use STG maker program which leans toward making Touhou Project-style games with a C-like programming language. | 🇬🇧 | Touhou Danmakufu
 [Touhou Patches and Tools](https://maribelhearn.com/tools) | This page contains download links to all kinds of different patches or tools applicable to the official Touhou shooting games. | Multilingual | maribelhearn@disroot.org 
+
 
 ### Danmaku Replays & Scoring
 *Find everything around replays, world records and getting high scores here!*
