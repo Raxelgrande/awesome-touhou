@@ -28,8 +28,10 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
 
 - ### [Fan Works](#fan-works)
   
-  - #### [Gaming Communities](#gaming-communities)
-    - [Danmaku Replays & Scoring](#danmaku-replays--scoring)
+   - #### [Fumo](#fumo)
+     - [Fumo Buying](#fumo-buying)
+   - #### [Gaming Communities](#gaming-communities)
+     - [Danmaku Replays & Scoring](#danmaku-replays--scoring)
   - #### [Music](#music)
     - [Doujin Circles](#doujin-circles)
     - [Music Streaming](#music-streaming)
@@ -142,6 +144,12 @@ Name | Description | Language | Author
 [Maidens of the Kaleidoscope](https://www.shrinemaiden.com/) | Third incarnation of the MotK Forums | English | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 [Moriya Shrine Forums](https://moriyashrine.org/forums/) | Let's discuss Touhou Project together! | English | Moriya Shrine
 
+### Fumo Buying
+*Baka Fumo Fumo ka-ching! ᗜˬᗜ*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Fumo Buying Guides](https://fumo.website) | With the helpful information on this site, you too can welcome a soft friend into your home. | 🇬🇧, 🇯🇵 in the linked materials | [Fumosite](https://github.com/Ununoctium117/fumosite)
+
 ### Games
 *Awesome fangames that are based (in some way or another) on the Touhou Project series*
 
@@ -149,6 +157,7 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [BulletForge](https://www.bulletforge.org/) | Your source of Danmakufu scripts and Danmakufu based fangames | 🇬🇧, games might be multilingual | Aaron and Abner
+[Hakurei Touhou Fangames Showcase](https://extra.hakudenkai.games/en/) | Compilation of Touhou fangames | 🇯🇵, 🇬🇧 | hakudenkai@gmail.com
 [Touhou Artificial Dream in Arcadia](https://store.steampowered.com/app/2248430/Touhou_Artificial_Dream_in_Arcadia/) | Explore Gensokyo from an outsider's perspective in this old-school Touhou DRPG! | 🇬🇧, 🇯🇵, 🇨🇳 | [Bar Holographic Otaku/Potemki11](https://en.touhouwiki.net/wiki/Potemki11)
 [Taisei Project](https://taisei-project.org/) | An open source Touhou fangame with an open development team on Github! You can even play it on your browser! | English | [Akari + Contributors](https://github.com/taisei-project/taisei)
 [Mystia's Izakaya](https://store.steampowered.com/app/1584090/Touhou_Mystias_Izakaya/) | Play as Mystia as she tries to serve Gensokyo's residents! Beware of the mob! | 🇬🇧, 🇯🇵, 🇨🇳, 🇰🇷 | [二色幽紫蝶](https://thwiki.cc/%E4%BA%8C%E8%89%B2%E5%B9%BD%E7%B4%AB%E8%9D%B6), [Re零同人社](https://thwiki.cc/Re%E9%9B%B6%E5%90%8C%E4%BA%BA%E7%A4%BE)
