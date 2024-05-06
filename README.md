@@ -22,10 +22,13 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
 ## Table of Contents
 - ### [Official Works](#official-works)
   - [Official Games](#official-games)
+  - [Official Miscellaneous](#official-miscellaneous)
   - [Official Music](#official-music)
   - [Official Websites](#official-websites)
 
 - ### [Fan Works](#fan-works)
+  - #### [Writing](#writing)
+    - [Fanfiction](#fanfiction)
   - #### [Gaming Communities](#gaming-communities)
     - [Danmaku Replays & Scoring](#danmaku-replays--scoring)
   - #### [Social Media](#social-media)
@@ -33,8 +36,8 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
   - #### [Software](#software)
     - [Games](#games)
     - [Modding](#modding)
-    
-
+ 
+  - ### [Information](#information)
     - [Information Websites](#information-websites)
 
 ### Official Games
@@ -79,6 +82,15 @@ Name | Description | Language | Author
 [バレットフィリア達の闇市場　〜 100th Black Market.](https://store.steampowered.com/app/2097720/_100th_Black_Market/) | 18.5th entry in the shoot 'em up series, combined with some rougelite elements. This time you only control Marisa, who is investigating the black markets of the mysterious cards and to enlarge her collection. Will Marisa's personal interest get in the way of solving the incident? | 🇯🇵, Fan translations available | Team Shanghai Alice (ZUN)
 [東方獣王園　〜 Unfinished Dream of All Living Ghost](https://store.steampowered.com/app/2097720/_100th_Black_Market/) | 19th entry in the shoot 'em up series. Once again, you have a split screen versus mode with singleplayer and multiplayer support. Following the opening of the markets, Gensokyo's land has abruptly lost its ownership and an invasion from Hell's Animal Realm has begun. The game's cast all seek to either bring the invasion to a halt or take advantage of the ongoing situation. There are 19 total characters that you slowly unlock by playing the game's story mode. | 🇯🇵, Fan translations available | Team Shanghai Alice (ZUN)
 
+### Official Miscellaneous
+*Your place to find strange things that might have some relation with Touhou, they have Team Shanghai Alice present on them, that's for sure*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Nikenme](https://www.youtube.com/@nikenme/streams) | Show where drunk people talk with no profit, featuring ZUN and 豚（家畜）| 🇯🇵 | Nikenme
+[People Associated with Touhou](https://thwiki.cc/东方关联人物列表) | List of people that are involved in some way to Touhou Project | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[ZUN Chronology](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%B4%E8%A1%A8) | Chronologicaly ordered list of events related to ZUN or that bear significance to the Community | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[ZUN Illustrations](https://en.touhouwiki.net/wiki/Miscellaneous_illustrations_by_ZUN) | This is a list of as many illustrations as possible by ZUN himself. | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
+
 ### Official Music
 *Collection of music that appears in works made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
 
@@ -91,6 +103,8 @@ Name | Description | Author
 ### Official Websites
 *Collection of websites & social media made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
 
+*If you can't find something, look at [TBH Wiki's Recompilation 🇨🇳](https://thwiki.cc/东方公式资料源)*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [東方Project News](https://touhou-project.news/) | Touhou Yomoya News, your official website for getting Touhou news. | 🇯🇵 | Team Shanghai Alice (ZUN), ©東方よもやま委員会
@@ -100,6 +114,12 @@ Name | Description | Language | Author
 [Touhou Doujin Music Distribution](https://www.touhou-music.jp) | Making music for Touhou Project easier. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | 🇯🇵 | Team Shanghai Alice (ZUN)
+
+### Fanfiction
+*Your place for everything Fanfiction!*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Touhou Project Fan](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
 
 ### Forums
 *Forums to discuss things about Touhou*
@@ -114,6 +134,7 @@ Name | Description | Language | Author
 *If you can't find the fangame you are looking for, check [here](https://en.touhouwiki.net/wiki/Category:Fangames)*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[BulletForge](https://www.bulletforge.org/) | Your source of Danmakufu scripts and Danmakufu based fangames | 🇬🇧, games might be multilingual | Aaron and Abner
 [Touhou Artificial Dream in Arcadia](https://store.steampowered.com/app/2248430/Touhou_Artificial_Dream_in_Arcadia/) | Explore Gensokyo from an outsider's perspective in this old-school Touhou DRPG! | 🇬🇧, 🇯🇵, 🇨🇳 | [Bar Holographic Otaku/Potemki11](https://en.touhouwiki.net/wiki/Potemki11)
 [Taisei Project](https://taisei-project.org/) | An open source Touhou fangame with an open development team on Github! You can even play it on your browser! | English | [Akari + Contributors](https://github.com/taisei-project/taisei)
 [Mystia's Izakaya](https://store.steampowered.com/app/1584090/Touhou_Mystias_Izakaya/) | Play as Mystia as she tries to serve Gensokyo's residents! Beware of the mob! | 🇬🇧, 🇯🇵, 🇨🇳, 🇰🇷 | [二色幽紫蝶](https://thwiki.cc/%E4%BA%8C%E8%89%B2%E5%B9%BD%E7%B4%AB%E8%9D%B6), [Re零同人社](https://thwiki.cc/Re%E9%9B%B6%E5%90%8C%E4%BA%BA%E7%A4%BE)
@@ -133,9 +154,12 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Maribel Hearn's Touhou Portal](https://maribelhearn.com/) | A privacy-friendly collection of convenient webpages for the Touhou community. Hover your cursor over a link for a description of that page. Flags show available translations. | 🇬🇧, Certain parts are multilingual | maribelhearn@disroot.org 
 [TBH Wiki](https://thwiki.cc/%E9%A6%96%E9%A1%B5) | Chinese Touhou Project Wikipedia | 🇨🇳, 🇯🇵, 🇮🇹, 🇬🇧 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Community Jargon](https://maribelhearn.com/jargon) | This list contains explanations for terms and acronyms used in the community of Touhou players. It also contains general gaming and shoot 'em up terms that are relevant to Touhou. | 🇬🇧, 🇨🇳 | maribelhearn@disroot.org
 [Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [🇯🇵](https://touhougarakuta.com), [🇨🇳](https://cn.touhougarakuta.com), [🇰🇷](https://ko.touhougarakuta.com), [🇬🇧](https://en.touhougarakuta.com) | ©東方我楽多叢誌
-[Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) | This wiki is dedicated to the Touhou Project, a Japanese gaming series that mostly contains curtain fire shoot'em up games made by ZUN. | Multilingual, select yours in the sidebar | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
+[Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) | This wiki is dedicated to the Touhou Project, a Japanese gaming series that mostly contains curtain fire shoot'em up games made by ZUN. | Multilingual, select yours in the sidebar | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
+[Touhou Wiki Japan](http://thwiki.info) | The Japanese Touhou Wiki made with PukiWuki | 🇯🇵 | [Emuqy](https://twitter.com/mktoho12)
 
 
 ### Modding
