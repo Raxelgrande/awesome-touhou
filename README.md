@@ -33,8 +33,9 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
   - #### [Music](#music)
     - [Doujin Circles](#doujin-circles)
     - [Music Streaming](#music-streaming)
-  - #### [Social Media](#social-media)
+  - #### [Social](#social)
     - [Forums](#forums)
+    - [Real Life Events](#real-life-events)
   - #### [Software](#software)
     - [Games](#games)
     - [Modding](#modding)
@@ -213,3 +214,10 @@ Name | Description | Language | Author
 [Touhou Strategy Wiki](http://wikiwiki.jp/thk/) | Touhou Project Strategy Wiki with detailed notes on game mechanics and strategy. | 🇯🇵 | [Touhou Strategy Wiki](http://wikiwiki.jp/thk/)
 [Touhou World Records](https://maribelhearn.com/wr) | An accurate list of Touhou world records, updated every so often. | Multilingual | maribelhearn@disroot.org
 
+### Real Life Events
+*Get information on all kinds of gatherings here!*
+Name | Description | Language | Location | Author 
+---- | ----------- | -------- | -------- | ------
+[Reitaisai](https://reitaisai.com) | Yearly, Touhou Project-only convention that takes place every Spring in Tokyo Big Sight | 🇯🇵 | Tokyo, Japan | [Reitaisai](https://reitaisai.com)
+[TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences | 🇨🇳 | Multiple | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[TouhouFest](https://www.touhoufest.org/) | Touhou fans from across the country will gather to celebrate the coming season and enjoy all the Touhou community has to offer such as art, music, and more! | 🇺🇸 | 🇺🇸 | [TouhouFest](https://www.touhoufest.org/)
