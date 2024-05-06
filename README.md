@@ -27,8 +27,7 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
   - [Official Websites](#official-websites)
 
 - ### [Fan Works](#fan-works)
-  - #### [Writing](#writing)
-    - [Fanfiction](#fanfiction)
+  
   - #### [Gaming Communities](#gaming-communities)
     - [Danmaku Replays & Scoring](#danmaku-replays--scoring)
   - #### [Social Media](#social-media)
@@ -36,9 +35,10 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
   - #### [Software](#software)
     - [Games](#games)
     - [Modding](#modding)
- 
-  - ### [Information](#information)
+  - #### [Information](#information)
     - [Information Websites](#information-websites)
+   - #### [Writing](#writing)
+    - [Fanfiction](#fanfiction)
 
 ### Official Games
 *Collection of all the games made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice) that counts as an integral part of Touhou's canon (not including Fangames with official licensing).*
