@@ -191,5 +191,6 @@ Name | Description | Language | Author
 [Royalflare Replay Archive](https://maribelhearn.com/royalflare) | On 3 January 2022, Royalflare stopped allowing replay uploads, and it will shut down at the end of the month. As such, this archive has been created to preserve all of its replays and history. Unlike the original website, these replays cannot be deleted. | 🇬🇧 | maribelhearn@disroot.org 
 [The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) | This Wiki is designed to be User-Friendly, and a simple way to organize Resources for Danmaku Games. | 🇬🇧 | maribelhearn@disroot.org
 [Touhou Fangame Acomplishments](https://maribelhearn.com/fangame) | This page lists known Lunatic No Miss No Bomb (LNN) clears and notable high scores for Touhou fangames, as well as Touhou-related games. | 🇬🇧 | maribelhearn@disroot.org
+[Touhou Strategy Wiki](http://wikiwiki.jp/thk/) | Touhou Project Strategy Wiki with detailed notes on game mechanics and strategy. | 🇯🇵 | [Touhou Strategy Wiki](http://wikiwiki.jp/thk/)
 [Touhou World Records](https://maribelhearn.com/wr) | An accurate list of Touhou world records, updated every so often. | Multilingual | maribelhearn@disroot.org
 
