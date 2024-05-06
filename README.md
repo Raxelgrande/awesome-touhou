@@ -35,9 +35,11 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
   - #### [Software](#software)
     - [Games](#games)
     - [Modding](#modding)
+  - #### [Images](#images)
+    - [Image Boards](#image-boards)
   - #### [Information](#information)
     - [Information Websites](#information-websites)
-   - #### [Writing](#writing)
+  - #### [Writing](#writing)
     - [Fanfiction](#fanfiction)
 
 ### Official Games
@@ -147,6 +149,12 @@ Name | Description | Language | Author
 [TouHou Makuka Sai ~ Fantastic Danmaku Festival II](https://store.steampowered.com/app/1031480/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_II/) | Coming straight from FDF one, FDF two deals with the cast of PCB with character choices being the same except for the addition of Youmu instead of Patchy. Has an extra phantasm stage! | 🇬🇧, 🇯🇵, 🇨🇳, 🇷🇺 | [東方幕華祭制作组](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%95%E5%8D%8E%E7%A5%AD%E5%88%B6%E4%BD%9C%E7%BB%84)
 [東方霊守祀 ~ Consciousness' Unity of Opposites](https://store.steampowered.com/app/1712580/__Consciousness_Unity_of_Opposites/) | *In development game!* Chinese themed Touhou game that is still in development! Has a free demo for those interested in wishlisting this game for when it releases! | 🇬🇧, 🇨🇳 | [只鹳狸药堂](https://thwiki.cc/%E5%8F%AA%E9%B9%B3%E7%8B%B8%E8%8D%AF%E5%A0%82)
 [Gensokyo Night Festival](https://store.steampowered.com/app/1122050/Gensokyo_Night_Festival/) | *Heavily in development.* Pixel art game in which you control Suika who fights the denizens of Gensokyo using combinations of moves! | 🇬🇧, 🇯🇵, 🇨🇳 | [WSS Playground](https://whysoserious.jp/en/) [tea_basira](https://twitter.com/tea_basira)
+
+### Image Boards
+*An imageboard is a type of Internet forum that focuses on the posting of images, often alongside text and discussion.*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
 
 ### Information Websites 
 *Informative websites, things like Wikis and News Websites are included here*
