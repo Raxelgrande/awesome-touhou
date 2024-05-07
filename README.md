@@ -164,6 +164,7 @@ Name | Description | Language | Author
 *Fun programs that are not games*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[Doremy](https://doremy.ch/) | Doremy | Doremy | Doremy
 [Touhou Calendar](https://touhoucalendar.github.io) | This page forms a (hopefully) comprehensive list of days in use, presented in English for the Touhou Project's sizable western audience. | 🇬🇧 | [@TouhouCalendar](https://twitter.com/TouhouCalendar)
 [Touhou Character Sorter](https://tohosort.frelia.my) | Sorter for Touhou characters. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Character Sorter](https://github.com/execfera/charasort/)
 [Touhou Song Sorter](https://relick.me/song/) | This is a sorter for ZUN's Touhou (and other) songs. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter)
@@ -231,6 +232,7 @@ Name | Description | Language | Author
 Name | Description | Language | Musical Genre | Author 
 ---- | ----------- | -------- | ------------- | ------
 [Gensokyo Radio](https://gensokyoradio.net) | The #1 radio station for fan-made Touhou Project arrangements since 2011. | 🇬🇧 | Radio, Multi Genre | staff@gensokyoradio.net
+[Touhou Circles' Official Music Streaming]() | Some circles' official streaming websites. | 🇬🇧 | Multi Genere | [@mgisnotactive](https://twitter.com/mgisnotactive)
 
 ### Danmaku Replays & Scoring
 *Find everything around replays, world records and getting high scores here!*
