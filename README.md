@@ -27,9 +27,11 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
   - [Official Websites](#official-websites)
 
 - ### [Fan Works](#fan-works)
-  
+   
    - #### [Fumo](#fumo)
      - [Fumo Buying](#fumo-buying)
+   - #### [History](#history)
+       - [Archival](#archival)
    - #### [Gaming Communities](#gaming-communities)
      - [Danmaku Replays & Scoring](#danmaku-replays--scoring)
   - #### [Music](#music)
@@ -73,7 +75,7 @@ Name | Description | Language | Author
 [東方緋想天 ～ Scarlet Weather Rhapsody.](https://en.touhouwiki.net/wiki/Scarlet_Weather_Rhapsody) | 10.5th entry and the 2nd fighting game in the Touhou Project series. A massive surge in extreme climate in Gensokyo leads most inhabitants to start fighting each other. It's based on Immaterial and Missing Power, with a lot of improvements, including 5 new characters. | 🇯🇵, Fan translations available | Twilight Frontier & Team Shanghai Alice (ZUN)
 [東方地霊殿 〜 Subterranean Animism.](https://store.steampowered.com/app/1100150/__Subterranean_Animism/) | 11th entry in the shoot 'em up series. Geysers flooding with water and strange earth spirits started apearing. Smelling something fishy, the Youkai friends of Reimu & Marisa decide to send them to the Underworld to find the culprit, providing them with their Youkai powers as extra help in this difficult challenge. | 🇯🇵, Fan translations available | Team Shanghai Alice (ZUN)
 [東方星蓮船 〜 Undefined Fantastic Object.](https://store.steampowered.com/app/1100160/__Undefined_Fantastic_Object/) | 12th entry in the shoot 'em up series. A strange flying ship appeared in Gensokyo's skies. It's up to Reimu & Marisa, this time joined by Sanae Kochiya, the shrine maiden who debuted on Touhou 10, to stop this threat. | 🇯🇵, Fan translations available | Team Shanghai Alice (ZUN)
-[東方非想天則　～ 超弩級ギニョルの謎を追え (Hisoutensoku)](https://en.touhouwiki.net/wiki/Touhou_Hisoutensoku) | 12.3th entry and the 3rd and final fighting game based on Immaterial and Missing Power. A mysterious giant is seen wandering Gensokyo, you will investigate using different characters what's the truth of this creature. The game mainly features refinements over Scarlet Weather Rhapsody and it has a roster of 20 characters, with 4 new ones included to the existing cast. | 🇯🇵, Fan translations available | Twilight Frontier & Team Shanghai Alice (ZUN)
+[東方非想天則　～ 超弩級ギニョルの謎を追え (Hisoutensoku)](https://soku.delthas.fr/) | 12.3th entry and the 3rd and final fighting game based on Immaterial and Missing Power. A mysterious giant is seen wandering Gensokyo, you will investigate using different characters what's the truth of this creature. The game mainly features refinements over Scarlet Weather Rhapsody and it has a roster of 20 characters, with 4 new ones included to the existing cast. | 🇯🇵, Fan translations available | Twilight Frontier & Team Shanghai Alice (ZUN)
 [ダブルスポイラー　～ 東方文花帖 (Double Spoiler)](https://store.steampowered.com/app/1100170/_/) | 12.5th entry and the 2nd one in the photography shoot 'em up series in Touhou Project. Once again you control Aya Shameimaru, doing her usual work, but something is off. A hidden Tengu is watching Aya carefully. | 🇯🇵, Fan translations available | Team Shanghai Alice (ZUN)
 [妖精大戦争　～ 東方三月精 (Great Fairy Wars)](https://store.steampowered.com/app/1100180/_/) | 12.8th entry and the only one in the freezing shoot 'em up series in Touhou Project. This time, your only character is The Ice Fairy Cirno. After a misunderstanding with other fairies, Cirno goes on a silly quest for revenge. | 🇯🇵, Fan translations available | Team Shanghai Alice (ZUN)
 [東方神霊廟 〜 Ten Desires.](https://store.steampowered.com/app/1043230/__Ten_Desires/) | 13th entry in the shoot 'em up series. Once again, spirits began flooding the world of Gensokyo, but this time, they are divine spirits! Along Reimu and Marisa, Sanae Kochiya and Youmu Konpaku, The Half-Human Half-Phantom Gardener, join the cast to find the source of these spirits. | 🇯🇵, Fan translations available | Team Shanghai Alice (ZUN)
@@ -122,8 +124,13 @@ Name | Description | Language | Author
 [Team Shanghai Alice](https://www16.big.or.jp/~zun/) | We are a circle that develops shoot 'em up games and creates music. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Touhou Doujin Music Distribution](https://www.touhou-music.jp) | Making music for Touhou Project easier. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Touhou Vote](https://toho-vote.info) | Annual vote for your favorite everything in Touhou Project | 🇯🇵 | ZUN
+[Touhou X](https://touhou-x.jp) | 25th Anniversary Touhou Website | 🇯🇵 | Team Shanghai Alice (ZUN) & ©アンノウンX
 [ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | 🇯🇵 | Team Shanghai Alice (ZUN)
+
+### Archival
+*Touhou came out in 1996, there is a lot of history and this is the place to watch the past*
+[Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 
 ### Doujin Circles
 *Your place to search things about your favorite Doujin Circles, specially music ones*
@@ -155,6 +162,7 @@ Name | Description | Language | Author
 *Fun programs that are not games*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[Touhou Calendar](https://touhoucalendar.github.io) | This page forms a (hopefully) comprehensive list of days in use, presented in English for the Touhou Project's sizable western audience. | 🇬🇧 | [@TouhouCalendar](https://twitter.com/TouhouCalendar)
 [Yukkuri Talk](https://yukkuritalk.com) | ゆっくりしていってね！！！| 🇬🇧 | [@kdingo](https://twitter.com/kdingo)
 
 ### Games
@@ -169,6 +177,7 @@ Name | Description | Language | Author
 [Taisei Project](https://taisei-project.org/) | An open source Touhou fangame with an open development team on Github! You can even play it on your browser! | English | [Akari + Contributors](https://github.com/taisei-project/taisei)
 [Mystia's Izakaya](https://store.steampowered.com/app/1584090/Touhou_Mystias_Izakaya/) | Play as Mystia as she tries to serve Gensokyo's residents! Beware of the mob! | 🇬🇧, 🇯🇵, 🇨🇳, 🇰🇷 | [二色幽紫蝶](https://thwiki.cc/%E4%BA%8C%E8%89%B2%E5%B9%BD%E7%B4%AB%E8%9D%B6), [Re零同人社](https://thwiki.cc/Re%E9%9B%B6%E5%90%8C%E4%BA%BA%E7%A4%BE)
 [Luna Nights](https://store.steampowered.com/app/851100/Touhou_Luna_Nights/) | Play as Sakuya in this Metroidvania like in order to uncover the secret behind this world! | 🇬🇧, 🇯🇵, 🇨🇳, 🇰🇷, 🇫🇷 | [Team Ladybug](http://teamladybug.info/), [WSS playground](https://whysoserious.jp/en/)
+[Touhou Danmaku Kagura Phantasia Lost](https://store.steampowered.com/app/2190220/Touhou_Danmaku_Kagura_Phantasia_Lost/) | A rhythm game in which players can play popular arrangements of Touhou Project songs. | 🇬🇧, 🇯🇵, 🇨🇳 | [Alliance Arts](https://alliance-arts.co.jp)
 [东方栖霞园 ~ Blue devil in the Belvedere](https://store.steampowered.com/app/1365750/__Blue_devil_in_theBelvedere/) | Touhou cast goes to Europe after "devils" invade Gensokyo! Beware of cats! | 🇬🇧, 🇯🇵, 🇨🇳 | [东方祈华梦制作组](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6%E5%88%B6%E4%BD%9C%E7%BB%84)
 [Touhou Kikamu ~ Elegant Impermanence of Sakura](https://store.steampowered.com/app/1252320/Touhou_Kikamu__Elegant_Impermanence_of_Sakura/) | Deal with the mysterious seasonal occurrences across Gensokyo with the cast of Imperishable Night in this fangame! | 🇬🇧, 🇯🇵, 🇨🇳, 🇫🇷, 🇩🇪 | [东方祈华梦制作组](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6%E5%88%B6%E4%BD%9C%E7%BB%84)
 [Shining Shooting Star](https://en.touhouwiki.net/wiki/Shining_Shooting_Star](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%8F%E5%A4%9C%E7%A5%AD_%EF%BD%9E_Shining_Shooting_Star.)) | CN mostly! EN patched through [TH wiki](https://en.touhouwiki.net/wiki/Shining_Shooting_Star) A wide range of Touhou characters set out to find why meteors have been falling from the sky each night! | 🇨🇳, 🇬🇧* | [雨夜枫雪制作组](https://thwiki.cc/%E9%9B%A8%E5%A4%9C%E6%9E%AB%E9%9B%AA%E5%88%B6%E4%BD%9C%E7%BB%84)
@@ -189,10 +198,13 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Maribel Hearn's Touhou Portal](https://maribelhearn.com/) | A privacy-friendly collection of convenient webpages for the Touhou community. Hover your cursor over a link for a description of that page. Flags show available translations. | 🇬🇧, Certain parts are multilingual | maribelhearn@disroot.org 
+[New Touhou?](https://newtouhou.thpatch.net) | #newtouhou? | 🇬🇧 | [Thpatch](https://github.com/thpatch/newtouhou.thpatch.net)
 [TBH Wiki](https://thwiki.cc/%E9%A6%96%E9%A1%B5) | Chinese Touhou Project Wikipedia | 🇨🇳, 🇯🇵, 🇮🇹, 🇬🇧 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Community Jargon](https://maribelhearn.com/jargon) | This list contains explanations for terms and acronyms used in the community of Touhou players. It also contains general gaming and shoot 'em up terms that are relevant to Touhou. | 🇬🇧, 🇨🇳 | maribelhearn@disroot.org
 [Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [🇯🇵](https://touhougarakuta.com), [🇨🇳](https://cn.touhougarakuta.com), [🇰🇷](https://ko.touhougarakuta.com), [🇬🇧](https://en.touhougarakuta.com) | ©東方我楽多叢誌
+[Touhou Group](https://touhou.group) | List of Touhou groups in the East | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[Touhou Memories](https://touhou-memories.com) | This website is focused mainly on the games. The pages are not finished yet, bear with me, there's only one person running the website. | 🇬🇧 | [Touhou Memories](https://touhou-memories.com)
 [Touhou Popularity Vote](https://maribelhearn.com/thvote) | An English translation of the full results of the annual THWiki Popularity Poll | maribelhearn@disroot.org 
 [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) | This wiki is dedicated to the Touhou Project, a Japanese gaming series that mostly contains curtain fire shoot'em up games made by ZUN. | Multilingual, select yours in the sidebar | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
 [Touhou Wiki Japan](http://thwiki.info) | The Japanese Touhou Wiki made with PukiWuki | 🇯🇵 | [Emuqy](https://twitter.com/mktoho12)
