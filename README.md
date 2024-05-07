@@ -36,7 +36,11 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
        - [Archival](#archival)
    - #### [Gaming Communities](#gaming-communities)
      - [Danmaku Replays & Scoring](#danmaku-replays--scoring)
-  - #### [Music](#music)
+   - #### [Merchandising](#merchandising)
+       - [Shops](#shops)
+   - #### [Miscellaneous Things](#misc)
+       - [Miscellaneous](#miscellaneous)
+   - #### [Music](#music)
     - [Doujin Circles](#doujin-circles)
     - [Music Streaming](#music-streaming)
   - #### [Social](#social)
@@ -134,8 +138,11 @@ Name | Description | Language | Author
 *Touhou came out in 1996, there is a lot of history and this is the place to watch the past*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 [Dagobah Flash Gallery](https://dagobah.net/?search=touhou) | Very old videos, games, and art. Beware of the weird thumbnails! | 🇬🇧 | [Dagobah](https://dagobah.net/)
+[Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
+[NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
+
+
 
 ### Ascii
 *Did you know you could make drawings with text?*
@@ -191,7 +198,7 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [BulletForge](https://www.bulletforge.org/) | Your source of Danmakufu scripts and Danmakufu based fangames | 🇬🇧, games might be multilingual | Aaron and Abner
-[Danmaku!!](https://danmaku.party) | A curtain-fire card game inspired by Touhou ~~im not making a new section for this~~ | 🇬🇧, 🇯🇵 | [@MysteryParfait](https://twitter.com/mysteryparfait)
+[Danmaku!!](https://danmaku.party) | A curtain-fire tabletop card game inspired by Touhou ~~im not making a new section for this~~ | 🇬🇧, 🇯🇵 | [@MysteryParfait](https://twitter.com/mysteryparfait)
 [Hakurei Touhou Fangames Showcase](https://extra.hakudenkai.games/en/) | Compilation of Touhou fangames | 🇯🇵, 🇬🇧 | hakudenkai@gmail.com
 [Touhou Artificial Dream in Arcadia](https://store.steampowered.com/app/2248430/Touhou_Artificial_Dream_in_Arcadia/) | Explore Gensokyo from an outsider's perspective in this old-school Touhou DRPG! | 🇬🇧, 🇯🇵, 🇨🇳 | [Bar Holographic Otaku/Potemki11](https://en.touhouwiki.net/wiki/Potemki11)
 [Taisei Project](https://taisei-project.org/) | An open source Touhou fangame with an open development team on Github! You can even play it on your browser! | English | [Akari + Contributors](https://github.com/taisei-project/taisei)
@@ -207,11 +214,13 @@ Name | Description | Language | Author
 [東方霊守祀 ~ Consciousness' Unity of Opposites](https://store.steampowered.com/app/1712580/__Consciousness_Unity_of_Opposites/) | *In development game!* Chinese themed Touhou game that is still in development! Has a free demo for those interested in wishlisting this game for when it releases! | 🇬🇧, 🇨🇳 | [只鹳狸药堂](https://thwiki.cc/%E5%8F%AA%E9%B9%B3%E7%8B%B8%E8%8D%AF%E5%A0%82)
 [Gensokyo Night Festival](https://store.steampowered.com/app/1122050/Gensokyo_Night_Festival/) | *Heavily in development.* Pixel art game in which you control Suika who fights the denizens of Gensokyo using combinations of moves! | 🇬🇧, 🇯🇵, 🇨🇳 | [WSS Playground](https://whysoserious.jp/en/) [tea_basira](https://twitter.com/tea_basira)
 [Yoiyami Dancers: Twilight Danmaku Dancers](https://store.steampowered.com/app/1998530/Yoiyami_Dancers_Twilight_Danmaku_Dancers/) | Dodge to the beat of the rhythm while you deal with bosses and enemies in this cute side-scrolling rhythm hell! | 🇬🇧, 🇯🇵 | [tripper](https://twitter.com/7r1pp3r?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [六合ダイスケ](https://www.pixiv.net/en/users/1946476)
-[NitorInc.: Touhou Microgames](https://store.steampowered.com/app/772260/NitorInc_Touhou_Microgames/) | *This project is on indefinite hiatus, only the demo is avaliable for now.* A bunch of games based off of Warioware done in the Touhou style! | Multilingual | [NitorInc. Collab](https://twitter.com/NitorInc/status/1483544436915073028)
+Multilingual | [NitorInc. Collab](https://twitter.com/NitorInc/status/1483544436915073028)
 [Hifuu OS](https://wwhhff.itch.io/hifuu-os) | For those who are interested in Unix and Touhou's Hifuu club! | 🇬🇧, 🇨🇳 | [Hefan](https://wwhhff.itch.io/) [Nalyne](https://nalyne.itch.io/)
 [Help Me Remember, Satori-sama!](https://store.steampowered.com/app/1914970/Help_Me_Remember_Satorisama/) | A cute little game in which you deduct Okuu's questions while dealing with distractions! Detective Satori time! | 🇬🇧, 🇯🇵, 🇨🇳, 🇰🇷 | [ISY](http://mizusoba.blog.fc2.com/blog-entry-1071.html)
 [Touhou Fractured Transience](https://store.steampowered.com/app/2290860/Touhou_Fractured_Transience/) | *This game is planned for release in 2025* A 2D platform fighting game with pixel graphics! The basic premise deals with boundaries affecting residents with immortality which threatens the balance! The only way to dispel them is to fight unrestrained battles within them! | 🇬🇧, 🇯🇵 | [Tight Stuffs](https://twitter.com/StuffTight?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 [Touhou ~Red Empress Devil](https://store.steampowered.com/app/1734070/Touhou_Red_Empress_Devil/) | Roguelike BH Touhou game! If you have played "Enter The Gungeon" and wanted more BH action, then support this game! | Multilingual, check Steam page | [Studio Poco](https://twitter.com/studio_poco_en?lang=en)
+[Kubinashi Recollection](https://store.steampowered.com/app/1635980/Kubinashi_Recollection/) | In order to retrieve the lost memories, Sekibanki has a big adventure in the world of dreams! | 🇬🇧, 🇯🇵, 🇨🇳 | 給食頭蛮
+[LABYRINTH OF TOUHOU - GENSOKYO AND THE HEAVEN-PIERCING TREE](https://store.steampowered.com/app/1131920/LABYRINTH_OF_TOUHOU__GENSOKYO_AND_THE_HEAVENPIERCING_TREE/) | Challenge the Great Tree with the maidens of Gensokyo! | 🇬🇧, 🇯🇵, 🇨🇳 | Nise-Eikoku Studio, CUBETYPE
 
 
 ### Image Boards
@@ -236,6 +245,13 @@ Name | Description | Language | Author
 [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) | This wiki is dedicated to the Touhou Project, a Japanese gaming series that mostly contains curtain fire shoot'em up games made by ZUN. | Multilingual, select yours in the sidebar | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
 [Touhou Wiki Japan](http://thwiki.info) | The Japanese Touhou Wiki made with PukiWuki | 🇯🇵 | [Emuqy](https://twitter.com/mktoho12)
 
+### Miscellaneous
+*Your place for strange things that don't fin anywhere else* 
+
+*It's likely some of these things are here due to language barriers or other difficulties, if you discover something, let us know.*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Coolier](https://coolier.net/) | A place to share fanworks | 🇯🇵 | [Coolier](https://coolier.net/)
 
 ### Modding
 *Software dedicated to modify the behavior or facilitate the enjoyment of Touhou Project games*
@@ -254,7 +270,11 @@ Name | Description | Language | Author
 Name | Description | Language | Musical Genre | Author 
 ---- | ----------- | -------- | ------------- | ------
 [Gensokyo Radio](https://gensokyoradio.net) | The #1 radio station for fan-made Touhou Project arrangements since 2011. | 🇬🇧 | Radio, Multi Genre | staff@gensokyoradio.net
-[Touhou Circles' Official Music Streaming]() | Some circles' official streaming websites. | 🇬🇧 | Multi Genere | [@mgisnotactive](https://twitter.com/mgisnotactive)
+[Touhou Arrangement Chronicle](https://touhou.arrangement-chronicle.com/) | Eastern collaborative database for Touhou music, alike TouhouDB | 🇯🇵 | [Touhou Arrangement Chronicle](https://touhou.arrangement-chronicle.com/)
+[Touhou Circles' Official Music Streaming](https://docs.google.com/spreadsheets/d/1pFKf0-yMSN-tkFs2G8zBkEly1fc9klfwUb-zgJiDPyc/edit?usp=drivesdk) | Some circles' official streaming websites. | 🇬🇧 | Multi Genere | [@mgisnotactive](https://twitter.com/mgisnotactive)
+[TouhouDB](https://touhoudb.com/) | The collaborative database for Touhou music, with artists, discography, PVs and more. | 🇬🇧 | [TouhouDB](https://touhoudb.com/)
+[Touhou Karaoke Lookup](https://touhou-karaoke.com) | Search your favorite Doujin songs to sing! | 🇯🇵 | © 迷い家の白猫
+
 
 ### Danmaku Replays & Scoring
 *Find everything around replays, world records and getting high scores here!*
@@ -275,9 +295,18 @@ Name | Description | Language | Author
 *Get information on all kinds of gatherings here!*
 Name | Description | Language | Location | Author 
 ---- | ----------- | -------- | -------- | ------
+[Bunbunmaru Newspaper Fan Club](https://bunbunmaru-np.com/) | Doujin convention | 🇯🇵 | 🇯🇵 | [Bunbunmaru Newspaper Fan Club](https://bunbunmaru-np.com/)
+[Ninth Generation Tea Party](https://ninth-gen-teaparty.info/) | Doujin convention | 🇯🇵 | 🇯🇵 | [Ninth Generation Tea Party](https://ninth-gen-teaparty.info/)
 [Reitaisai](https://reitaisai.com) | Yearly, Touhou Project-only convention that takes place every Spring in Tokyo Big Sight | 🇯🇵 | Tokyo, Japan | [Reitaisai](https://reitaisai.com)
 [TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences | 🇨🇳 | Multiple | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [TouhouFest](https://www.touhoufest.org/) | Touhou fans from across the country will gather to celebrate the coming season and enjoy all the Touhou community has to offer such as art, music, and more! | 🇺🇸 | 🇺🇸 | [TouhouFest](https://www.touhoufest.org/)
+[Touhou Kouroumu](https://koromu-toho.com/) | Doujin convention that happens bi-anually | 🇯🇵 | 🇯🇵 | [Touhou Kouroumu](https://koromu-toho.com/)
+
+### Shops
+*Buy things related to Touhou project.*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Touhou Store of Countless Things](https://shop.hakurei-sukeikai.com/) | Online shop for Touhou Project goods | 🇯🇵 | © 上海アリス幻樂団, ©TABLIER MARKETING inc.
 
 ### Writing
 *Your place to enjoy written creations*
