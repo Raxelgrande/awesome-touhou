@@ -27,7 +27,9 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
   - [Official Websites](#official-websites)
 
 - ### [Fan Works](#fan-works)
-   
+   - ### Arts & Crafts
+       - [Ascii](#ascii)
+       - [Crafts](#crafts)
    - #### [Fumo](#fumo)
      - [Fumo Buying](#fumo-buying)
    - #### [History](#history)
@@ -134,6 +136,18 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 
+### Ascii
+*Did you know you could make drawings with text?*
+Name | Description | Author 
+---- | ----------- | ------
+[Touhou Ascii](http://anime.en.utf8art.com/tag/touhou/page/2) | Touhou tag in Ascii Art Archives for Recycle | | [Ascii Art Archives for Recycle](http://anime.en.utf8art.com/)
+
+### Crafts
+*Let's make and enjoy cool Touhou things made with our hands!*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Paperzone Touhou](https://paperzonevn.com/touhou.f75/) | Touhou papercrafts resource | 🇬🇧 | PaperzoneVN
+
 ### Doujin Circles
 *Your place to search things about your favorite Doujin Circles, specially music ones*
 Name | Description | Language | Musical Genre | Author 
@@ -164,8 +178,10 @@ Name | Description | Language | Author
 *Fun programs that are not games*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[uw-u.xyz](https://uw-u.xyz) | Collection of cute software related to Momiji | 🇬🇧 |  AWOO LLC
 [Doremy](https://doremy.ch/) | Doremy | Doremy | Doremy
 [Touhou Calendar](https://touhoucalendar.github.io) | This page forms a (hopefully) comprehensive list of days in use, presented in English for the Touhou Project's sizable western audience. | 🇬🇧 | [@TouhouCalendar](https://twitter.com/TouhouCalendar)
+[Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/) | What Omikuji will you draw? | 🇬🇧, 🇨🇳, 🇨🇳 | [Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/)
 [Touhou Character Sorter](https://tohosort.frelia.my) | Sorter for Touhou characters. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Character Sorter](https://github.com/execfera/charasort/)
 [Touhou Song Sorter](https://relick.me/song/) | This is a sorter for ZUN's Touhou (and other) songs. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter)
 [Yukkuri Talk](https://yukkuritalk.com) | ゆっくりしていってね！！！| 🇬🇧 | [@kdingo](https://twitter.com/kdingo)
