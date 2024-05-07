@@ -138,9 +138,10 @@ Name | Description | Language | Author
 
 ### Ascii
 *Did you know you could make drawings with text?*
-Name | Description | Author 
----- | ----------- | ------
-[Touhou Ascii](http://anime.en.utf8art.com/tag/touhou/page/2) | Touhou tag in Ascii Art Archives for Recycle | | [Ascii Art Archives for Recycle](http://anime.en.utf8art.com/)
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Touhou Ascii](http://anime.en.utf8art.com/tag/touhou/page/2) | Touhou tag in Ascii Art Archives for Recycle | 🇬🇧 | [Ascii Art Archives for Recycle](http://anime.en.utf8art.com/)
+[Touhou Aamatome](https://touhouaamatome.jougennotuki.com) | Just enjoy | 🇯🇵 | [Touhou Aamatome](https://touhouaamatome.jougennotuki.com)
 
 ### Crafts
 *Let's make and enjoy cool Touhou things made with our hands!*
@@ -165,8 +166,10 @@ Name | Description | Language | Author
 *Forums to discuss things about Touhou*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Maidens of the Kaleidoscope](https://www.shrinemaiden.com/) | Third incarnation of the MotK Forums | English | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
-[Moriya Shrine Forums](https://moriyashrine.org/forums/) | Let's discuss Touhou Project together! | English | Moriya Shrine
+[Maidens of the Kaleidoscope](https://www.shrinemaiden.com/) | Third incarnation of the MotK Forums | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
+[Moriya Shrine Forums](https://moriyashrine.org/forums/) | Let's discuss Touhou Project together! | 🇬🇧 | Moriya Shrine
+[GensoukyouDE](https://gensoukyou.de) | Jenseits der Hakurei-Barriere | 🇩🇪 | [GensoukyouDE](https://gensoukyou.de)
+[Touhou Polish](https://www.touhou.pl) | Human Meets Danmaku | 🇵🇱 | [Touhou Polish](https://www.touhou.pl)
 
 ### Fumo Buying
 *Baka Fumo Fumo ka-ching! ᗜˬᗜ*
@@ -193,6 +196,7 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [BulletForge](https://www.bulletforge.org/) | Your source of Danmakufu scripts and Danmakufu based fangames | 🇬🇧, games might be multilingual | Aaron and Abner
+[Danmaku!!](https://danmaku.party) | A curtain-fire card game inspired by Touhou ~~im not making a new section for this~~ | 🇬🇧, 🇯🇵 | [@MysteryParfait](https://twitter.com/mysteryparfait)
 [Hakurei Touhou Fangames Showcase](https://extra.hakudenkai.games/en/) | Compilation of Touhou fangames | 🇯🇵, 🇬🇧 | hakudenkai@gmail.com
 [Touhou Artificial Dream in Arcadia](https://store.steampowered.com/app/2248430/Touhou_Artificial_Dream_in_Arcadia/) | Explore Gensokyo from an outsider's perspective in this old-school Touhou DRPG! | 🇬🇧, 🇯🇵, 🇨🇳 | [Bar Holographic Otaku/Potemki11](https://en.touhouwiki.net/wiki/Potemki11)
 [Taisei Project](https://taisei-project.org/) | An open source Touhou fangame with an open development team on Github! You can even play it on your browser! | English | [Akari + Contributors](https://github.com/taisei-project/taisei)
@@ -259,6 +263,7 @@ Name | Description | Language | Author
 [Gensokyo Replay Archive](https://maribelhearn.com/gensokyo) | A complete archive of the Touhou replays from replays.gensokyo.org, with the same search functionality as said website. | 🇬🇧 | maribelhearn@disroot.org
 [Competitive PoFV](https://maribelhearn.com/pofv) | This is a portal for competitive PoFV play, featuring the current tier list, a guide to help you get started with netplay, and links to relevant resources | 🇬🇧, 🇨🇳 | maribelhearn@disroot.org
 [Royalflare Replay Archive](https://maribelhearn.com/royalflare) | On 3 January 2022, Royalflare stopped allowing replay uploads, and it will shut down at the end of the month. As such, this archive has been created to preserve all of its replays and history. Unlike the original website, these replays cannot be deleted. | 🇬🇧 | maribelhearn@disroot.org 
+[Silent Selene](https://www.silentselene.net) | Welcome to Silent Selene, the home of Touhou replays on the Internet. We support uploading replays for almost all Touhou games, so create an account and show us what you've got! | 🇬🇧 | webmaster@silentselene.net
 [The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) | This Wiki is designed to be User-Friendly, and a simple way to organize Resources for Danmaku Games. | 🇬🇧 | maribelhearn@disroot.org
 [Touhou Fangame Acomplishments](https://maribelhearn.com/fangame) | This page lists known Lunatic No Miss No Bomb (LNN) clears and notable high scores for Touhou fangames, as well as Touhou-related games. | 🇬🇧 | maribelhearn@disroot.org
 [Touhou Strategy Wiki](http://wikiwiki.jp/thk/) | Touhou Project Strategy Wiki with detailed notes on game mechanics and strategy. | 🇯🇵 | [Touhou Strategy Wiki](http://wikiwiki.jp/thk/)
