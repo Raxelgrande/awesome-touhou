@@ -27,7 +27,7 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
   - [Official Websites](#official-websites)
 
 - ### [Fan Works](#fan-works)
-   - ### Arts & Crafts
+   - ### [Arts & Crafts](#arts--crafts)
        - [Ascii](#ascii)
        - [Crafts](#crafts)
    - #### [Fumo](#fumo)
