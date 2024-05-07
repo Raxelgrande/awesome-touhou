@@ -130,6 +130,8 @@ Name | Description | Language | Author
 
 ### Archival
 *Touhou came out in 1996, there is a lot of history and this is the place to watch the past*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
 [Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 
 ### Doujin Circles
