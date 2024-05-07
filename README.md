@@ -177,7 +177,7 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Fumo Buying Guides](https://fumo.website) | With the helpful information on this site, you too can welcome a soft friend into your home. | 🇬🇧, 🇯🇵 in the linked materials | [Fumosite](https://github.com/Ununoctium117/fumosite)
 
-# Fun Software
+### Fun Software
 *Fun programs that are not games*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
