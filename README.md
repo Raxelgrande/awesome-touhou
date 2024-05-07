@@ -50,8 +50,8 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
     - [Image Boards](#image-boards)
   - #### [Information](#information)
     - [Information Websites](#information-websites)
-  - #### [Writing](#writing)
-    - [Fanfiction](#fanfiction)
+  - #### [Fanfiction](#fanfiction)
+    - [Writing](#writing)
 
 ### Official Games
 *Collection of all the games made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice) that counts as an integral part of Touhou's canon (not including Fangames with official licensing).*
@@ -156,12 +156,6 @@ Name | Description | Language | Musical Genre | Author
 ---- | ----------- | -------- | ------------- | ------
 [TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳  | Not Music | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | Not Music | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
-
-### Fanfiction
-*Your place for everything Fanfiction!*
-Name | Description | Language | Author 
----- | ----------- | -------- | ------
-[Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
 
 ### Forums
 *Forums to discuss things about Touhou*
@@ -284,3 +278,9 @@ Name | Description | Language | Location | Author
 [Reitaisai](https://reitaisai.com) | Yearly, Touhou Project-only convention that takes place every Spring in Tokyo Big Sight | 🇯🇵 | Tokyo, Japan | [Reitaisai](https://reitaisai.com)
 [TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences | 🇨🇳 | Multiple | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [TouhouFest](https://www.touhoufest.org/) | Touhou fans from across the country will gather to celebrate the coming season and enjoy all the Touhou community has to offer such as art, music, and more! | 🇺🇸 | 🇺🇸 | [TouhouFest](https://www.touhoufest.org/)
+
+### Writing
+*Your place to enjoy written creations*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
