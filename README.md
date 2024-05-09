@@ -45,9 +45,11 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
       - [Doujin Circles](#doujin-circles)
       - [Music Streaming](#music-streaming)
   - #### [Social](#social)
+    - [Blogs](#blogs)
     - [Forums](#forums)
     - [Real Life Events](#real-life-events)
   - #### [Software](#software)
+    - [Fonts](#fonts)
     - [Fun Software](#fun-software)
     - [Games](#games)
     - [Modding](#modding)
@@ -56,6 +58,7 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
   - #### [Information](#information)
     - [Information Websites](#information-websites)
   - #### [Fanfiction](#fanfiction)
+    - [Scanlation](#scanlation)
     - [Writing](#writing)
 
 ### Official Games
@@ -173,8 +176,11 @@ Name | Description | Language | Author
 [Yumemey](https://www.youtube.com/@Yumemey) | Touhou plushies are pretty cool :) | 🇬🇧 | [@Yumemimeme](https://twitter.com/Yumemimeme)
 [Yuunarii](https://www.youtube.com/@Yuunarii) | Oh yeh, I'm also a huge sucker for Touhou doujin, eurobeat and hyper techno music ♪ ~~she has a sticker shop with Touhou things~~ | 🇬🇧 | [Yuunarii](https://yuunarii.com)
 
-
-
+### Blogs
+*Look at what people write about Touhou in their personal websites*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Running PC98 Touhou on PC98](https://blog.soykaf.com/post/running-touhou-games-on-a-pc98-laptop/) | Getting Touhou games to run on a PC-9821 Na12 | 🇬🇧 | [Lainblog](https://blog.soykaf.com/)
 
 ### Crafts
 *Let's make and enjoy cool Touhou things made with our hands!*
@@ -214,6 +220,7 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [uw-u.xyz](https://uw-u.xyz) | Collection of cute software related to Momiji | 🇬🇧 |  AWOO LLC
 [Doremy](https://doremy.ch/) | Doremy | Doremy | Doremy
+[touhou98](https://touhou98.touhou.moe/) | The font used in PC98 Touhou games | 🇬🇧 | [touhou98](https://touhou98.touhou.moe/)
 [Touhou Calendar](https://touhoucalendar.github.io) | This page forms a (hopefully) comprehensive list of days in use, presented in English for the Touhou Project's sizable western audience. | 🇬🇧 | [@TouhouCalendar](https://twitter.com/TouhouCalendar)
 [Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/) | What Omikuji will you draw? | 🇬🇧, 🇨🇳, 🇨🇳 | [Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/)
 [Touhou Character Sorter](https://tohosort.frelia.my) | Sorter for Touhou characters. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Character Sorter](https://github.com/execfera/charasort/)
@@ -279,7 +286,7 @@ Name | Description | Language | Author
 *It's likely some of these things are here due to language barriers or other difficulties, if you discover something, let us know.*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Coolier](https://coolier.net/) | A place to share fanworks | 🇯🇵 | [Coolier](https://coolier.net/)
+
 
 ### Modding
 *Software dedicated to modify the behavior or facilitate the enjoyment of Touhou Project games*
@@ -329,6 +336,12 @@ Name | Description | Language | Location | Author
 [TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences | 🇨🇳 | Multiple | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [TouhouFest](https://www.touhoufest.org/) | Touhou fans from across the country will gather to celebrate the coming season and enjoy all the Touhou community has to offer such as art, music, and more! | 🇺🇸 | 🇺🇸 | [TouhouFest](https://www.touhoufest.org/)
 [Touhou Kouroumu](https://koromu-toho.com/) | Doujin convention that happens bi-anually | 🇯🇵 | 🇯🇵 | [Touhou Kouroumu](https://koromu-toho.com/)
+
+### Scanlation
+*Get your translated manga in here!*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Sanae's Bread Scans](https://sanaesbread.moe/) | We're a small scanlation team that likes to translate Touhou and Clannad doujinshi! | 🇬🇧 | contact@sanaesbread.moe
 
 ### Shops
 *Buy things related to Touhou project.*
