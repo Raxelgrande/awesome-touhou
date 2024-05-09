@@ -28,6 +28,7 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
 
 - ### [Fan Works](#fan-works)
    - #### [Arts & Crafts](#arts--crafts)
+       - [Audiovisual Creators](#audiovisual-creators)
        - [Ascii](#ascii)
        - [Crafts](#crafts)
    - #### [Fumo](#fumo)
@@ -38,11 +39,11 @@ Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been po
      - [Danmaku Replays & Scoring](#danmaku-replays--scoring)
    - #### [Merchandising](#merchandising)
        - [Shops](#shops)
-   - #### [Miscellaneous Things](#misc)
+   - #### [Miscellaneous Things](#miscellaneous-things)
        - [Miscellaneous](#miscellaneous)
    - #### [Music](#music)
-    - [Doujin Circles](#doujin-circles)
-    - [Music Streaming](#music-streaming)
+      - [Doujin Circles](#doujin-circles)
+      - [Music Streaming](#music-streaming)
   - #### [Social](#social)
     - [Forums](#forums)
     - [Real Life Events](#real-life-events)
@@ -116,6 +117,7 @@ Name | Description | Author
 ---- | ----------- | ------
 [Team Shanghai Alice Discography](https://open.spotify.com/artist/53UfU5Etv91LUU69GzTQ1X/discography/album) | Full discography available for streaming on Spotify. | Team Shanghai Alice (ZUN)
 [Twilight Frontier Discography](https://open.spotify.com/intl-es/artist/1dzPHjckgJihSzVzKOvHxO/discography/album) | Full discography available for streaming on Spotify. | Twilight Frontier, Team Shanghai Alice (ZUN) & others 
+[Romantique TP](https://www.youtube.com/@RomantiqueTp) | I recorded ZUN's MIDIs on a real Roland SC-88Pro Sound Canvas, the module they were made for. | Team Shanghai Alice (ZUN), Romantique TP
 
 ### Official Websites
 *Collection of websites & social media made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
@@ -142,14 +144,37 @@ Name | Description | Language | Author
 [Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 [NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
 
-
-
 ### Ascii
 *Did you know you could make drawings with text?*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Touhou Ascii](http://anime.en.utf8art.com/tag/touhou/page/2) | Touhou tag in Ascii Art Archives for Recycle | 🇬🇧 | [Ascii Art Archives for Recycle](http://anime.en.utf8art.com/)
 [Touhou Aamatome](https://touhouaamatome.jougennotuki.com) | Just enjoy | 🇯🇵 | [Touhou Aamatome](https://touhouaamatome.jougennotuki.com)
+
+### Audiovisual Creators
+*Find the makers of the videos you love!*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[AspreyFM](https://www.youtube.com/@AspreyFM) | I make videos on Touhou Project. Fan games or whatever idea I come up with. | 🇬🇧 | [@AspreyFM](https://twitter.com/AspreyFM)
+[fumos and other landfill](https://www.youtube.com/@fumolandfill) | I make silly plushie videos ᗜˬᗜ | 🇬🇧 | [@fumoLandfill](https://twitter.com/fumoLandfill)
+[GensouChronicle](https://www.youtube.com/@GensouChronicle) | This is a channel focused around Media Discussion, Gaming Lore, and Video Essays. | 🇬🇧 | [@GensouChronicle](https://twitter.com/GensouChronicle)
+[Ideología Inversa](https://www.youtube.com/@IdeologiaInversa) |  Canal 100% dedicado a Touhou Project | 🇲🇽 | [Ideología Inversa](https://www.youtube.com/@IdeologiaInversa)
+[Iyanez](https://www.youtube.com/@iyanez) | hello my name is iyanez i make 3d anims on blender and yea thats about it, mainly touhou stuff | 🇬🇧 | [@Iyanez11](https://twitter.com/Iyanez11)
+[Kero-san](https://www.youtube.com/@Kerosan_of_Gensokyo) | Welcome everyone ! “Welcome to Gensokyo” is a YouTube show aimed at raising awareness of the Touhou universe through its characters and story | 🇫🇷 | [@Kerosan11](https://twitter.com/Kerosan11)
+[lunaPrism](https://www.youtube.com/@lunaPrism) |  Small hitbox with a big dream. | 🇬🇧 | [@xlunaprism](https://twitter.com/xlunaprism)
+[Marco Hayabuza](https://www.youtube.com/@MarcoHayabuza) | Hago Streams y Vídeos jugando todo tipo de Juegos!! :D | 🇲🇽 | [@MarcoHayabusa](https://twitter.com/MarcoHayabusa)
+[MegamanOmega](https://www.youtube.com/@MegamanOmega184) | I'm an average Touhou player who decided "Hey, let's post all this stuff online and maybe help others get into the series". | 🇬🇧 | [MegamanOmega](https://www.youtube.com/@MegamanOmega184)
+[Megapig9001](https://www.youtube.com/@Megapig9001) | Welcome to my channel. I mainly focus on making Touhou Analysis Videos, but I also have a secondary focus on making fangames. | 🇬🇧 | [@megapig9001](https://twitter.com/megapig9001)
+[Mush-Broom](https://www.youtube.com/@mush-broom) |  Hello there, I'm currently making some weird kind of animations, enjoy!  | 🇬🇧 | [@MushBroom1](https://twitter.com/MushBroom1)
+[PerlDrop](https://www.youtube.com/@PerlDrop) |  I make shitty videos and sometimes music. | 🇬🇧 | [PerlDrop](https://www.youtube.com/@PerlDrop)
+[Sr Pelo](https://www.youtube.com/@SrPelo) |  Hi! I am Pelo, hope you enjoy the ride | 🇲🇽, 🇬🇧 | [Sr Pelo](https://srpelo.newgrounds.com/)
+[Spirit-Eye](https://www.youtube.com/@spirit-eye) | Hello, I mainly do videos about Touhou ~~a lot of PC98 content~~ | 🇬🇧 | [@SpiritEye4](https://twitter.com/SpiritEye4)
+[Vegemite-Flavored Indomie](https://www.youtube.com/@vegemiteflavoredindomie) | I make MMD videos with varying degrees of quality | 🇮🇩, 🇬🇧 | [@ALLHAILDURIANS](https://twitter.com/ALLHAILDURIANS)
+[Yumemey](https://www.youtube.com/@Yumemey) | Touhou plushies are pretty cool :) | 🇬🇧 | [@Yumemimeme](https://twitter.com/Yumemimeme)
+[Yuunarii](https://www.youtube.com/@Yuunarii) | Oh yeh, I'm also a huge sucker for Touhou doujin, eurobeat and hyper techno music ♪ ~~she has a sticker shop with Touhou things~~ | 🇬🇧 | [Yuunarii](https://yuunarii.com)
+
+
+
 
 ### Crafts
 *Let's make and enjoy cool Touhou things made with our hands!*
@@ -161,6 +186,10 @@ Name | Description | Language | Author
 *Your place to search things about your favorite Doujin Circles, specially music ones*
 Name | Description | Language | Musical Genre | Author 
 ---- | ----------- | -------- | ------------- | ------
+[Artifex](https://www.youtube.com/@nonartifex/featured) | I am just a regular Touhou musician. | 🎶 | Remaster | [Artifex](https://nonartifex.bandcamp.com/)
+[Karl Zuñiga](https://www.youtube.com/@KarlZuniga) | I do transcriptions, arrangements, recreations, etc. (Mainly from Touhou) | 🎶, 🇲🇽, 🇬🇧 | Remaster | [@KarlZuniga22](https://twitter.com/KarlZuniga22)
+[MiragEden](https://www.youtube.com/@Ebansun) | I mainly engage in activities such as Touhou-style original compositions and Touhou arrangements. | 🎶, 🇯🇵 | Remaster | [MiragEden](https://www.youtube.com/@Ebansun)
+[Paradise of Boundaries](https://twitter.com/POfBoundaries) | Comunidad y Círculo Doujin Hispano de Touhou Project | 🇲🇽 | Multiple Works | [Paradise of Boundaries](https://twitter.com/POfBoundaries)
 [TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳  | Not Music | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | Not Music | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
@@ -214,7 +243,6 @@ Name | Description | Language | Author
 [東方霊守祀 ~ Consciousness' Unity of Opposites](https://store.steampowered.com/app/1712580/__Consciousness_Unity_of_Opposites/) | *In development game!* Chinese themed Touhou game that is still in development! Has a free demo for those interested in wishlisting this game for when it releases! | 🇬🇧, 🇨🇳 | [只鹳狸药堂](https://thwiki.cc/%E5%8F%AA%E9%B9%B3%E7%8B%B8%E8%8D%AF%E5%A0%82)
 [Gensokyo Night Festival](https://store.steampowered.com/app/1122050/Gensokyo_Night_Festival/) | *Heavily in development.* Pixel art game in which you control Suika who fights the denizens of Gensokyo using combinations of moves! | 🇬🇧, 🇯🇵, 🇨🇳 | [WSS Playground](https://whysoserious.jp/en/) [tea_basira](https://twitter.com/tea_basira)
 [Yoiyami Dancers: Twilight Danmaku Dancers](https://store.steampowered.com/app/1998530/Yoiyami_Dancers_Twilight_Danmaku_Dancers/) | Dodge to the beat of the rhythm while you deal with bosses and enemies in this cute side-scrolling rhythm hell! | 🇬🇧, 🇯🇵 | [tripper](https://twitter.com/7r1pp3r?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [六合ダイスケ](https://www.pixiv.net/en/users/1946476)
-Multilingual | [NitorInc. Collab](https://twitter.com/NitorInc/status/1483544436915073028)
 [Hifuu OS](https://wwhhff.itch.io/hifuu-os) | For those who are interested in Unix and Touhou's Hifuu club! | 🇬🇧, 🇨🇳 | [Hefan](https://wwhhff.itch.io/) [Nalyne](https://nalyne.itch.io/)
 [Help Me Remember, Satori-sama!](https://store.steampowered.com/app/1914970/Help_Me_Remember_Satorisama/) | A cute little game in which you deduct Okuu's questions while dealing with distractions! Detective Satori time! | 🇬🇧, 🇯🇵, 🇨🇳, 🇰🇷 | [ISY](http://mizusoba.blog.fc2.com/blog-entry-1071.html)
 [Touhou Fractured Transience](https://store.steampowered.com/app/2290860/Touhou_Fractured_Transience/) | *This game is planned for release in 2025* A 2D platform fighting game with pixel graphics! The basic premise deals with boundaries affecting residents with immortality which threatens the balance! The only way to dispel them is to fight unrestrained battles within them! | 🇬🇧, 🇯🇵 | [Tight Stuffs](https://twitter.com/StuffTight?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
@@ -259,7 +287,7 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [LunarCast Network](http://lunarcast.net/) | LunarCast Network hosts various projects and services such as Danmakufu Remake and the Replay Database! | 🇬🇧 | LunarCast Network
 [Survival Progress Table Generator](https://maribelhearn.com/survival) | Fill in the best survivals you have pulled off in the table below. Click 'Save' in the top left to save your progress. | 🇬🇧 | maribelhearn@disroot.org
-[Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | 🇬🇧 | SpaceBanana420
+[Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | 🇬🇧 | [SpaceBanana420](https://spacebanana.pt/)
 [Touhou Danmakufu](http://dmf.shrinemaiden.org/) | A relatively easy-to-use STG maker program which leans toward making Touhou Project-style games with a C-like programming language. | 🇬🇧 | Touhou Danmakufu
 [Touhou Patches and Tools](https://maribelhearn.com/tools) | This page contains download links to all kinds of different patches or tools applicable to the official Touhou shooting games. | Multilingual | maribelhearn@disroot.org 
 
@@ -313,3 +341,4 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
+
