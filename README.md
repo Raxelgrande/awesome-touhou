@@ -53,7 +53,8 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
    - #### [History](#history)
        - [Archival](#archival)
    - #### [Gaming Communities](#gaming-communities)
-     - [Danmaku Replays & Scoring](#danmaku-replays--scoring)
+     - [Competitive Danmaku Replays & Scoring](#competitive-danmaku-replays--scoring)
+     - [Fighting Games](#fighting-games)
    - #### [Merchandising](#merchandising)
        - [Shops](#shops)
    - #### [Miscellaneous Things](#miscellaneous-things)
@@ -199,6 +200,23 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Running PC98 Touhou on PC98](https://blog.soykaf.com/post/running-touhou-games-on-a-pc98-laptop/) | Getting Touhou games to run on a PC-9821 Na12 | 🇬🇧 | [Lainblog](https://blog.soykaf.com/)
 
+### Competitive Danmaku Replays & Scoring
+*Find everything around replays, world records, bullet helling with friends and getting high scores here!*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Dodging Rain Competition](https://maribelhearn.com/drc) |  Two teams go up against each other in several different categories. | Multilingual | maribelhearn@disroot.org
+[High Score Storage](https://maribelhearn.com/scoring) | Enter your high scores. You can leave any high score empty | 🇬🇧 | maribelhearn@disroot.org
+[Gensokyo Replay Archive](https://maribelhearn.com/gensokyo) | A complete archive of the Touhou replays from replays.gensokyo.org, with the same search functionality as said website. | 🇬🇧 | maribelhearn@disroot.org
+[Competitive PoFV](https://maribelhearn.com/pofv) | This is a portal for competitive PoFV play, featuring the current tier list, a guide to help you get started with netplay, and links to relevant resources | 🇬🇧, 🇨🇳 | maribelhearn@disroot.org
+[Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE) | Welcome to the PoFV netplay server! | 🇬🇧, Multilingual | [Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE)
+[Royalflare Replay Archive](https://maribelhearn.com/royalflare) | On 3 January 2022, Royalflare stopped allowing replay uploads, and it will shut down at the end of the month. As such, this archive has been created to preserve all of its replays and history. Unlike the original website, these replays cannot be deleted. | 🇬🇧 | maribelhearn@disroot.org 
+[Silent Selene](https://www.silentselene.net) | Welcome to Silent Selene, the home of Touhou replays on the Internet. We support uploading replays for almost all Touhou games, so create an account and show us what you've got! | 🇬🇧 | webmaster@silentselene.net
+[The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) | This Wiki is designed to be User-Friendly, and a simple way to organize Resources for Danmaku Games. | 🇬🇧 | maribelhearn@disroot.org
+[Touhou Fangame Acomplishments](https://maribelhearn.com/fangame) | This page lists known Lunatic No Miss No Bomb (LNN) clears and notable high scores for Touhou fangames, as well as Touhou-related games. | 🇬🇧 | maribelhearn@disroot.org
+[Touhou Strategy Wiki](http://wikiwiki.jp/thk/) | Touhou Project Strategy Wiki with detailed notes on game mechanics and strategy. | 🇯🇵 | [Touhou Strategy Wiki](http://wikiwiki.jp/thk/)
+[Touhou World Records](https://maribelhearn.com/wr) | An accurate list of Touhou world records, updated every so often. | Multilingual | maribelhearn@disroot.org
+
+
 ### Crafts
 *Let's make and enjoy cool Touhou things made with our hands!*
 Name | Description | Language | Author 
@@ -215,6 +233,11 @@ Name | Description | Language | Musical Genre | Author
 [Paradise of Boundaries](https://twitter.com/POfBoundaries) | Comunidad y Círculo Doujin Hispano de Touhou Project | 🇲🇽 | Multiple Works | [Paradise of Boundaries](https://twitter.com/POfBoundaries)
 [TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳  | Not Music | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | Not Music | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
+
+### Fighting Games
+[Hisouten Discord](https://discord.gg/hisouten) | This is the main server for Touhou 12.3 Hisoutensoku and the international Hisoutensoku community. | 🇬🇧 | [Soku Delthas](https://soku.delthas.fr/)
+[Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List) | List of other Discord servers with Soku communities | Multilingual | [Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List)
+[Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) | Your source of information for everything Hisoutensoku | 🇬🇧 | [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
 
 ### Forums
 *Forums to discuss things about Touhou*
@@ -272,6 +295,7 @@ Name | Description | Language | Author
 [Hifuu OS](https://wwhhff.itch.io/hifuu-os) | For those who are interested in Unix and Touhou's Hifuu club! | 🇬🇧, 🇨🇳 | [Hefan](https://wwhhff.itch.io/) [Nalyne](https://nalyne.itch.io/)
 [Help Me Remember, Satori-sama!](https://store.steampowered.com/app/1914970/Help_Me_Remember_Satorisama/) | A cute little game in which you deduct Okuu's questions while dealing with distractions! Detective Satori time! | 🇬🇧, 🇯🇵, 🇨🇳, 🇰🇷 | [ISY](http://mizusoba.blog.fc2.com/blog-entry-1071.html)
 [Touhou Fractured Transience](https://store.steampowered.com/app/2290860/Touhou_Fractured_Transience/) | *This game is planned for release in 2025* A 2D platform fighting game with pixel graphics! The basic premise deals with boundaries affecting residents with immortality which threatens the balance! The only way to dispel them is to fight unrestrained battles within them! | 🇬🇧, 🇯🇵 | [Tight Stuffs](https://twitter.com/StuffTight?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+[Touhou Fumo Racing](https://honkyhood11.itch.io/touhou-fumo-racing) | Embody a Fumo and compete on a wacky karting race against other fumo-fied Touhou Characters! Play alone against AI-controlled racers or with up to 4 friends on splitscreen multiplayer. | 🇬🇧 | [Touhou Fumo Racing](https://honkyhood11.itch.io/touhou-fumo-racing)
 [Touhou ~Red Empress Devil](https://store.steampowered.com/app/1734070/Touhou_Red_Empress_Devil/) | Roguelike BH Touhou game! If you have played "Enter The Gungeon" and wanted more BH action, then support this game! | Multilingual, check Steam page | [Studio Poco](https://twitter.com/studio_poco_en?lang=en)
 [Kubinashi Recollection](https://store.steampowered.com/app/1635980/Kubinashi_Recollection/) | In order to retrieve the lost memories, Sekibanki has a big adventure in the world of dreams! | 🇬🇧, 🇯🇵, 🇨🇳 | 給食頭蛮
 [LABYRINTH OF TOUHOU - GENSOKYO AND THE HEAVEN-PIERCING TREE](https://store.steampowered.com/app/1131920/LABYRINTH_OF_TOUHOU__GENSOKYO_AND_THE_HEAVENPIERCING_TREE/) | Challenge the Great Tree with the maidens of Gensokyo! | 🇬🇧, 🇯🇵, 🇨🇳 | Nise-Eikoku Studio, CUBETYPE
@@ -327,22 +351,6 @@ Name | Description | Language | Musical Genre | Author
 [Touhou Circles' Official Music Streaming](https://docs.google.com/spreadsheets/d/1pFKf0-yMSN-tkFs2G8zBkEly1fc9klfwUb-zgJiDPyc/edit?usp=drivesdk) | Some circles' official streaming websites. | 🇬🇧 | Multi Genere | [@mgisnotactive](https://twitter.com/mgisnotactive)
 [TouhouDB](https://touhoudb.com/) | The collaborative database for Touhou music, with artists, discography, PVs and more. | 🇬🇧 | [TouhouDB](https://touhoudb.com/)
 [Touhou Karaoke Lookup](https://touhou-karaoke.com) | Search your favorite Doujin songs to sing! | 🇯🇵 | © 迷い家の白猫
-
-
-### Danmaku Replays & Scoring
-*Find everything around replays, world records and getting high scores here!*
-Name | Description | Language | Author 
----- | ----------- | -------- | ------
-[Dodging Rain Competition](https://maribelhearn.com/drc) |  Two teams go up against each other in several different categories. | Multilingual | maribelhearn@disroot.org
-[High Score Storage](https://maribelhearn.com/scoring) | Enter your high scores. You can leave any high score empty | 🇬🇧 | maribelhearn@disroot.org
-[Gensokyo Replay Archive](https://maribelhearn.com/gensokyo) | A complete archive of the Touhou replays from replays.gensokyo.org, with the same search functionality as said website. | 🇬🇧 | maribelhearn@disroot.org
-[Competitive PoFV](https://maribelhearn.com/pofv) | This is a portal for competitive PoFV play, featuring the current tier list, a guide to help you get started with netplay, and links to relevant resources | 🇬🇧, 🇨🇳 | maribelhearn@disroot.org
-[Royalflare Replay Archive](https://maribelhearn.com/royalflare) | On 3 January 2022, Royalflare stopped allowing replay uploads, and it will shut down at the end of the month. As such, this archive has been created to preserve all of its replays and history. Unlike the original website, these replays cannot be deleted. | 🇬🇧 | maribelhearn@disroot.org 
-[Silent Selene](https://www.silentselene.net) | Welcome to Silent Selene, the home of Touhou replays on the Internet. We support uploading replays for almost all Touhou games, so create an account and show us what you've got! | 🇬🇧 | webmaster@silentselene.net
-[The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) | This Wiki is designed to be User-Friendly, and a simple way to organize Resources for Danmaku Games. | 🇬🇧 | maribelhearn@disroot.org
-[Touhou Fangame Acomplishments](https://maribelhearn.com/fangame) | This page lists known Lunatic No Miss No Bomb (LNN) clears and notable high scores for Touhou fangames, as well as Touhou-related games. | 🇬🇧 | maribelhearn@disroot.org
-[Touhou Strategy Wiki](http://wikiwiki.jp/thk/) | Touhou Project Strategy Wiki with detailed notes on game mechanics and strategy. | 🇯🇵 | [Touhou Strategy Wiki](http://wikiwiki.jp/thk/)
-[Touhou World Records](https://maribelhearn.com/wr) | An accurate list of Touhou world records, updated every so often. | Multilingual | maribelhearn@disroot.org
 
 ### Real Life Events
 *Get information on all kinds of gatherings here!*
