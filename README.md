@@ -7,6 +7,8 @@ Our goal is curating the best of the best The Community has made, with the idea 
 
 We really value your help, without it, this project would wither away very quickly. Please read the following section if you are interested in helping out.
 
+New to Touhou? Please read [Getting Started (shoot 'em up focused)](https://en.touhouwiki.net/wiki/Getting_Started), [Fandom](https://en.touhouwiki.net/wiki/Fandom) and [Touhou Reddit's Geting Started](https://www.reddit.com/r/touhou/comments/yt87b4/where_to_get_started_with_touhou_version_51/)
+
 ## Contributing, Rules & Legal Information
 If your work is mentioned in this project and you don't want to have it displayed, please contact us.
 
@@ -65,6 +67,7 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
       - [Music Streaming](#music-streaming)
   - #### [Social](#social)
     - [Blogs](#blogs)
+    - [Chatrooms](#chatrooms)
     - [Forums](#forums)
     - [Real Life Events](#real-life-events)
   - #### [Software](#software)
@@ -200,6 +203,14 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Running PC98 Touhou on PC98](https://blog.soykaf.com/post/running-touhou-games-on-a-pc98-laptop/) | Getting Touhou games to run on a PC-9821 Na12 | 🇬🇧 | [Lainblog](https://blog.soykaf.com/)
+
+### Chatrooms
+*Chat with people fond of Touhou!*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Paradise of Boundaries](https://discord.gg/DFguh3GYG2) | Comunidad y Círculo Creativo Hispano dedicado a Touhou Project. Nuestro propósito es incentivar y crear contenido con el fin de fortalecer y expandir a la comunidad hispana. | 🇲🇽 | [Paradise of Boundaries](https://discord.gg/DFguh3GYG2)
+[The Gap](https://discord.gg/2hu) | Your place to find more curated Discord servers | 🇬🇧, Multilingual servers | [The Gap](https://discord.gg/2hu)
+[Touhou Discord](https://discord.com/invite/touhou) | The largest Touhou Project server on Discord! | 🇬🇧 | [Touhou Discord](https://discord.com/invite/touhou)
 
 ### Competitive Danmaku Replays & Scoring
 *Find everything around replays, world records, bullet helling with friends and getting high scores here!*
