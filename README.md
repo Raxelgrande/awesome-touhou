@@ -29,7 +29,7 @@ You can also give ideas for the project and everything that can improve it is we
 ## Thanks & Contributors 
 - [Maribel Hearn's Touhou Portal](https://maribelhearn.com/)
 
-I want to specially thank Mari for creating this amazing resource, it served as inspiration and as a source for several things in this list. 
+I want to specially thank Maribel for creating this amazing resource, it served as inspiration and as a source for several things in this list. 
 
 - [English Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 - [TBH Wiki](https://thwiki.cc/%E9%A6%96%E9%A1%B5)
@@ -224,6 +224,8 @@ Name | Description | Language | Author
 [Moriya Shrine Forums](https://moriyashrine.org/forums/) | Let's discuss Touhou Project together! | 🇬🇧 | Moriya Shrine
 [GensoukyouDE](https://gensoukyou.de) | Jenseits der Hakurei-Barriere | 🇩🇪 | [GensoukyouDE](https://gensoukyou.de)
 [Touhou Polish](https://www.touhou.pl) | Human Meets Danmaku | 🇵🇱 | [Touhou Polish](https://www.touhou.pl)
+[Touhou Music Reddit](https://www.reddit.com/r/TOUHOUMUSIC/) | Touhou music is awesome. Share your favorite original or arranged Touhou songs. | 🇬🇧 | [Touhou Music Reddit](https://www.reddit.com/r/TOUHOUMUSIC/)
+[Touhou Reddit](https://www.reddit.com/r/touhou/) | This subreddit is devoted to sharing the wonderful Touhou series with the Reddit community. | 🇬🇧 | [Touhou Reddit](https://www.reddit.com/r/touhou/)
 
 ### Fumo Buying
 *Baka Fumo Fumo ka-ching! ᗜˬᗜ*
