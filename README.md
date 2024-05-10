@@ -50,6 +50,7 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
        - [Crafts](#crafts)
    - #### [Fumo](#fumo)
      - [Fumo Buying](#fumo-buying)
+     - [Fumo Lore](#fumo-lore)
    - #### [History](#history)
        - [Archival](#archival)
    - #### [Gaming Communities](#gaming-communities)
@@ -249,6 +250,14 @@ Name | Description | Language | Author
 [Touhou Polish](https://www.touhou.pl) | Human Meets Danmaku | 🇵🇱 | [Touhou Polish](https://www.touhou.pl)
 [Touhou Music Reddit](https://www.reddit.com/r/TOUHOUMUSIC/) | Touhou music is awesome. Share your favorite original or arranged Touhou songs. | 🇬🇧 | [Touhou Music Reddit](https://www.reddit.com/r/TOUHOUMUSIC/)
 [Touhou Reddit](https://www.reddit.com/r/touhou/) | This subreddit is devoted to sharing the wonderful Touhou series with the Reddit community. | 🇬🇧 | [Touhou Reddit](https://www.reddit.com/r/touhou/)
+
+### Fumo Lore
+*Fumo learn! Fumo very ~~not so~~ smart! ᗜˬᗜ*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[ANGELTYPE](https://angeltype.under.jp) | Website of the original creator of the Fumos (not Gift) | 🇯🇵 | [ANGELTYPE](https://angeltype.under.jp)
+[FumoFumo](https://en.touhouwiki.net/wiki/FumoFumo) | Touhou Wiki's page on Fumos | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
+[Gift Gift](https://www.gift-gift.jp/) | Website of the makers of the Fumo, Gift | 🇯🇵 | [Gift Gift](https://www.gift-gift.jp/)
 
 ### Fumo Buying
 *Baka Fumo Fumo ka-ching! ᗜˬᗜ*
