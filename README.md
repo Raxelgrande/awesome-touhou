@@ -1,14 +1,30 @@
-# Awesome Touhou
-A community driven list with the goal of gathering everything valuable in the Touhou Community.
+# Awesome Touhou [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A community driven list of everything valuable and interesting in the Touhou Community.
 
-## Contributing & Legal Information
+Touhou is among the biggest and oldest communities in the internet, spanning multiple languages and subcultures, you can find just about everything and this is very intimidating to newcomers and veterans alike. Touhou History is vast and that makes it hard to navigate, but not anymore!
+
+Our goal is curating the best of the best The Community has made, with the idea to facilitate discoverability, archival/historical efforts and make community contact between different parts of the fandom easier.
+
+We really value your help, without it, this project would wither away very quickly. Please read the following section if you are interested in helping out.
+
+## Contributing, Rules & Legal Information
 If your work is mentioned in this project and you don't want to have it displayed, please contact us.
 
-We follow [The Guidelines for Touhou Project Fan Creations](https://touhou-project.news/guidelines_en/), if you find a violation of this, please let us know and we will take action to remove the content from the list.
+We follow [The Guidelines for Touhou Project Fan Creations](https://touhou-project.news/guidelines_en/), if you find a violation of this, please let us know and we will take action to remove the content from the list. We also have a few additional rules:
+
+- Don't Be An Asshole:
+The media here must be digestible to a wide audience. It has to contain things that are respectful and considerate to other people's circumstances. If necessary, this rule will get expanded, your morality and common sense should be good enough to respect others, don't prove us wrong.
+
+- No Spam:
+We value effort and the most widely useful information. Outside certain cases like Wikis or important content, we avoid giving too much attention to a few individuals to give everyone a fair chance. For example, if you are an artist that wants to be here, link your main platform and avoid placing your pieces individually.
 
 Feel welcome to contribute! Please submit a pull request, create an issue or contact me. 
 We ask that in your contributions, specifically pull requests, you edit `README.md`.
-It is also important that in your pull request you follow the correct markdown format.
+It is also important that in your pull request you follow the correct markdown format. Follow the alphabetical order when adding new things and give some reasoning behind why adding XYZ to the list is a good idea in your issue/pull request.
+
+You can also give ideas for the project and everything that can improve it is welcome. If you don't know how to work with Github's version control and contributing system (Git), see this detailed [Guide](https://docs.github.com/pull-requests) made by Github
+
+ 
 
 ## Thanks & Contributors 
 - [Maribel Hearn's Touhou Portal](https://maribelhearn.com/)
@@ -16,8 +32,9 @@ It is also important that in your pull request you follow the correct markdown f
 I want to specially thank Mari for creating this amazing resource, it served as inspiration and as a source for several things in this list. 
 
 - [English Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+- [TBH Wiki](https://thwiki.cc/%E9%A6%96%E9%A1%B5)
 
-Without the amazing work of the Touhou Wiki, this endeavor wouldn't have been possible. Multiple things from this list come from here.
+Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been possible. Multiple things from this list come from here.
 
 ## Table of Contents
 - ### [Official Works](#official-works)
@@ -271,7 +288,6 @@ Name | Description | Language | Author
 [Maribel Hearn's Touhou Portal](https://maribelhearn.com/) | A privacy-friendly collection of convenient webpages for the Touhou community. Hover your cursor over a link for a description of that page. Flags show available translations. | 🇬🇧, Certain parts are multilingual | maribelhearn@disroot.org 
 [New Touhou?](https://newtouhou.thpatch.net) | #newtouhou? | 🇬🇧 | [Thpatch](https://github.com/thpatch/newtouhou.thpatch.net)
 [TBH Wiki](https://thwiki.cc/%E9%A6%96%E9%A1%B5) | Chinese Touhou Project Wikipedia | 🇨🇳, 🇯🇵, 🇮🇹, 🇬🇧 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
-[TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Community Jargon](https://maribelhearn.com/jargon) | This list contains explanations for terms and acronyms used in the community of Touhou players. It also contains general gaming and shoot 'em up terms that are relevant to Touhou. | 🇬🇧, 🇨🇳 | maribelhearn@disroot.org
 [Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [🇯🇵](https://touhougarakuta.com), [🇨🇳](https://cn.touhougarakuta.com), [🇰🇷](https://ko.touhougarakuta.com), [🇬🇧](https://en.touhougarakuta.com) | ©東方我楽多叢誌
 [Touhou Group](https://touhou.group) | List of Touhou groups in the East | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
