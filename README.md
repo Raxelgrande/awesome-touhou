@@ -251,6 +251,12 @@ Name | Description | Language | Author
 [Touhou Music Reddit](https://www.reddit.com/r/TOUHOUMUSIC/) | Touhou music is awesome. Share your favorite original or arranged Touhou songs. | 🇬🇧 | [Touhou Music Reddit](https://www.reddit.com/r/TOUHOUMUSIC/)
 [Touhou Reddit](https://www.reddit.com/r/touhou/) | This subreddit is devoted to sharing the wonderful Touhou series with the Reddit community. | 🇬🇧 | [Touhou Reddit](https://www.reddit.com/r/touhou/)
 
+### Fumo Buying
+*Baka Fumo Fumo ka-ching! ᗜˬᗜ*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Fumo Buying Guides](https://fumo.website) | With the helpful information on this site, you too can welcome a soft friend into your home. | 🇬🇧, 🇯🇵 in the linked materials | [Fumosite](https://github.com/Ununoctium117/fumosite)
+
 ### Fumo Lore
 *Fumo learn! Fumo very ~~not so~~ smart! ᗜˬᗜ*
 Name | Description | Language | Author 
@@ -258,12 +264,6 @@ Name | Description | Language | Author
 [ANGELTYPE](https://angeltype.under.jp) | Website of the original creator of the Fumos (not Gift) | 🇯🇵 | [ANGELTYPE](https://angeltype.under.jp)
 [FumoFumo](https://en.touhouwiki.net/wiki/FumoFumo) | Touhou Wiki's page on Fumos | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
 [Gift Gift](https://www.gift-gift.jp/) | Website of the makers of the Fumo, Gift | 🇯🇵 | [Gift Gift](https://www.gift-gift.jp/)
-
-### Fumo Buying
-*Baka Fumo Fumo ka-ching! ᗜˬᗜ*
-Name | Description | Language | Author 
----- | ----------- | -------- | ------
-[Fumo Buying Guides](https://fumo.website) | With the helpful information on this site, you too can welcome a soft friend into your home. | 🇬🇧, 🇯🇵 in the linked materials | [Fumosite](https://github.com/Ununoctium117/fumosite)
 
 ### Fun Software
 *Fun programs that are not games*
