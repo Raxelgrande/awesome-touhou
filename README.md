@@ -187,6 +187,7 @@ Name | Description | Language | Author
 [AspreyFM](https://www.youtube.com/@AspreyFM) | I make videos on Touhou Project. Fan games or whatever idea I come up with. | 🇬🇧 | [@AspreyFM](https://twitter.com/AspreyFM)
 [fumos and other landfill](https://www.youtube.com/@fumolandfill) | I make silly plushie videos ᗜˬᗜ | 🇬🇧 | [@fumoLandfill](https://twitter.com/fumoLandfill)
 [GensouChronicle](https://www.youtube.com/@GensouChronicle) | This is a channel focused around Media Discussion, Gaming Lore, and Video Essays. | 🇬🇧 | [@GensouChronicle](https://twitter.com/GensouChronicle)
+[Gesh86](https://www.youtube.com/@Gesh86) | Currently, Touhou-related games as well as games for classic systems dominate my channel
 [Ideología Inversa](https://www.youtube.com/@IdeologiaInversa) |  Canal 100% dedicado a Touhou Project | 🇲🇽 | [Ideología Inversa](https://www.youtube.com/@IdeologiaInversa)
 [Iyanez](https://www.youtube.com/@iyanez) | hello my name is iyanez i make 3d anims on blender and yea thats about it, mainly touhou stuff | 🇬🇧 | [@Iyanez11](https://twitter.com/Iyanez11)
 [Kero-san](https://www.youtube.com/@Kerosan_of_Gensokyo) | Welcome everyone ! “Welcome to Gensokyo” is a YouTube show aimed at raising awareness of the Touhou universe through its characters and story | 🇫🇷 | [@Kerosan11](https://twitter.com/Kerosan11)
@@ -196,8 +197,11 @@ Name | Description | Language | Author
 [Megapig9001](https://www.youtube.com/@Megapig9001) | Welcome to my channel. I mainly focus on making Touhou Analysis Videos, but I also have a secondary focus on making fangames. | 🇬🇧 | [@megapig9001](https://twitter.com/megapig9001)
 [Mush-Broom](https://www.youtube.com/@mush-broom) |  Hello there, I'm currently making some weird kind of animations, enjoy!  | 🇬🇧 | [@MushBroom1](https://twitter.com/MushBroom1)
 [PerlDrop](https://www.youtube.com/@PerlDrop) |  I make shitty videos and sometimes music. | 🇬🇧 | [PerlDrop](https://www.youtube.com/@PerlDrop)
+[Reddevils500](https://www.youtube.com/@reddevils500) | Here are some of the videos that you've missed from Nico Nico Douga. Those are not created by me. Credits to the nico users. | 🇬🇧 | [Reddevils500](https://www.youtube.com/@reddevils500)
 [Sr Pelo](https://www.youtube.com/@SrPelo) |  Hi! I am Pelo, hope you enjoy the ride | 🇲🇽, 🇬🇧 | [Sr Pelo](https://srpelo.newgrounds.com/)
+[Surnist](https://www.youtube.com/@Surnist) | I'm posting videos regarding Touhou, often asking questions around the series and the world around it every so often | 🇬🇧 | 
 [Spirit-Eye](https://www.youtube.com/@spirit-eye) | Hello, I mainly do videos about Touhou ~~a lot of PC98 content~~ | 🇬🇧 | [@SpiritEye4](https://twitter.com/SpiritEye4)
+[TenkkoEX](https://www.youtube.com/@TenkkoEX) | Heyo I'm Tenkko, a dude who likes Touhou and makes videos about different topics related to the series. Lore, gameplay, fanworks, a little bit of everything. | 🇬🇧 | [TenkkoEX](https://www.youtube.com/@TenkkoEX)
 [Vegemite-Flavored Indomie](https://www.youtube.com/@vegemiteflavoredindomie) | I make MMD videos with varying degrees of quality | 🇮🇩, 🇬🇧 | [@ALLHAILDURIANS](https://twitter.com/ALLHAILDURIANS)
 [Yumemey](https://www.youtube.com/@Yumemey) | Touhou plushies are pretty cool :) | 🇬🇧 | [@Yumemimeme](https://twitter.com/Yumemimeme)
 [Yuunarii](https://www.youtube.com/@Yuunarii) | Oh yeh, I'm also a huge sucker for Touhou doujin, eurobeat and hyper techno music ♪ ~~she has a sticker shop with Touhou things~~ | 🇬🇧 | [Yuunarii](https://yuunarii.com)
@@ -244,6 +248,7 @@ Name | Description | Language | Author
 Name | Description | Language | Musical Genre | Author 
 ---- | ----------- | -------- | ------------- | ------
 [Artifex](https://www.youtube.com/@nonartifex/featured) | I am just a regular Touhou musician. | 🎶 | Remaster | [Artifex](https://nonartifex.bandcamp.com/)
+[Jesselejohn](https://www.youtube.com/@Jesselejohn) | Welcome to my channel, specializing (mostly) in fanmade remixes of Touhou's PC-98 (And Seihou) music done in ZUN's style. | 🎶 | Remaster | [Jesselejohn](https://www.youtube.com/@Jesselejohn)
 [Karl Zuñiga](https://www.youtube.com/@KarlZuniga) | I do transcriptions, arrangements, recreations, etc. (Mainly from Touhou) | 🎶, 🇲🇽, 🇬🇧 | Remaster | [@KarlZuniga22](https://twitter.com/KarlZuniga22)
 [MiragEden](https://www.youtube.com/@Ebansun) | I mainly engage in activities such as Touhou-style original compositions and Touhou arrangements. | 🎶, 🇯🇵 | Remaster | [MiragEden](https://www.youtube.com/@Ebansun)
 [Paradise of Boundaries](https://twitter.com/POfBoundaries) | Comunidad y Círculo Doujin Hispano de Touhou Project | 🇲🇽 | Multiple Works | [Paradise of Boundaries](https://twitter.com/POfBoundaries)
