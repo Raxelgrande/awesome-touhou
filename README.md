@@ -1,4 +1,8 @@
-# Awesome Touhou [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Touhou [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+![pepi_touhou](https://github.com/Raxelgrande/awesome-touhou/assets/93939943/a8ad9fe7-0eff-44bc-ac5f-3dc0dff58821)
+
+Made by [Soph](https://twitter.com/ningyou_saiban)
+
 A community driven list of everything valuable and interesting in the Touhou Community.
 
 Touhou is among the biggest and oldest communities in the internet, spanning multiple languages and subcultures, you can find just about everything and this is very intimidating to newcomers and veterans alike. Touhou History is vast and that makes it hard to navigate, but not anymore!
