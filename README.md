@@ -361,7 +361,7 @@ Name | Description | Language | Author
 [LunarCast Network](http://lunarcast.net/) | LunarCast Network hosts various projects and services such as Danmakufu Remake and the Replay Database! | 🇬🇧 | LunarCast Network
 [Survival Progress Table Generator](https://maribelhearn.com/survival) | Fill in the best survivals you have pulled off in the table below. Click 'Save' in the top left to save your progress. | 🇬🇧 | maribelhearn@disroot.org
 [Tanuki](https://github.com/spacebanana420/tanuki) | Cross-platform lightweight launcher for Touhou Project games with a TUI (Terminal User Interface) | 🇬🇧 | [SpaceBanana420](https://spacebanana.pt/)
-[Touhou Community Reliant Automatic Patcher](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download) | A program to add patches, translation and mods to the Touhou games | 🇬🇧 | [Touhou Patch Center](https://github.com/thpatch)
+[Touhou Community Reliant Automatic Patcher](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download) | A program to add patches, translation and mods to the Touhou games | Multilingual | [Touhou Patch Center](https://github.com/thpatch)
 [thprac](https://github.com/touhouworldcup/thprac) | A tool for practicing Touhou shmups | 🇬🇧 | [Touhou World Cup](https://github.com/touhouworldcup)
 [Touhou Danmakufu](http://dmf.shrinemaiden.org/) | A relatively easy-to-use STG maker program which leans toward making Touhou Project-style games with a C-like programming language. | 🇬🇧 | Touhou Danmakufu
 [Touhou Patches and Tools](https://maribelhearn.com/tools) | This page contains download links to all kinds of different patches or tools applicable to the official Touhou shooting games. | Multilingual | maribelhearn@disroot.org 
