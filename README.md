@@ -257,6 +257,9 @@ Name | Description | Language | Musical Genre | Author
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | Not Music | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
 ### Fighting Games
+*Who will win? Find about the best way to defeat the oponent here*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
 [Hisouten Discord](https://discord.gg/hisouten) | This is the main server for Touhou 12.3 Hisoutensoku and the international Hisoutensoku community. | 🇬🇧 | [Soku Delthas](https://soku.delthas.fr/)
 [Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List) | List of other Discord servers with Soku communities | Multilingual | [Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List)
 [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) | Your source of information for everything Hisoutensoku | 🇬🇧 | [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
