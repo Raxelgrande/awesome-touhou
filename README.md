@@ -84,7 +84,6 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
   - #### [Information](#information)
     - [Information Websites](#information-websites)
   - #### [Fanfiction](#fanfiction)
-    - [Scanlation](#scanlation)
     - [Writing](#writing)
 
 ### Official Games
@@ -169,7 +168,6 @@ Name | Description | Language | Author
 *Touhou came out in 1996, there is a lot of history and this is the place to watch the past*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Dagobah Flash Gallery](https://dagobah.net/?search=touhou) | Very old videos, games, and art. Beware of the weird thumbnails! | 🇬🇧 | [Dagobah](https://dagobah.net/)
 [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376) | Old high quality introductory videos | 🇬🇧 | [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376)
 [Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 [NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
@@ -269,7 +267,6 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Maidens of the Kaleidoscope](https://www.shrinemaiden.com/) | Third incarnation of the MotK Forums | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
-[Moriya Shrine Forums](https://moriyashrine.org/forums/) | Let's discuss Touhou Project together! | 🇬🇧 | Moriya Shrine
 [GensoukyouDE](https://gensoukyou.de) | Jenseits der Hakurei-Barriere | 🇩🇪 | [GensoukyouDE](https://gensoukyou.de)
 [Touhou Polish](https://www.touhou.pl) | Human Meets Danmaku | 🇵🇱 | [Touhou Polish](https://www.touhou.pl)
 [Touhou Music Reddit](https://www.reddit.com/r/TOUHOUMUSIC/) | Touhou music is awesome. Share your favorite original or arranged Touhou songs. | 🇬🇧 | [Touhou Music Reddit](https://www.reddit.com/r/TOUHOUMUSIC/)
@@ -337,7 +334,6 @@ Name | Description | Language | Author
 *An imageboard is a type of Internet forum that focuses on the posting of images, often alongside text and discussion.*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Safebooru Touhou](https://safebooru.org/index.php?page=post&s=list&tags=touhou) | Website dedicated to gather all kinds of safe images, the link has the Touhou tag already selected | 🇬🇧 | [Safebooru](https://safebooru.org/)
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | [Touhou-Project.com](https://www.touhou-project.com)
 
 ### Information Websites 
@@ -381,7 +377,6 @@ Name | Description | Language | Author
 *If something's missing, try searching at [The Doujin Circles Section](https://github.com/Raxelgrande/awesome-touhou?tab=readme-ov-file#doujin-circles)*
 Name | Description | Language | Musical Genre | Author 
 ---- | ----------- | -------- | ------------- | ------
-[Gensokyo Radio](https://gensokyoradio.net) | The #1 radio station for fan-made Touhou Project arrangements since 2011. | 🇬🇧 | Radio, Multigenre | staff@gensokyoradio.net
 [Touhou Arrangement Chronicle](https://touhou.arrangement-chronicle.com/) | Eastern collaborative database for Touhou music, alike TouhouDB | 🇯🇵 | Multigenre |[Touhou Arrangement Chronicle](https://touhou.arrangement-chronicle.com/)
 [Touhou Circles' Official Music Streaming](https://docs.google.com/spreadsheets/d/1pFKf0-yMSN-tkFs2G8zBkEly1fc9klfwUb-zgJiDPyc/edit?usp=drivesdk) | Some circles' official streaming websites. | 🇬🇧 | Multi Genere | [@mgisnotactive](https://twitter.com/mgisnotactive)
 [TouhouDB](https://touhoudb.com/) | The collaborative database for Touhou music, with artists, discography, PVs and more. | 🇬🇧 | Multigenre | [TouhouDB](https://touhoudb.com/)
@@ -397,12 +392,6 @@ Name | Description | Language | Location | Author
 [TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences | 🇨🇳 | Multiple | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [TouhouFest](https://www.touhoufest.org/) | Touhou fans from across the country will gather to celebrate the coming season and enjoy all the Touhou community has to offer such as art, music, and more! | 🇺🇸 | 🇺🇸 | [TouhouFest](https://www.touhoufest.org/)
 [Touhou Kouroumu](https://koromu-toho.com/) | Doujin convention that happens bi-anually | 🇯🇵 | 🇯🇵 | [Touhou Kouroumu](https://koromu-toho.com/)
-
-### Scanlation
-*Get your translated manga in here!*
-Name | Description | Language | Author 
----- | ----------- | -------- | ------
-[Sanae's Bread Scans](https://sanaesbread.moe/) | We're a small scanlation team that likes to translate Touhou and Clannad doujinshi! | 🇬🇧 | contact@sanaesbread.moe
 
 ### Shops
 *Buy things related to Touhou project.*
