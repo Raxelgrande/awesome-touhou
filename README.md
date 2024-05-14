@@ -51,7 +51,7 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
   - [Official Websites](#official-websites)
 
 - ### [Fan Works](#fan-works)
-   - #### [Arts & Crafts](#arts--crafts)
+   - #### [Arts And Crafts](#arts-and-crafts)
        - [Audiovisual Creators](#audiovisual-creators)
        - [Ascii](#ascii)
        - [Crafts](#crafts)
@@ -186,7 +186,7 @@ Name | Description | Language | Author
 [NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
 
 ### Ascii
-*Go back to [Arts & Crafts](#arts--crafts)*
+*Go back to [Arts And Crafts](#arts-and-crafts)*
 
 *Did you know you could make drawings with text?*
 
@@ -196,7 +196,7 @@ Name | Description | Language | Author
 [Touhou Aamatome](https://touhouaamatome.jougennotuki.com) | Just enjoy | 🇯🇵 | [Touhou Aamatome](https://touhouaamatome.jougennotuki.com)
 
 ### Audiovisual Creators
-*Go back to [Arts & Crafts](#arts--crafts)*
+*Go back to [Arts And Crafts](#arts-and-crafts)*
 
 *Find the makers of the videos you love!*
 
@@ -276,7 +276,7 @@ Name | Description | Language | Author
 [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) | Your source of information for everything Hisoutensoku | 🇬🇧 | [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
 
 ### Crafts
-*Go back to [Arts & Crafts](#arts--crafts)*
+*Go back to [Arts And Crafts](#arts-and-crafts)*
 
 *Let's make and enjoy cool Touhou things made with our hands!*
 
@@ -386,7 +386,7 @@ Name | Description | Language | Author
 [Yoiyami Dancers: Twilight Danmaku Dancers](https://store.steampowered.com/app/1998530/Yoiyami_Dancers_Twilight_Danmaku_Dancers/) | Dodge to the beat of the rhythm while you deal with bosses and enemies in this cute side-scrolling rhythm hell! | 🇬🇧, 🇯🇵 | [tripper](https://twitter.com/7r1pp3r?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [六合ダイスケ](https://www.pixiv.net/en/users/1946476)
 
 ### Image Boards
-*Go back to [Arts & Crafts](#arts--crafts)*
+*Go back to [Arts And Crafts](#arts-and-crafts)*
 
 *An imageboard is a type of Internet forum that focuses on the posting of images, often alongside text and discussion.*
 
