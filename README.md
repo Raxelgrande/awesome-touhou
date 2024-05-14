@@ -63,7 +63,7 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
        - [Archival](#archival)
    - #### [Gaming Communities](#gaming-communities)
      - [Competitive Danmaku Replays & Scoring](#competitive-danmaku-replays--scoring)
-     - [Fighting Games](#fighting-games)
+     - [Competitive Fighting Games](#competitive-fighting-games)
    - #### [Merchandising](#merchandising)
        - [Shops](#shops)
    - #### [Miscellaneous Things](#miscellaneous-things)
@@ -77,7 +77,6 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
     - [Forums](#forums)
     - [Real Life Events](#real-life-events)
   - #### [Software](#software)
-    - [Fonts](#fonts)
     - [Fun Software](#fun-software)
     - [Games](#games)
     - [Modding](#modding)
@@ -87,6 +86,8 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
     - [Writing](#writing)
 
 ### Official Games
+*Go back to [Official Works](#official-works)*
+
 *Collection of all the games made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice) that counts as an integral part of Touhou's canon (not including Fangames with official licensing).*
 
 *For the games that lack a direct link to Steam, or if you wish to get a physical copy, please check the [Purchasing Guide](https://en.touhouwiki.net/wiki/Purchasing_Guide)*
@@ -129,6 +130,8 @@ Name | Description | Language | Author
 [東方獣王園　〜 Unfinished Dream of All Living Ghost](https://store.steampowered.com/app/2097720/_100th_Black_Market/) | 19th entry in the shoot 'em up series. Once again, you have a split screen versus mode with singleplayer and multiplayer support. Following the opening of the markets, Gensokyo's land has abruptly lost its ownership and an invasion from Hell's Animal Realm has begun. The game's cast all seek to either bring the invasion to a halt or take advantage of the ongoing situation. There are 19 total characters that you slowly unlock by playing the game's story mode. | 🇯🇵, Fan translations available | Team Shanghai Alice (ZUN)
 
 ### Official Miscellaneous
+*Go back to [Official Works](#official-works)*
+
 *Your place to find strange things that might have some relation with Touhou, they have Team Shanghai Alice present on them, that's for sure*
 
 Name | Description | Language | Author 
@@ -139,6 +142,9 @@ Name | Description | Language | Author
 [ZUN Illustrations](https://en.touhouwiki.net/wiki/Miscellaneous_illustrations_by_ZUN) | This is a list of as many illustrations as possible by ZUN himself. | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
 
 ### Official Music
+*Go back to [Official Works](#official-works)*
+
+
 *Collection of music that appears in works made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
 
 *If you wish a physical copy or to purchase the music digitally, please check the [Purchasing Guide](https://en.touhouwiki.net/wiki/Purchasing_Guide)*
@@ -149,6 +155,9 @@ Name | Description | Author
 [Romantique TP](https://www.youtube.com/@RomantiqueTp) | I recorded ZUN's MIDIs on a real Roland SC-88Pro Sound Canvas, the module they were made for. | Team Shanghai Alice (ZUN), Romantique TP
 
 ### Official Websites
+*Go back to [Official Works](#official-works)*
+
+
 *Collection of websites & social media made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
 
 *If you can't find something, look at [TBH Wiki's Recompilation 🇨🇳](https://thwiki.cc/东方公式资料源)*
@@ -166,6 +175,8 @@ Name | Description | Language | Author
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 
 ### Archival
+*Go back to [History](#history)*
+
 *Touhou came out in 1996, there is a lot of history and this is the place to watch the past*
 
 Name | Description | Language | Author 
@@ -175,6 +186,8 @@ Name | Description | Language | Author
 [NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
 
 ### Ascii
+*Go back to [Arts & Crafts](#arts--crafts)*
+
 *Did you know you could make drawings with text?*
 
 Name | Description | Language | Author 
@@ -183,6 +196,8 @@ Name | Description | Language | Author
 [Touhou Aamatome](https://touhouaamatome.jougennotuki.com) | Just enjoy | 🇯🇵 | [Touhou Aamatome](https://touhouaamatome.jougennotuki.com)
 
 ### Audiovisual Creators
+*Go back to [Arts & Crafts](#arts--crafts)*
+
 *Find the makers of the videos you love!*
 
 Name | Description | Language | Author 
@@ -210,6 +225,8 @@ Name | Description | Language | Author
 [Yuunarii](https://www.youtube.com/@Yuunarii) | Oh yeh, I'm also a huge sucker for Touhou doujin, eurobeat and hyper techno music ♪ ~~she has a sticker shop with Touhou things~~ | 🇬🇧 | [Yuunarii](https://yuunarii.com)
 
 ### Blogs
+*Go back to [Social](#social)*
+
 *Look at what people write about Touhou in their personal websites*
 
 Name | Description | Language | Author 
@@ -217,6 +234,9 @@ Name | Description | Language | Author
 [Running PC98 Touhou on PC98](https://blog.soykaf.com/post/running-touhou-games-on-a-pc98-laptop/) | Getting Touhou games to run on a PC-9821 Na12 | 🇬🇧 | [Lainblog](https://blog.soykaf.com/)
 
 ### Chatrooms
+*Go back to [Social](#social)*
+
+
 *Chat with people fond of Touhou!*
 
 Name | Description | Language | Author 
@@ -226,6 +246,8 @@ Name | Description | Language | Author
 [Touhou Discord](https://discord.com/invite/touhou) | The largest Touhou Project server on Discord! | 🇬🇧 | [Touhou Discord](https://discord.com/invite/touhou)
 
 ### Competitive Danmaku Replays & Scoring
+*Go back to [Gaming Communities](#gaming-communities)*
+
 *Find everything around replays, world records, bullet helling with friends and getting high scores here!*
 
 Name | Description | Language | Author 
@@ -242,8 +264,20 @@ Name | Description | Language | Author
 [Touhou Strategy Wiki](http://wikiwiki.jp/thk/) | Touhou Project Strategy Wiki with detailed notes on game mechanics and strategy. | 🇯🇵 | [Touhou Strategy Wiki](http://wikiwiki.jp/thk/)
 [Touhou World Records](https://maribelhearn.com/wr) | An accurate list of Touhou world records, updated every so often. | Multilingual | maribelhearn@disroot.org
 
+### Competitive Fighting Games
+Go back to [Gaming Communities](#gaming-communities)
+
+*Who will win? Find about the best way to defeat the oponent here*
+
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Hisouten Discord](https://discord.gg/hisouten) | This is the main server for Touhou 12.3 Hisoutensoku and the international Hisoutensoku community. | 🇬🇧 | [Soku Delthas](https://soku.delthas.fr/)
+[Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List) | List of other Discord servers with Soku communities | Multilingual | [Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List)
+[Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) | Your source of information for everything Hisoutensoku | 🇬🇧 | [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
 
 ### Crafts
+*Go back to [Arts & Crafts](#arts--crafts)*
+
 *Let's make and enjoy cool Touhou things made with our hands!*
 
 Name | Description | Language | Author 
@@ -251,6 +285,8 @@ Name | Description | Language | Author
 [Paperzone Touhou](https://paperzonevn.com/touhou.f75/) | Touhou papercrafts resource | 🇬🇧 | PaperzoneVN
 
 ### Doujin Circles
+*Go back to [Music](#music)*
+
 *Your place to search things about your favorite Doujin Circles, specially music ones*
 
 Name | Description | Language | Musical Genre | Author 
@@ -263,16 +299,10 @@ Name | Description | Language | Musical Genre | Author
 [TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳  | Not Music | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | Not Music | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
-### Fighting Games
-*Who will win? Find about the best way to defeat the oponent here*
-
-Name | Description | Language | Author 
----- | ----------- | -------- | ------
-[Hisouten Discord](https://discord.gg/hisouten) | This is the main server for Touhou 12.3 Hisoutensoku and the international Hisoutensoku community. | 🇬🇧 | [Soku Delthas](https://soku.delthas.fr/)
-[Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List) | List of other Discord servers with Soku communities | Multilingual | [Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List)
-[Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) | Your source of information for everything Hisoutensoku | 🇬🇧 | [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
-
 ### Forums
+*Go back to [Social](#social)*
+
+
 *Forums to discuss things about Touhou*
 
 Name | Description | Language | Author 
@@ -284,6 +314,8 @@ Name | Description | Language | Author
 [Touhou Reddit](https://www.reddit.com/r/touhou/) | This subreddit is devoted to sharing the wonderful Touhou series with the Reddit community. | 🇬🇧 | [Touhou Reddit](https://www.reddit.com/r/touhou/)
 
 ### Fumo Buying
+*Go back to [Fumo](#fumo)*
+
 *Baka Fumo Fumo ka-ching! ᗜˬᗜ*
 
 Name | Description | Language | Author 
@@ -291,6 +323,8 @@ Name | Description | Language | Author
 [Fumo Buying Guides](https://fumo.website) | With the helpful information on this site, you too can welcome a soft friend into your home. | 🇬🇧, 🇯🇵 in the linked materials | [Fumosite](https://github.com/Ununoctium117/fumosite)
 
 ### Fumo Lore
+*Go back to [Fumo](#fumo)*
+
 *Fumo learn! Fumo very ~~not so~~ smart! ᗜˬᗜ*
 
 Name | Description | Language | Author 
@@ -300,6 +334,8 @@ Name | Description | Language | Author
 [Gift Gift](https://www.gift-gift.jp/) | Website of the makers of the Fumo, Gift | 🇯🇵 | [Gift Gift](https://www.gift-gift.jp/)
 
 ### Fun Software
+*Go back to [Software](#software)*
+
 *Fun programs that are not games*
 
 Name | Description | Language | Author 
@@ -314,6 +350,8 @@ Name | Description | Language | Author
 [Yukkuri Talk](https://yukkuritalk.com) | ゆっくりしていってね！！！| 🇬🇧 | [@kdingo](https://twitter.com/kdingo)
 
 ### Games
+*Go back to [Software](#software)*
+
 *Awesome fangames that are based (in some way or another) on the Touhou Project series*
 
 *If you can't find the fangame you are looking for, check [here](https://en.touhouwiki.net/wiki/Category:Fangames)*
@@ -348,6 +386,8 @@ Name | Description | Language | Author
 [Yoiyami Dancers: Twilight Danmaku Dancers](https://store.steampowered.com/app/1998530/Yoiyami_Dancers_Twilight_Danmaku_Dancers/) | Dodge to the beat of the rhythm while you deal with bosses and enemies in this cute side-scrolling rhythm hell! | 🇬🇧, 🇯🇵 | [tripper](https://twitter.com/7r1pp3r?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [六合ダイスケ](https://www.pixiv.net/en/users/1946476)
 
 ### Image Boards
+*Go back to [Arts & Crafts](#arts--crafts)*
+
 *An imageboard is a type of Internet forum that focuses on the posting of images, often alongside text and discussion.*
 
 Name | Description | Language | Author 
@@ -355,6 +395,8 @@ Name | Description | Language | Author
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | [Touhou-Project.com](https://www.touhou-project.com)
 
 ### Information Websites 
+*Go back to [Information](#information)*
+
 *Informative websites, things like Wikis and News Websites are included here*
 
 Name | Description | Language | Author 
@@ -371,6 +413,8 @@ Name | Description | Language | Author
 [Touhou Wiki Japan](http://thwiki.info) | The Japanese Touhou Wiki made with PukiWuki | 🇯🇵 | [Emuqy](https://twitter.com/mktoho12)
 
 ### Miscellaneous
+*Go back to [Miscellaneous Things](#miscellaneous-things)*
+
 *Your place for strange things that don't fin anywhere else* 
 
 *It's likely some of these things are here due to language barriers or other difficulties, if you discover something, let us know.*
@@ -380,6 +424,8 @@ Name | Description | Language | Author
 
 
 ### Modding
+*Go back to [Software](#software)*
+
 *Software dedicated to modify the behavior or facilitate the enjoyment of Touhou Project games*
 
 Name | Description | Language | Author 
@@ -393,6 +439,8 @@ Name | Description | Language | Author
 [Touhou Patches and Tools](https://maribelhearn.com/tools) | This page contains download links to all kinds of different patches or tools applicable to the official Touhou shooting games. | Multilingual | maribelhearn@disroot.org 
 
 ### Music Streaming
+*Go back to [Music](#music)*
+
 *Your place to enjoy Doujin music via Streaming*
 
 *If something's missing, try searching at [The Doujin Circles Section](https://github.com/Raxelgrande/awesome-touhou?tab=readme-ov-file#doujin-circles)*
@@ -405,6 +453,8 @@ Name | Description | Language | Musical Genre | Author
 [Touhou Karaoke Lookup](https://touhou-karaoke.com) | Search your favorite Doujin songs to sing! | 🇯🇵 | Multigenre | © 迷い家の白猫
 
 ### Real Life Events
+*Go back to [Social](#social)*
+
 *Get information on all kinds of gatherings here!*
 
 Name | Description | Language | Location | Author 
@@ -417,6 +467,8 @@ Name | Description | Language | Location | Author
 [Touhou Kouroumu](https://koromu-toho.com/) | Doujin convention that happens bi-anually | 🇯🇵 | 🇯🇵 | [Touhou Kouroumu](https://koromu-toho.com/)
 
 ### Shops
+*Go back to [Merchandising](#merchandising)*
+
 *Buy things related to Touhou project.*
 
 Name | Description | Language | Author 
@@ -424,6 +476,8 @@ Name | Description | Language | Author
 [Touhou Store of Countless Things](https://shop.hakurei-sukeikai.com/) | Online shop for Touhou Project goods | 🇯🇵 | © 上海アリス幻樂団, ©TABLIER MARKETING inc.
 
 ### Writing
+*Go back to [Fanfiction](#fanfiction)*
+
 *Your place to enjoy written creations*
 
 Name | Description | Language | Author 
