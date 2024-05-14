@@ -62,7 +62,7 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
    - #### [History](#history)
        - [Archival](#archival)
    - #### [Gaming Communities](#gaming-communities)
-     - [Competitive Danmaku Replays & Scoring](#competitive-danmaku-replays--scoring)
+     - [Competitive Danmaku Replays And Scoring](#competitive-danmaku-replays-and-scoring)
      - [Competitive Fighting Games](#competitive-fighting-games)
    - #### [Merchandising](#merchandising)
        - [Shops](#shops)
