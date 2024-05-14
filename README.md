@@ -130,6 +130,7 @@ Name | Description | Language | Author
 
 ### Official Miscellaneous
 *Your place to find strange things that might have some relation with Touhou, they have Team Shanghai Alice present on them, that's for sure*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Nikenme](https://www.youtube.com/@nikenme/streams) | Show where drunk people talk with no profit, featuring ZUN and 豚（家畜）| 🇯🇵 | Nikenme
@@ -166,6 +167,7 @@ Name | Description | Language | Author
 
 ### Archival
 *Touhou came out in 1996, there is a lot of history and this is the place to watch the past*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376) | Old high quality introductory videos | 🇬🇧 | [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376)
@@ -174,6 +176,7 @@ Name | Description | Language | Author
 
 ### Ascii
 *Did you know you could make drawings with text?*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Touhou Ascii](http://anime.en.utf8art.com/tag/touhou/page/2) | Touhou tag in Ascii Art Archives for Recycle | 🇬🇧 | [Ascii Art Archives for Recycle](http://anime.en.utf8art.com/)
@@ -181,6 +184,7 @@ Name | Description | Language | Author
 
 ### Audiovisual Creators
 *Find the makers of the videos you love!*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [AspreyFM](https://www.youtube.com/@AspreyFM) | I make videos on Touhou Project. Fan games or whatever idea I come up with. | 🇬🇧 | [@AspreyFM](https://twitter.com/AspreyFM)
@@ -207,12 +211,14 @@ Name | Description | Language | Author
 
 ### Blogs
 *Look at what people write about Touhou in their personal websites*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Running PC98 Touhou on PC98](https://blog.soykaf.com/post/running-touhou-games-on-a-pc98-laptop/) | Getting Touhou games to run on a PC-9821 Na12 | 🇬🇧 | [Lainblog](https://blog.soykaf.com/)
 
 ### Chatrooms
 *Chat with people fond of Touhou!*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Paradise of Boundaries](https://discord.gg/DFguh3GYG2) | Comunidad y Círculo Creativo Hispano dedicado a Touhou Project. Nuestro propósito es incentivar y crear contenido con el fin de fortalecer y expandir a la comunidad hispana. | 🇲🇽 | [Paradise of Boundaries](https://discord.gg/DFguh3GYG2)
@@ -221,6 +227,7 @@ Name | Description | Language | Author
 
 ### Competitive Danmaku Replays & Scoring
 *Find everything around replays, world records, bullet helling with friends and getting high scores here!*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Dodging Rain Competition](https://maribelhearn.com/drc) |  Two teams go up against each other in several different categories. | Multilingual | maribelhearn@disroot.org
@@ -238,12 +245,14 @@ Name | Description | Language | Author
 
 ### Crafts
 *Let's make and enjoy cool Touhou things made with our hands!*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Paperzone Touhou](https://paperzonevn.com/touhou.f75/) | Touhou papercrafts resource | 🇬🇧 | PaperzoneVN
 
 ### Doujin Circles
 *Your place to search things about your favorite Doujin Circles, specially music ones*
+
 Name | Description | Language | Musical Genre | Author 
 ---- | ----------- | -------- | ------------- | ------
 [Artifex](https://www.youtube.com/@nonartifex/featured) | I am just a regular Touhou musician. | 🎶 | Remaster | [Artifex](https://nonartifex.bandcamp.com/)
@@ -256,6 +265,7 @@ Name | Description | Language | Musical Genre | Author
 
 ### Fighting Games
 *Who will win? Find about the best way to defeat the oponent here*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Hisouten Discord](https://discord.gg/hisouten) | This is the main server for Touhou 12.3 Hisoutensoku and the international Hisoutensoku community. | 🇬🇧 | [Soku Delthas](https://soku.delthas.fr/)
@@ -264,6 +274,7 @@ Name | Description | Language | Author
 
 ### Forums
 *Forums to discuss things about Touhou*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Maidens of the Kaleidoscope](https://www.shrinemaiden.com/) | Third incarnation of the MotK Forums | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
@@ -274,12 +285,14 @@ Name | Description | Language | Author
 
 ### Fumo Buying
 *Baka Fumo Fumo ka-ching! ᗜˬᗜ*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Fumo Buying Guides](https://fumo.website) | With the helpful information on this site, you too can welcome a soft friend into your home. | 🇬🇧, 🇯🇵 in the linked materials | [Fumosite](https://github.com/Ununoctium117/fumosite)
 
 ### Fumo Lore
 *Fumo learn! Fumo very ~~not so~~ smart! ᗜˬᗜ*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [ANGELTYPE](https://angeltype.under.jp) | Website of the original creator of the Fumos (not Gift) | 🇯🇵 | [ANGELTYPE](https://angeltype.under.jp)
@@ -288,6 +301,7 @@ Name | Description | Language | Author
 
 ### Fun Software
 *Fun programs that are not games*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [uw-u.xyz](https://uw-u.xyz) | Collection of cute software related to Momiji | 🇬🇧 |  AWOO LLC
@@ -303,6 +317,7 @@ Name | Description | Language | Author
 *Awesome fangames that are based (in some way or another) on the Touhou Project series*
 
 *If you can't find the fangame you are looking for, check [here](https://en.touhouwiki.net/wiki/Category:Fangames)*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [东方雪莲华 ～ Abyss Soul Lotus](https://store.steampowered.com/app/1000440/__Abyss_Soul_Lotus/) | Gensokyo turns into a popsicle! The barrier is in danger from the tearing frost. Pick from three teams to set off and prevent this incident from worsening! | 🇨🇳 | [雨夜枫雪制作组](https://thwiki.cc/%E9%9B%A8%E5%A4%9C%E6%9E%AB%E9%9B%AA%E5%88%B6%E4%BD%9C%E7%BB%84)
@@ -334,12 +349,14 @@ Name | Description | Language | Author
 
 ### Image Boards
 *An imageboard is a type of Internet forum that focuses on the posting of images, often alongside text and discussion.*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | [Touhou-Project.com](https://www.touhou-project.com)
 
 ### Information Websites 
 *Informative websites, things like Wikis and News Websites are included here*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Maribel Hearn's Touhou Portal](https://maribelhearn.com/) | A privacy-friendly collection of convenient webpages for the Touhou community. Hover your cursor over a link for a description of that page. Flags show available translations. | 🇬🇧, Certain parts are multilingual | maribelhearn@disroot.org 
@@ -357,12 +374,14 @@ Name | Description | Language | Author
 *Your place for strange things that don't fin anywhere else* 
 
 *It's likely some of these things are here due to language barriers or other difficulties, if you discover something, let us know.*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 
 
 ### Modding
 *Software dedicated to modify the behavior or facilitate the enjoyment of Touhou Project games*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [LunarCast Network](http://lunarcast.net/) | LunarCast Network hosts various projects and services such as Danmakufu Remake and the Replay Database! | 🇬🇧 | LunarCast Network
@@ -377,6 +396,7 @@ Name | Description | Language | Author
 *Your place to enjoy Doujin music via Streaming*
 
 *If something's missing, try searching at [The Doujin Circles Section](https://github.com/Raxelgrande/awesome-touhou?tab=readme-ov-file#doujin-circles)*
+
 Name | Description | Language | Musical Genre | Author 
 ---- | ----------- | -------- | ------------- | ------
 [Touhou Arrangement Chronicle](https://touhou.arrangement-chronicle.com/) | Eastern collaborative database for Touhou music, alike TouhouDB | 🇯🇵 | Multigenre |[Touhou Arrangement Chronicle](https://touhou.arrangement-chronicle.com/)
@@ -386,6 +406,7 @@ Name | Description | Language | Musical Genre | Author
 
 ### Real Life Events
 *Get information on all kinds of gatherings here!*
+
 Name | Description | Language | Location | Author 
 ---- | ----------- | -------- | -------- | ------
 [Bunbunmaru Newspaper Fan Club](https://bunbunmaru-np.com/) | Doujin convention | 🇯🇵 | 🇯🇵 | [Bunbunmaru Newspaper Fan Club](https://bunbunmaru-np.com/)
@@ -397,12 +418,14 @@ Name | Description | Language | Location | Author
 
 ### Shops
 *Buy things related to Touhou project.*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Touhou Store of Countless Things](https://shop.hakurei-sukeikai.com/) | Online shop for Touhou Project goods | 🇯🇵 | © 上海アリス幻樂団, ©TABLIER MARKETING inc.
 
 ### Writing
 *Your place to enjoy written creations*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
