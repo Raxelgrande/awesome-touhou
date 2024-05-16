@@ -4,7 +4,7 @@
 #### Logo Made by [Soph](https://twitter.com/ningyou_saiban)
 
 
-A community driven list of everything valuable and interesting in the Touhou Community.
+This is a community driven list of everything valuable and interesting in the Touhou Community.
 
 Touhou is among the biggest and oldest communities in the internet, spanning multiple languages and subcultures, you can find just about everything and this is very intimidating to newcomers and veterans alike. Touhou History is vast and that makes it hard to navigate, but not anymore!
 
