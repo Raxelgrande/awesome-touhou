@@ -19,10 +19,10 @@ If your work is mentioned in this project and you don't want to have it displaye
 
 We follow [The Guidelines for Touhou Project Fan Creations](https://touhou-project.news/guidelines_en/), if you find a violation of this, please let us know and we will take action to remove the content from the list. We also have a few additional rules:
 
-- Don't Be An Asshole:
+- **Don't Be An Asshole:**
 The media here must be digestible to a wide audience. It has to contain things that are respectful and considerate to other people's circumstances. If necessary, this rule will get expanded, your morality and common sense should be good enough to respect others, don't prove us wrong.
 
-- No Spam:
+- **No Spam:**
 We value effort and the most widely useful information. Outside certain cases like Wikis or important content, we avoid giving too much attention to a few individuals to give everyone a fair chance. For example, if you are an artist that wants to be here, link your main platform and avoid placing your pieces individually.
 
 Feel welcome to contribute! Please submit a pull request, create an issue or contact me. 
