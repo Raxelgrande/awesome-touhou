@@ -29,11 +29,15 @@ Feel welcome to contribute! Please submit a pull request, create an issue or con
 We ask that in your contributions, specifically pull requests, you edit `README.md`.
 It is also important that in your pull request you follow the correct markdown format. Follow the alphabetical order when adding new things and give some reasoning behind why adding XYZ to the list is a good idea in your issue/pull request.
 
-You can also give ideas for the project and everything that can improve it is welcome. If you don't know how to work with Github's version control and contributing system (Git), see this detailed [Guide](https://docs.github.com/pull-requests) made by Github
+You can also give ideas for the project and everything that can improve it is welcome. If you don't know how to work with Github's version control and contributing system (Git), see this detailed [Guide](https://docs.github.com/pull-requests) made by Github.
+
+**About forum.md**
+
+**forum.md** is another version of the list, designed to be more compact and ideal to place in forums. To update it, just copy and replace the old version with everything below [Thanks And Contributors](#thanks-and-contributors), as the difference is the introductory text, not the list's content. You can convert the list from Markdown into your desired format using [Pandoc](https://pandoc.org/).
 
  
 
-## Thanks & Contributors 
+## Thanks And Contributors 
 - [Maribel Hearn's Touhou Portal](https://maribelhearn.com/)
 
 I want to specially thank Maribel for creating this amazing resource, it served as inspiration and as a source for several things in this list. 
