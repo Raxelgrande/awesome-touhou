@@ -264,6 +264,7 @@ Name | Description | Language | Author
 [The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) | This Wiki is designed to be User-Friendly, and a simple way to organize Resources for Danmaku Games. | 🇬🇧 | maribelhearn@disroot.org
 [Touhou Fangame Acomplishments](https://maribelhearn.com/fangame) | This page lists known Lunatic No Miss No Bomb (LNN) clears and notable high scores for Touhou fangames, as well as Touhou-related games. | 🇬🇧 | maribelhearn@disroot.org
 [Touhou Strategy Wiki](http://wikiwiki.jp/thk/) | Touhou Project Strategy Wiki with detailed notes on game mechanics and strategy. | 🇯🇵 | [Touhou Strategy Wiki](http://wikiwiki.jp/thk/)
+[Touhou World Cup](https://touhouworldcup.com/) | Touhou World Cup (TWC) is an annual international Touhou shooting game competition, first held in 2020 and held every year since. It is organised by the Touhou gameplay community worldwide. | Multilingual | [Credits](https://touhouworldcup.com/credits)
 [Touhou World Records](https://maribelhearn.com/wr) | An accurate list of Touhou world records, updated every so often. | Multilingual | maribelhearn@disroot.org
 
 ### Competitive Fighting Games
