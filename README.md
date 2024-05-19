@@ -161,7 +161,6 @@ Name | Description | Author
 ### Official Websites
 *Go back to [Official Works](#official-works)*
 
-
 *Collection of websites & social media made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
 
 *If you can't find something, look at [TBH Wiki's Recompilation 🇨🇳](https://thwiki.cc/东方公式资料源)*
@@ -173,7 +172,6 @@ Name | Description | Language | Author
 [Kourindou Blog](https://kourindou.exblog.jp/) | ZUN's inactive blog. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Team Shanghai Alice](https://www16.big.or.jp/~zun/) | We are a circle that develops shoot 'em up games and creates music. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Touhou Doujin Music Distribution](https://www.touhou-music.jp) | Making music for Touhou Project easier. | 🇯🇵 | Team Shanghai Alice (ZUN)
-[Touhou Vote](https://toho-vote.info) | Annual vote for your favorite everything in Touhou Project | 🇯🇵 | [@Prof_Hayaten](https://x.com/Prof_Hayaten) [@yuzuru_cb](https://x.com/yuzuru_cb), [@mktoho12](https://x.com/mktoho12)
 [Touhou X](https://touhou-x.jp) | 25th Anniversary Touhou Website | 🇯🇵 | Team Shanghai Alice (ZUN) & ©アンノウンX
 [ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | 🇯🇵 | Team Shanghai Alice (ZUN)
@@ -207,19 +205,19 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [AspreyFM](https://www.youtube.com/@AspreyFM) | I make videos on Touhou Project. Fan games or whatever idea I come up with. | 🇬🇧 | [@AspreyFM](https://twitter.com/AspreyFM)
+[Banca de Jornal Bunbunmaru](https://www.youtube.com/@BancadeJornalBunbunmaru) | tengu desgrasado | 🇧🇷 | [Banca de Jornal Bunbunmaru](https://www.youtube.com/@BancadeJornalBunbunmaru)
 [fumos and other landfill](https://www.youtube.com/@fumolandfill) | I make silly plushie videos ᗜˬᗜ | 🇬🇧 | [@fumoLandfill](https://twitter.com/fumoLandfill)
 [GensouChronicle](https://www.youtube.com/@GensouChronicle) | This is a channel focused around Media Discussion, Gaming Lore, and Video Essays. | 🇬🇧 | [@GensouChronicle](https://twitter.com/GensouChronicle)
 [Gesh86](https://www.youtube.com/@Gesh86) | Currently, Touhou-related games as well as games for classic systems dominate my channel | 🇬🇧 | [Gesh86](https://www.youtube.com/@Gesh86)
-[Ideología Inversa](https://www.youtube.com/@IdeologiaInversa) |  Canal 100% dedicado a Touhou Project | 🇲🇽 | [Ideología Inversa](https://www.youtube.com/@IdeologiaInversa)
+[Ideología Inversa](https://www.youtube.com/c/IdeologiaInversa) | Canal 100% dedicado a Touhou Project | 🇲🇽 | [Ideología Inversa](https://www.youtube.com/@IdeologiaInversa)
 [Iyanez](https://www.youtube.com/@iyanez) | hello my name is iyanez i make 3d anims on blender and yea thats about it, mainly touhou stuff | 🇬🇧 | [@Iyanez11](https://twitter.com/Iyanez11)
 [Kero-san](https://www.youtube.com/@Kerosan_of_Gensokyo) | Welcome everyone ! “Welcome to Gensokyo” is a YouTube show aimed at raising awareness of the Touhou universe through its characters and story | 🇫🇷 | [@Kerosan11](https://twitter.com/Kerosan11)
 [lunaPrism](https://www.youtube.com/@lunaPrism) |  Small hitbox with a big dream. | 🇬🇧 | [@xlunaprism](https://twitter.com/xlunaprism)
 [Marco Hayabuza](https://www.youtube.com/@MarcoHayabuza) | Hago Streams y Vídeos jugando todo tipo de Juegos!! :D | 🇲🇽 | [@MarcoHayabusa](https://twitter.com/MarcoHayabusa)
 [MegamanOmega](https://www.youtube.com/@MegamanOmega184) | I'm an average Touhou player who decided "Hey, let's post all this stuff online and maybe help others get into the series". | 🇬🇧 | [MegamanOmega](https://www.youtube.com/@MegamanOmega184)
 [Megapig9001](https://www.youtube.com/@Megapig9001) | Welcome to my channel. I mainly focus on making Touhou Analysis Videos, but I also have a secondary focus on making fangames. | 🇬🇧 | [@megapig9001](https://twitter.com/megapig9001)
+[minusT](https://www.youtube.com/@0minusT) | I make animations using blender. | 🇬🇧 | [@tauminust](https://x.com/tauminust)
 [Mush-Broom](https://www.youtube.com/@mush-broom) |  Hello there, I'm currently making some weird kind of animations, enjoy!  | 🇬🇧 | [@MushBroom1](https://twitter.com/MushBroom1)
-[PerlDrop](https://www.youtube.com/@PerlDrop) |  I make shitty videos and sometimes music. | 🇬🇧 | [PerlDrop](https://www.youtube.com/@PerlDrop)
-[Reddevils500](https://www.youtube.com/@reddevils500) | Here are some of the videos that you've missed from Nico Nico Douga. Those are not created by me. Credits to the nico users. | 🇬🇧 | [Reddevils500](https://www.youtube.com/@reddevils500)
 [Sr Pelo](https://www.youtube.com/@SrPelo) |  Hi! I am Pelo, hope you enjoy the ride | 🇲🇽, 🇬🇧 | [Sr Pelo](https://srpelo.newgrounds.com/)
 [Surnist](https://www.youtube.com/@Surnist) | I'm posting videos regarding Touhou, often asking questions around the series and the world around it every so often | 🇬🇧 | 
 [Spirit-Eye](https://www.youtube.com/@spirit-eye) | Hello, I mainly do videos about Touhou ~~a lot of PC98 content~~ | 🇬🇧 | [@SpiritEye4](https://twitter.com/SpiritEye4)
@@ -249,7 +247,7 @@ Name | Description | Language | Author
 [The Gap](https://discord.gg/2hu) | Your place to find more curated Discord servers | 🇬🇧, Multilingual servers | [The Gap](https://discord.gg/2hu)
 [Touhou Discord](https://discord.com/invite/touhou) | The largest Touhou Project server on Discord! | 🇬🇧 | [Touhou Discord](https://discord.com/invite/touhou)
 
-### Competitive Danmaku Replays & Scoring
+### Competitive Danmaku Replays And Scoring
 *Go back to [Gaming Communities](#gaming-communities)*
 
 *Find everything around replays, world records, bullet helling with friends and getting high scores here!*
@@ -382,6 +380,7 @@ Name | Description | Language | Author
 [Touhou Fractured Transience](https://store.steampowered.com/app/2290860/Touhou_Fractured_Transience/) | *This game is planned for release in 2025* A 2D platform fighting game with pixel graphics! The basic premise deals with boundaries affecting residents with immortality which threatens the balance! The only way to dispel them is to fight unrestrained battles within them! | 🇬🇧, 🇯🇵 | [Tight Stuffs](https://twitter.com/StuffTight?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 [Touhou Fumo Racing](https://honkyhood11.itch.io/touhou-fumo-racing) | Embody a Fumo and compete on a wacky karting race against other fumo-fied Touhou Characters! Play alone against AI-controlled racers or with up to 4 friends on splitscreen multiplayer. | 🇬🇧 | [Touhou Fumo Racing](https://honkyhood11.itch.io/touhou-fumo-racing)
 [Touhou Kikamu ~ Elegant Impermanence of Sakura](https://store.steampowered.com/app/1252320/Touhou_Kikamu__Elegant_Impermanence_of_Sakura/) | Deal with the mysterious seasonal occurrences across Gensokyo with the cast of Imperishable Night in this fangame! | 🇬🇧, 🇯🇵, 🇨🇳, 🇫🇷, 🇩🇪 | [东方祈华梦制作组](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6%E5%88%B6%E4%BD%9C%E7%BB%84)
+[Touhou Lensed Night Sky](https://store.steampowered.com/app/1825250/Touhou_Lensed_Night_Sky_Kaseigai/) |  "I want you to go to the moon." | 🇬🇧 | [Fire Land](https://x.com/fire_land_dev)
 [TouHou Makuka Sai ~ Fantastic Danmaku Festival](https://store.steampowered.com/app/882710/_TouHou_Makuka_Sai__Fantastic_Danmaku_Festival/) | A strange incident involving the cast of EOSD becoming something much more powerful than ever before. Play with 4 characters REI/MAR/SAN + Patchy while they investigate the SDM for clues! | 🇬🇧, 🇯🇵, 🇨🇳, 🇷🇺 | [東方幕華祭制作组](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%95%E5%8D%8E%E7%A5%AD%E5%88%B6%E4%BD%9C%E7%BB%84)
 [TouHou Makuka Sai ~ Fantastic Danmaku Festival II](https://store.steampowered.com/app/1031480/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_II/) | Coming straight from FDF one, FDF two deals with the cast of PCB with character choices being the same except for the addition of Youmu instead of Patchy. Has an extra phantasm stage! | 🇬🇧, 🇯🇵, 🇨🇳, 🇷🇺 | [東方幕華祭制作组](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%95%E5%8D%8E%E7%A5%AD%E5%88%B6%E4%BD%9C%E7%BB%84)
 [Touhou: Scarlet Curiosity](https://store.steampowered.com/app/845880/Touhou_Scarlet_Curiosity/) | The world of Touhou comes alive in this beautiful action RPG (featuring “bullet hell” elements, of course!). Infamous vampire Remilia Scarlet and her dutiful maid, Sakuya, set off to chase rumors of a massive monster, all while sending baddies flying with fluid action and signature skills! | 🇬🇧, 🇯🇵, 🇨🇳 | Ankake Spa
@@ -413,13 +412,14 @@ Name | Description | Language | Author
 [Touhou Group](https://touhou.group) | List of Touhou groups in the East | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Memories](https://touhou-memories.com) | This website is focused mainly on the games. The pages are not finished yet, bear with me, there's only one person running the website. | 🇬🇧 | [Touhou Memories](https://touhou-memories.com)
 [Touhou Popularity Vote](https://maribelhearn.com/thvote) | An English translation of the full results of the annual THWiki Popularity Poll | maribelhearn@disroot.org 
+[Touhou Vote](https://toho-vote.info) | Annual vote for your favorite everything in Touhou Project | 🇯🇵 | [@Prof_Hayaten](https://x.com/Prof_Hayaten) [@yuzuru_cb](https://x.com/yuzuru_cb), [@mktoho12](https://x.com/mktoho12)
 [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) | This wiki is dedicated to the Touhou Project, a Japanese gaming series that mostly contains curtain fire shoot'em up games made by ZUN. | Multilingual, select yours in the sidebar | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
 [Touhou Wiki Japan](http://thwiki.info) | The Japanese Touhou Wiki made with PukiWuki | 🇯🇵 | [Emuqy](https://twitter.com/mktoho12)
 
 ### Miscellaneous
 *Go back to [Miscellaneous Things](#miscellaneous-things)*
 
-*Your place for strange things that don't fin anywhere else* 
+*Your place for strange things that don't fit anywhere else* 
 
 *It's likely some of these things are here due to language barriers or other difficulties, if you discover something, let us know.*
 
