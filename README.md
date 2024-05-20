@@ -211,6 +211,7 @@ Name | Description | Language | Author
 [Gesh86](https://www.youtube.com/@Gesh86) | Currently, Touhou-related games as well as games for classic systems dominate my channel | 🇬🇧 | [Gesh86](https://www.youtube.com/@Gesh86)
 [Ideología Inversa](https://www.youtube.com/c/IdeologiaInversa) | Canal 100% dedicado a Touhou Project | 🇲🇽 | [Ideología Inversa](https://www.youtube.com/@IdeologiaInversa)
 [Iyanez](https://www.youtube.com/@iyanez) | hello my name is iyanez i make 3d anims on blender and yea thats about it, mainly touhou stuff | 🇬🇧 | [@Iyanez11](https://twitter.com/Iyanez11)
+[Jo2n](https://www.youtube.com/@jo2n847) | I primarily do animations of touhou stuff sometime other games too, depend on how I'm vibing that day | 🇬🇧 | [@JNafuda](https://x.com/JNafuda)
 [Kero-san](https://www.youtube.com/@Kerosan_of_Gensokyo) | Welcome everyone ! “Welcome to Gensokyo” is a YouTube show aimed at raising awareness of the Touhou universe through its characters and story | 🇫🇷 | [@Kerosan11](https://twitter.com/Kerosan11)
 [lunaPrism](https://www.youtube.com/@lunaPrism) |  Small hitbox with a big dream. | 🇬🇧 | [@xlunaprism](https://twitter.com/xlunaprism)
 [Marco Hayabuza](https://www.youtube.com/@MarcoHayabuza) | Hago Streams y Vídeos jugando todo tipo de Juegos!! :D | 🇲🇽 | [@MarcoHayabusa](https://twitter.com/MarcoHayabusa)
