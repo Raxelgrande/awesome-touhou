@@ -59,6 +59,7 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
        - [Audiovisual Creators](#audiovisual-creators)
        - [Ascii](#ascii)
        - [Crafts](#crafts)
+       - [Doujin Circles](#doujin-circles)
        - [Image Boards](#image-boards)
    - #### [Fumo](#fumo)
      - [Fumo Buying](#fumo-buying)
@@ -73,7 +74,6 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
    - #### [Miscellaneous Things](#miscellaneous-things)
        - [Miscellaneous](#miscellaneous)
    - #### [Music](#music)
-      - [Doujin Circles](#doujin-circles)
       - [Music Streaming](#music-streaming)
   - #### [Social](#social)
     - [Blogs](#blogs)
@@ -290,19 +290,19 @@ Name | Description | Language | Author
 [Paperzone Touhou](https://paperzonevn.com/touhou.f75/) | Touhou papercrafts resource | 🇬🇧 | PaperzoneVN
 
 ### Doujin Circles
-*Go back to [Music](#music)*
+*Go back to [Arts And Crafts](#arts-and-crafts)*
 
-*Your place to search things about your favorite Doujin Circles, specially music ones*
+*Your place to search things about your favorite Doujin Circles*
 
-Name | Description | Language | Musical Genre | Author 
----- | ----------- | -------- | ------------- | ------
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
 [Artifex](https://www.youtube.com/@nonartifex/featured) | I am just a regular Touhou musician. | 🎶 | Remaster | [Artifex](https://nonartifex.bandcamp.com/)
-[Jesselejohn](https://www.youtube.com/@Jesselejohn) | Welcome to my channel, specializing (mostly) in fanmade remixes of Touhou's PC-98 (And Seihou) music done in ZUN's style. | 🎶 | Remaster | [Jesselejohn](https://www.youtube.com/@Jesselejohn)
-[Karl Zuñiga](https://www.youtube.com/@KarlZuniga) | I do transcriptions, arrangements, recreations, etc. (Mainly from Touhou) | 🎶, 🇲🇽, 🇬🇧 | Remaster | [@KarlZuniga22](https://twitter.com/KarlZuniga22)
-[MiragEden](https://www.youtube.com/@Ebansun) | I mainly engage in activities such as Touhou-style original compositions and Touhou arrangements. | 🎶, 🇯🇵 | Remaster | [MiragEden](https://www.youtube.com/@Ebansun)
-[Paradise of Boundaries](https://twitter.com/POfBoundaries) | Comunidad y Círculo Doujin Hispano de Touhou Project | 🇲🇽 | Multiple Works | [Paradise of Boundaries](https://twitter.com/POfBoundaries)
-[TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳  | Not Music | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
-[Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | Not Music | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
+[Jesselejohn](https://www.youtube.com/@Jesselejohn) | Welcome to my channel, specializing (mostly) in fanmade remixes of Touhou's PC-98 (And Seihou) music done in ZUN's style. | 🎶 | [Jesselejohn](https://www.youtube.com/@Jesselejohn)
+[Karl Zuñiga](https://www.youtube.com/@KarlZuniga) | I do transcriptions, arrangements, recreations, etc. (Mainly from Touhou) | 🎶, 🇲🇽, 🇬🇧 | [@KarlZuniga22](https://twitter.com/KarlZuniga22)
+[MiragEden](https://www.youtube.com/@Ebansun) | I mainly engage in activities such as Touhou-style original compositions and Touhou arrangements. | 🎶, 🇯🇵 | [MiragEden](https://www.youtube.com/@Ebansun)
+[Paradise of Boundaries](https://twitter.com/POfBoundaries) | Comunidad y Círculo Doujin Hispano de Touhou Project | 🇲🇽 | [Paradise of Boundaries](https://twitter.com/POfBoundaries)
+[TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳  | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
+[Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
 ### Forums
 *Go back to [Social](#social)*
