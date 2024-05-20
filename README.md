@@ -84,6 +84,7 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
     - [Fun Software](#fun-software)
     - [Games](#games)
     - [Modding](#modding)
+    - [Sound](#sound)
   - #### [Information](#information)
     - [Information Websites](#information-websites)
   - #### [Fanfiction](#fanfiction)
@@ -480,6 +481,14 @@ Name | Description | Language | Location | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Touhou Store of Countless Things](https://shop.hakurei-sukeikai.com/) | Online shop for Touhou Project goods | 🇯🇵 | © 上海アリス幻樂団, ©TABLIER MARKETING inc.
+
+### Sound
+*Go back to [Software](#software)*
+
+*Get software related to Sound and Touhou*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+
 
 ### Writing
 *Go back to [Fanfiction](#fanfiction)*
