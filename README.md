@@ -493,6 +493,9 @@ Name | Description | Language | Author
 [Gensokyo.store](https://gensokyo.store/) | Gensokyo.store is an online storefront helping to make self-published, physical fanworks more accessible to more fans in more places. | 🇬🇧 | [Gensokyo Radio](https://gensokyoradio.net/)
 [Touhou Store of Countless Things](https://shop.hakurei-sukeikai.com/) | Online shop for Touhou Project goods | 🇯🇵 | © 上海アリス幻樂団, ©TABLIER MARKETING inc.
 
+### Sound
+*Go back to [Software](#software)*
+
 *Get software related to Sound and Touhou*
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
