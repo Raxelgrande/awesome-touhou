@@ -356,7 +356,7 @@ Name | Description | Language | Author
 [My Touhou Fanpage](http://www.mytouhoupage.net/) | Web page stylized from the 2000s. | 🇬🇧 | [@Hiskov](https://x.com/Hiskov_)
 [touhou98](https://touhou98.touhou.moe/) | The font used in PC98 Touhou games | 🇬🇧 | [touhou98](https://touhou98.touhou.moe/)
 [Touhou Calendar](https://touhoucalendar.github.io) | This page forms a (hopefully) comprehensive list of days in use, presented in English for the Touhou Project's sizable western audience. | 🇬🇧 | [@TouhouCalendar](https://twitter.com/TouhouCalendar)
-[Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/) | What Omikuji will you draw? | 🇬🇧, 🇻🇳, 🇨🇳, | [Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/)
+[Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/) | What Omikuji will you draw? | 🇬🇧, 🇻🇳, 🇨🇳 | [Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/)
 [Touhou Character Sorter](https://tohosort.frelia.my) | Sorter for Touhou characters. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Character Sorter](https://github.com/execfera/charasort/)
 [Touhou Character Tier List](https://tiermaker.com/create/all-relevant-touhou-characters-t1-t18-books-and-cds-1244738) | This template includes every single Touhou character that is relevant and appears in mainstream Touhou media. | 🇬🇧 | [Touhou Character Tier List](https://tiermaker.com/create/all-relevant-touhou-characters-t1-t18-books-and-cds-1244738)
 [Touhou Song Sorter](https://relick.me/song/) | This is a sorter for ZUN's Touhou (and other) songs. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter)
