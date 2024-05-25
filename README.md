@@ -184,6 +184,7 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[AKYU'S Illusion Lab. east branch office](https://web.archive.org/web/20080503133642/http://toho.genso.info/) | 2008 link index back when website creation was common | 🇯🇵 | [About](https://web.archive.org/web/20080517044447/http://toho.genso.info/manual.html)
 [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376) | Old high quality introductory videos | 🇬🇧 | [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376)
 [Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 [NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
