@@ -241,7 +241,7 @@ Name | Description | Language | Author
 [A Coasean Solution to the Scarlet Devil Incident](https://gensokyoinstitute.wordpress.com/2014/10/) | Economic perspective on Remilia's Scarlet Mist Incident | 🇬🇧 | Michelangelo Landgrave
 [Running PC98 Touhou on PC98](https://blog.soykaf.com/post/running-touhou-games-on-a-pc98-laptop/) | Getting Touhou games to run on a PC-9821 Na12 | 🇬🇧 | [Lainblog](https://blog.soykaf.com/)
 [THE MOST CULTURED MEME: NEW TRANSLATION REVEALS HIDDEN DEPTH IN “JAPANESE GOBLIN”](https://lostinlocalization.com/japanese-goblin/) | Analysis on the japanese lyrics to WE ARE JAPANESE GOBLIN | 🇬🇧, 🇯🇵 | [@lostinloc](https://x.com/lostinloc)
-[Touhou Project and the Single-Gender World](https://androgynousanime.blogspot.com/2014/02/touhou-project-and-single-gender-world.html) | Analysis of the thematic impacts of the series' single-gender world | [Androgyny in Animation](https://androgynousanime.blogspot.com/)
+[Touhou Project and the Single-Gender World](https://androgynousanime.blogspot.com/2014/02/touhou-project-and-single-gender-world.html) | Analysis of the thematic impacts of the series' single-gender world | 🇬🇧 | [Androgyny in Animation](https://androgynousanime.blogspot.com/)
 
 ### Chatrooms
 *Go back to [Social](#social)*
@@ -428,7 +428,7 @@ Name | Description | Language | Author
 [Touhou Garakutasoushi](https://touhougarakuta.com) | Touhou Garatakutasoushi is a media outlet dedicated to everything Touhou Project, a series that is brimming with doujin culture. | [🇯🇵](https://touhougarakuta.com), [🇨🇳](https://cn.touhougarakuta.com), [🇰🇷](https://ko.touhougarakuta.com), [🇬🇧](https://en.touhougarakuta.com) | ©東方我楽多叢誌
 [Touhou Group](https://touhou.group) | List of Touhou groups in the East | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Memories](https://touhou-memories.com) | This website is focused mainly on the games. The pages are not finished yet, bear with me, there's only one person running the website. | 🇬🇧 | [Touhou Memories](https://touhou-memories.com)
-[Touhou Popularity Vote](https://maribelhearn.com/thvote) | An English translation of the full results of the annual THWiki Popularity Poll | maribelhearn@disroot.org 
+[Touhou Popularity Vote](https://maribelhearn.com/thvote) | An English translation of the full results of the annual THWiki Popularity Poll | 🇬🇧 | maribelhearn@disroot.org 
 [Touhou Vote](https://toho-vote.info) | Annual vote for your favorite everything in Touhou Project | 🇯🇵 | [@Prof_Hayaten](https://x.com/Prof_Hayaten) [@yuzuru_cb](https://x.com/yuzuru_cb), [@mktoho12](https://x.com/mktoho12)
 [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) | This wiki is dedicated to the Touhou Project, a Japanese gaming series that mostly contains curtain fire shoot'em up games made by ZUN. | Multilingual, select yours in the sidebar | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
 [Touhou Wiki Japan](http://thwiki.info) | The Japanese Touhou Wiki made with PukiWuki | 🇯🇵 | [Emuqy](https://twitter.com/mktoho12)
@@ -518,7 +518,7 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Alice is great!](https://www.alicemargatroid.moe/) | Welcome to this little corner of the internet celebrating Alice Margatroid from Touhou Project! I hope you enjoy Alice as much as I do! | 🇬🇧 | Alice is great!
+[Alice is great!](https://www.alicemargatroid.moe/) | Welcome to this little corner of the internet celebrating Alice Margatroid from Touhou Project! I hope you enjoy Alice as much as I do! | 🇬🇧 |
 [Usually Dead Dot Com](https://www.usuallydead.com/) | Hosts remastered versions of the writer's fanfictions | 🇬🇧 | Tyler Lovell
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
 
