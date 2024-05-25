@@ -187,6 +187,7 @@ Name | Description | Language | Author
 [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376) | Old high quality introductory videos | 🇬🇧 | [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376)
 [Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 [NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
+[Walfas](https://walfas.org/) | A Touhou blog from the 2010s that created Flash content. | 🇬🇧 | [KirbyM/@Walfie](https://x.com/walfieee)
 
 ### Ascii
 *Go back to [Arts And Crafts](#arts-and-crafts)*
@@ -303,7 +304,8 @@ Name | Description | Language | Author
 [Karl Zuñiga](https://www.youtube.com/@KarlZuniga) | I do transcriptions, arrangements, recreations, etc. (Mainly from Touhou) | 🎶, 🇲🇽, 🇬🇧 | [@KarlZuniga22](https://twitter.com/KarlZuniga22)
 [MiragEden](https://www.youtube.com/@Ebansun) | I mainly engage in activities such as Touhou-style original compositions and Touhou arrangements. | 🎶, 🇯🇵 | [MiragEden](https://www.youtube.com/@Ebansun)
 [Paradise of Boundaries](https://twitter.com/POfBoundaries) | Comunidad y Círculo Doujin Hispano de Touhou Project | 🇲🇽 | [Paradise of Boundaries](https://twitter.com/POfBoundaries)
-[Raven’s Jig](https://www.ravensjig.com/) | Greetings! We, who go by the name of Raven’s Jig, are two European ravens with very different interests and backgrounds, who one day in March 2012 decided to unite to produce music together. We specialize in musical arranges which, we hope, would do justice to the original composers we admire and look up to. | 🎶, 🇫🇷 [redtails](https://www.youtube.com/@redtails/)
+[Raven’s Jig](https://www.ravensjig.com/) | We specialize in musical arranges which, we hope, would do justice to the original composers we admire and look up to. | 🎶, 🇫🇷, 🇬🇧 | [redtails](https://www.youtube.com/@redtails/)
+[Releska](https://releska.com) | Arranger. Clarinet player. Translator since 2014. | 🎶, 🇬🇧 | [@Releska](https://x.com/Releska)
 [TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
@@ -351,9 +353,10 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [uw-u.xyz](https://uw-u.xyz) | Collection of cute software related to Momiji | 🇬🇧 |  AWOO LLC
 [Doremy](https://doremy.ch/) | Doremy | Doremy | Doremy
+[My Touhou Fanpage](http://www.mytouhoupage.net/) | Web page stylized from the 2000s. | 🇬🇧 | [@Hiskov](https://x.com/Hiskov_)
 [touhou98](https://touhou98.touhou.moe/) | The font used in PC98 Touhou games | 🇬🇧 | [touhou98](https://touhou98.touhou.moe/)
 [Touhou Calendar](https://touhoucalendar.github.io) | This page forms a (hopefully) comprehensive list of days in use, presented in English for the Touhou Project's sizable western audience. | 🇬🇧 | [@TouhouCalendar](https://twitter.com/TouhouCalendar)
-[Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/) | What Omikuji will you draw? | 🇬🇧, 🇨🇳, 🇨🇳 | [Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/)
+[Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/) | What Omikuji will you draw? | 🇬🇧, 🇻🇳, 🇨🇳, | [Touhou Omikuji](https://magonhu.github.io/touhou-omikuji-en/)
 [Touhou Character Sorter](https://tohosort.frelia.my) | Sorter for Touhou characters. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Character Sorter](https://github.com/execfera/charasort/)
 [Touhou Character Tier List](https://tiermaker.com/create/all-relevant-touhou-characters-t1-t18-books-and-cds-1244738) | This template includes every single Touhou character that is relevant and appears in mainstream Touhou media. | 🇬🇧 | [Touhou Character Tier List](https://tiermaker.com/create/all-relevant-touhou-characters-t1-t18-books-and-cds-1244738)
 [Touhou Song Sorter](https://relick.me/song/) | This is a sorter for ZUN's Touhou (and other) songs. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter)
@@ -436,6 +439,7 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Outside World Occultism](https://outsideworldoccultism.tumblr.com/about) | Outside World Occultism is a lighthearted podcast about the lore, characters, and assorted media of the Touhou Project. New episodes as our editor has time, please wait warmly! | 🇬🇧 | [Outside World Occultism](https://outsideworldoccultism.tumblr.com/about)
+[Touhou lost media](https://moriyashrine.org/forums/topic/2428-touhou-lost-media/) | The goal of this topic is collecting information about lost media and links in one place. There are some categories for systematization. In each category the media goes from more well-known or having more chances to be found to more obscure. If you have some info about this lost media or some other lost media, post it. | 🇬🇧 | [vanyk](https://moriyashrine.org/profile/38795-vanyk/)
 [Touhou Tuesday](https://kngi.org/category/past-episodes-touhou-tuesday/) | Podcast that ran from 2012 - 2016 | 🇬🇧 | [KNGI Network](https://kngi.org/contact/)
 
 
@@ -491,7 +495,9 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Dizzy Lab](https://www.dizzylab.net/) | Online store for independent music. | 🇨🇳 | [DizzyLab](https://weibo.com/dizzylab)
 [Gensokyo.store](https://gensokyo.store/) | Gensokyo.store is an online storefront helping to make self-published, physical fanworks more accessible to more fans in more places. | 🇬🇧 | [Gensokyo Radio](https://gensokyoradio.net/)
+[Touhorology](https://www.touhorology.com) | Based out of Sheboygan, Wisconsin, TouHorology creates physical good Touhou Project fan works. | 🇬🇧 | [Touhorology](https://x.com/TouHorology)
 [Touhou Store of Countless Things](https://shop.hakurei-sukeikai.com/) | Online shop for Touhou Project goods | 🇯🇵 | © 上海アリス幻樂団, ©TABLIER MARKETING inc.
+[Tvorchesky Studios](https://www.adagio.com/signature_blend/group.html?group=4602) | Touhou Tea | 🇬🇧 | [Tvorchesky Studios](https://www.adagio.com/pages/customer_profile.html?userId=406374TS)
 
 ### Sound
 *Go back to [Software](#software)*
@@ -508,5 +514,8 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[Alice is great!](https://www.alicemargatroid.moe/) | Welcome to this little corner of the internet celebrating Alice Margatroid from Touhou Project! I hope you enjoy Alice as much as I do! | 🇬🇧 | Alice is great!
+[Usually Dead Dot Com](https://www.usuallydead.com/) | Hosts remastered versions of the writer's fanfictions | 🇬🇧 | Tyler Lovell
+[The Gensokyo Institute](https://gensokyoinstitute.wordpress.com/2014/10/) | Founded in late 2014, The Gensokyo Institute aims to discuss the social aspects of the geek community and the media they consume. | 🇬🇧 | Michelangelo Landgrave
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
 
