@@ -87,6 +87,7 @@ Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been p
     - [Sound](#sound)
   - #### [Information](#information)
     - [Information Websites](#information-websites)
+    - [Podcast](#podcast)
   - #### [Fanfiction](#fanfiction)
     - [Writing](#writing)
 
@@ -186,6 +187,7 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [AKYU'S Illusion Lab. east branch office](https://web.archive.org/web/20080503133642/http://toho.genso.info/) | 2008 link index back when website creation was common. | 🇯🇵 | [About](https://web.archive.org/web/20080517044447/http://toho.genso.info/manual.html)
 [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376) | Old high quality introductory videos | 🇬🇧 | [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376)
+[IonicFox](https://www.youtube.com/@IonicFox) | Video travel archive of conventions featuring Touhou. | 🇬🇧 | [IonicFox](https://www.youtube.com/@IonicFox)
 [Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 [NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
 [Walfas](https://walfas.org/) | A Touhou blog from the 2010s that created Flash content. | 🇬🇧 | [KirbyM/@Walfie](https://x.com/walfieee)
@@ -239,9 +241,12 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [A Coasean Solution to the Scarlet Devil Incident](https://gensokyoinstitute.wordpress.com/2014/10/) | Economic perspective on Remilia's Scarlet Mist Incident | 🇬🇧 | Michelangelo Landgrave
+[Do haniwa dream of ceramic sheep?](https://yamayuandadu.tumblr.com/) | Articles on historical references in Touhou. | 🇬🇧 | [Antonia](https://yamayuandadu.tumblr.com/about)
 [Running PC98 Touhou on PC98](https://blog.soykaf.com/post/running-touhou-games-on-a-pc98-laptop/) | Getting Touhou games to run on a PC-9821 Na12 | 🇬🇧 | [Lainblog](https://blog.soykaf.com/)
+[Patchouli Knowledge laptop sticker](https://www.nayuki.io/page/patchouli-knowledge-laptop-sticker) | Writeup on the process and reasoning to add a Patchouli sticker to their laptop. | 🇬🇧 | [Nayuki](https://www.nayuki.io/page/about)
 [THE MOST CULTURED MEME: NEW TRANSLATION REVEALS HIDDEN DEPTH IN “JAPANESE GOBLIN”](https://lostinlocalization.com/japanese-goblin/) | Analysis on the japanese lyrics to WE ARE JAPANESE GOBLIN | 🇬🇧, 🇯🇵 | [@lostinloc](https://x.com/lostinloc)
 [Touhou Project and the Single-Gender World](https://androgynousanime.blogspot.com/2014/02/touhou-project-and-single-gender-world.html) | Analysis of the thematic impacts of the series' single-gender world | 🇬🇧 | [Androgyny in Animation](https://androgynousanime.blogspot.com/)
+[Where does ZUN draws his fashion sense for some of the designs of the girls?](https://huppaduppa.tumblr.com/post/121357009631/where-does-zun-draws-his-fashion-sense-for-some-of) | Influences on ZUN's fashion designs | 🇬🇧 | [Huppa Inc. ©](https://huppaduppa.tumblr.com/)
 
 ### Chatrooms
 *Go back to [Social](#social)*
@@ -433,6 +438,19 @@ Name | Description | Language | Author
 [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) | This wiki is dedicated to the Touhou Project, a Japanese gaming series that mostly contains curtain fire shoot'em up games made by ZUN. | Multilingual, select yours in the sidebar | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons
 [Touhou Wiki Japan](http://thwiki.info) | The Japanese Touhou Wiki made with PukiWuki | 🇯🇵 | [Emuqy](https://twitter.com/mktoho12)
 
+### Podcast
+*Go back to [Information](#information)*
+
+*Long audio recordings on dissussions related to Touhou.*
+
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Hifuu Community Club](https://www.youtube.com/playlist?list=PLnHsfVJM8tGof93Fg67f6jmvd8OKZJpsT) | Podcast that ran from 2022. Interviews community members on their work. | 🇬🇧 | [MegaPig](https://megafrog.carrd.co/)
+[Gensokyo Radio Shows](https://gensokyoradio.net/shows/) | Gensokyo Radio Live is the premiere monthly live broadcast on Gensokyo Radio, covering new music, listener-rated music, and a multitude of topics ranging from Touhou and Japanese culture, to Virtual Reality and Gaming. | 🇬🇧 | [@GensokyoRadio](https://x.com/GensokyoRadio)
+[Outside World Occultism](https://outsideworldoccultism.tumblr.com/about) | Outside World Occultism is a lighthearted podcast about the lore, characters, and assorted media of the Touhou Project. New episodes as our editor has time, please wait warmly! | 🇬🇧 | [Outside World Occultism](https://outsideworldoccultism.tumblr.com/about)
+[Touhou Tuesday](https://kngi.org/category/past-episodes-touhou-tuesday/) | Ran from 2012-2016. Broadcasted Touhou music with occasional interviews with community members. | 🇬🇧 | [KNGI Network](https://kngi.org/contact/)
+[Touhou Radio Next Gen.](https://www.youtube.com/playlist?list=PLwYFBDDkop8szdK1BIwhB0UqPu2qzF0iy) | We are Touhou Radio Next Gen., your weekly Touhou YouTube Podcast! Our topics are: remixes, games, fan works and updates on the community. Every week, we try to invite a new guest, who is doing something Touhou related. | 🇬🇧 | [Touhou Radio Next Gen.](https://www.facebook.com/TouhouRadioNextGen/)
+
 ### Miscellaneous
 *Go back to [Miscellaneous Things](#miscellaneous-things)*
 
@@ -442,10 +460,7 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[Outside World Occultism](https://outsideworldoccultism.tumblr.com/about) | Outside World Occultism is a lighthearted podcast about the lore, characters, and assorted media of the Touhou Project. New episodes as our editor has time, please wait warmly! | 🇬🇧 | [Outside World Occultism](https://outsideworldoccultism.tumblr.com/about)
 [Touhou lost media](https://moriyashrine.org/forums/topic/2428-touhou-lost-media/) | The goal of this topic is collecting information about lost media and links in one place. There are some categories for systematization. In each category the media goes from more well-known or having more chances to be found to more obscure. If you have some info about this lost media or some other lost media, post it. | 🇬🇧 | [vanyk](https://moriyashrine.org/profile/38795-vanyk/)
-[Touhou Tuesday](https://kngi.org/category/past-episodes-touhou-tuesday/) | Podcast that ran from 2012 - 2016 | 🇬🇧 | [KNGI Network](https://kngi.org/contact/)
-
 
 ### Modding
 *Go back to [Software](#software)*
@@ -497,6 +512,7 @@ Name | Description | Language | Location | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[Booth](https://booth.pm/en/items?sort=new&tags%5B%5D=%E6%9D%B1%E6%96%B9Project) | Ditgial store with many types of physical/digital goods. Use the search filter to your adventage. | 🇯🇵, 🇬🇧, 🇨🇳, 🇰🇷 | [pixiv](https://x.com/pixiv)
 [Dizzy Lab](https://www.dizzylab.net/) | Online store for independent music. | 🇨🇳 | [DizzyLab](https://weibo.com/dizzylab)
 [Gensokyo.store](https://gensokyo.store/) | Gensokyo.store is an online storefront helping to make self-published, physical fanworks more accessible to more fans in more places. | 🇬🇧 | [Gensokyo Radio](https://gensokyoradio.net/)
 [Touhorology](https://www.touhorology.com) | Based out of Sheboygan, Wisconsin, TouHorology creates physical good Touhou Project fan works. | 🇬🇧 | [Touhorology](https://x.com/TouHorology)
