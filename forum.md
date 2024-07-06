@@ -118,7 +118,6 @@ Name | Description | Language | Author
 ### Official Music
 *Go back to [Official Works](#official-works)*
 
-
 *Collection of music that appears in works made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
 
 *If you wish a physical copy or to purchase the music digitally, please check the [Purchasing Guide](https://en.touhouwiki.net/wiki/Purchasing_Guide)*
@@ -495,6 +494,7 @@ Name | Description | Language | Author
 *Go back to [Software](#software)*
 
 *Get software related to Sound and Touhou*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Hifuu Music Archives](https://mega.nz/folder/Sb4V2BqY#CNYrFCgUQmxskEu1p8_vUg) | A free-to-use audio library of Hifuu songs for creators. | 🎶 | [Fantasy Mechanics](https://www.youtube.com/@FantasyMechanics)
