@@ -47,6 +47,8 @@ I want to specially thank Maribel for creating this amazing resource, it served 
 
 Without the amazing work of the Touhou Wikis, this endeavor wouldn't have been possible. Multiple things from this list come from here.
 
+Thanks to all the [Contributors](https://github.com/Raxelgrande/awesome-touhou/graphs/contributors) for their hard work!
+
 ## Table of Contents
 - ### [Official Works](#official-works)
   - [Official Games](#official-games)
