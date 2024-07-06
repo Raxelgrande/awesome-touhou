@@ -256,8 +256,11 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[ArabSokyo](https://discord.gg/5nxSyGdmBA) | Arab Discord Server for Touhou | 🇸🇦 | [ArabSokyo](https://discord.gg/5nxSyGdmBA)
 [Paradise of Boundaries](https://discord.gg/DFguh3GYG2) | Comunidad y Círculo Creativo Hispano dedicado a Touhou Project. Nuestro propósito es incentivar y crear contenido con el fin de fortalecer y expandir a la comunidad hispana. | 🇲🇽 | [Paradise of Boundaries](https://discord.gg/DFguh3GYG2)
+[Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE) | Welcome to the PoFV netplay server! | 🇬🇧, Multilingual | [Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE)
 [The Gap](https://discord.gg/2hu) | Your place to find more curated Discord servers | 🇬🇧, Multilingual servers | [The Gap](https://discord.gg/2hu)
+[Touhou 15.5 AoCF](https://discord.gg/kfJTRBq) | Main community server for the fighting game Antinomy of Common Flowers | 🇬🇧, Available links for Multilingual servers | [Touhou 15.5 AoCF](https://discord.gg/kfJTRBq) 
 [Touhou Discord](https://discord.com/invite/touhou) | The largest Touhou Project server on Discord! | 🇬🇧 | [Touhou Discord](https://discord.com/invite/touhou)
 
 ### Competitive Danmaku Replays And Scoring
@@ -271,7 +274,6 @@ Name | Description | Language | Author
 [High Score Storage](https://maribelhearn.com/scoring) | Enter your high scores. You can leave any high score empty | 🇬🇧 | maribelhearn@disroot.org
 [Gensokyo Replay Archive](https://maribelhearn.com/gensokyo) | A complete archive of the Touhou replays from replays.gensokyo.org, with the same search functionality as said website. | 🇬🇧 | maribelhearn@disroot.org
 [Competitive PoFV](https://maribelhearn.com/pofv) | This is a portal for competitive PoFV play, featuring the current tier list, a guide to help you get started with netplay, and links to relevant resources | 🇬🇧, 🇨🇳 | maribelhearn@disroot.org
-[Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE) | Welcome to the PoFV netplay server! | 🇬🇧, Multilingual | [Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE)
 [Royalflare Replay Archive](https://maribelhearn.com/royalflare) | On 3 January 2022, Royalflare stopped allowing replay uploads, and it will shut down at the end of the month. As such, this archive has been created to preserve all of its replays and history. Unlike the original website, these replays cannot be deleted. | 🇬🇧 | maribelhearn@disroot.org 
 [Silent Selene](https://www.silentselene.net) | Welcome to Silent Selene, the home of Touhou replays on the Internet. We support uploading replays for almost all Touhou games, so create an account and show us what you've got! | 🇬🇧 | webmaster@silentselene.net
 [The Danmaku Gameplay Wiki](https://wiki.maribelhearn.com/wiki/Main_Page) | This Wiki is designed to be User-Friendly, and a simple way to organize Resources for Danmaku Games. | 🇬🇧 | maribelhearn@disroot.org
