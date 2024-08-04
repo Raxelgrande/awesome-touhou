@@ -121,6 +121,7 @@ Name | Description | Language | Author
 *Collection of music that appears in works made or licensed by ©上海アリス幻樂団 (Team Shanghai Alice)*
 
 *If you wish a physical copy or to purchase the music digitally, please check the [Purchasing Guide](https://en.touhouwiki.net/wiki/Purchasing_Guide)*
+
 Name | Description | Author 
 ---- | ----------- | ------
 [Team Shanghai Alice Discography](https://open.spotify.com/artist/53UfU5Etv91LUU69GzTQ1X/discography/album) | Full discography available for streaming on Spotify. | Team Shanghai Alice (ZUN)
