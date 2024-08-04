@@ -35,7 +35,9 @@ You can also give ideas for the project and everything that can improve it is we
 
 **forum.md** is another version of the list, designed to be more compact and ideal to place in forums. To update it, just copy and replace the old version with everything below [Thanks And Contributors](#thanks-and-contributors), as the difference is the introductory text, not the list's content. You can convert the list from Markdown into your desired format using [Pandoc](https://pandoc.org/).
 
- 
+The currently used command to generate reliable html versions is:
+    
+    pandoc --from gfm --to html5 --standalone --no-highlight OG-FILE.md -o DESTINY-FILE
 
 ## Thanks And Contributors 
 - [Maribel Hearn's Touhou Portal](https://maribelhearn.com/)
