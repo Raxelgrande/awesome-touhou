@@ -258,8 +258,8 @@ Name | Description | Language | Author
 [Patchouli Knowledge laptop sticker](https://www.nayuki.io/page/patchouli-knowledge-laptop-sticker) | Writeup on the process and reasoning to add a Patchouli sticker to their laptop. | 🇬🇧 | [Nayuki](https://www.nayuki.io/page/about)
 [Suwa Grand Shrine – A Touhou Pilgrimage](https://web.archive.org/web/20160206232437/https://punynari.wordpress.com/2010/09/04/suwa-grand-shrine-a-touhou-pilgrimage/) | A pilgrimage report on locations featured in Mountain of Faith and Subterranean Animism. | 🇬🇧 | [punynari](https://web.archive.org/web/20160206213332/https://punynari.wordpress.com/about/)
 [THE MOST CULTURED MEME: NEW TRANSLATION REVEALS HIDDEN DEPTH IN “JAPANESE GOBLIN”](https://lostinlocalization.com/japanese-goblin/) | Analysis on the japanese lyrics to WE ARE JAPANESE GOBLIN. | 🇬🇧, 🇯🇵 | [@lostinloc](https://x.com/lostinloc)
-[Touhou Project and the Single-Gender World](https://androgynousanime.blogspot.com/2014/02/touhou-project-and-single-gender-world.html) | Analysis of the thematic impacts of the series' single-gender world | 🇬🇧 | [Lyrica Live](https://lyricalive.tumblr.com/about)
-[Where does ZUN draws his fashion sense for some of the designs of the girls?](https://huppaduppa.tumblr.com/post/121357009631/where-does-zun-draws-his-fashion-sense-for-some-of) | Influences on ZUN's fashion designs | 🇬🇧 | [Huppa Inc. ©](https://huppaduppa.tumblr.com/)
+[Touhou Project and the Single-Gender World](https://androgynousanime.blogspot.com/2014/02/touhou-project-and-single-gender-world.html) | The thematic impacts of the series' single-gender world. | 🇬🇧 | [Lyrica Live](https://lyricalive.tumblr.com/about)
+[Where does ZUN draws his fashion sense for some of the designs of the girls?](https://huppaduppa.tumblr.com/post/121357009631/where-does-zun-draws-his-fashion-sense-for-some-of) | Influences on ZUN's fashion designs. | 🇬🇧 | [Huppa Inc. ©](https://huppaduppa.tumblr.com/)
 [“Yūgen” in the nature art of Touhou](https://gnosisonic.wordpress.com/2011/01/13/yugen-in-the-nature-art-of-touhou/) | The beauty on the focus of nature over the girls in Touhou art. | 🇬🇧 | [gnosisonic](https://gnosisonic.wordpress.com/)
 
 ### Chatrooms
@@ -394,7 +394,7 @@ Name | Description | Language | Author
 
 *Awesome fangames that are based (in some way or another) on the Touhou Project series*
 
-*If you can't find the fangame you are looking for, check [Touhou Wiki](https://en.touhouwiki.net/wiki/Category:Fangames) for fangames in gerneral or [Touhou Curator](https://store.steampowered.com/curator/34784046-Touhou-Curator/) for fangames on Steam*
+*If you can't find the fangame you are looking for, check [Touhou Wiki](https://en.touhouwiki.net/wiki/Category:Fangames) for fangames in general or [Touhou Curator](https://store.steampowered.com/curator/34784046-Touhou-Curator/) for fangames on Steam*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
@@ -458,7 +458,7 @@ Name | Description | Language | Author
 ### Podcasts
 *Go back to [Information](#information)*
 
-*For long audio recordings that featured dissussions related to Touhou*
+*For long audio recordings that loop their dissussions back to Touhou*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
