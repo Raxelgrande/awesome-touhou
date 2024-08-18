@@ -189,12 +189,17 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[AKYU'S Illusion Lab. east branch office](https://web.archive.org/web/20080503133642/http://toho.genso.info/) | 2008 link index back when website creation was common. | 🇯🇵 | [About](https://web.archive.org/web/20080517044447/http://toho.genso.info/manual.html)
+[A Timeline of Hisouten(soku), and its Community and Meta-game](https://www.reddit.com/r/touhou/comments/6f3r8o/a_timeline_of_hisoutensoku_and_its_community_and/) | A 2017 timeline history of Hisouten's Community, starting from 2007. | 🇬🇧 | [Tessiro](https://x.com/Tessiro48)
+[AKYU'S Illusion Lab. east branch office](https://web.archive.org/web/20080503133642/http://toho.genso.info/) | A 2008 Japanese Touhou site index that actively recorded new fan activities in Touhou doujin circles. Essentially a information gathering site for Japanese Touhou fandom.  | 🇯🇵 | [About](https://web.archive.org/web/20080517044447/http://toho.genso.info/manual.html)
+[AWA Touhou Scroll Project](https://www.shrinemaiden.org/forum/index.php?topic=14392.0) | For ZUN's appreance at Anime Weekend Atlanta 2013, a scroll featuring all of the Touhou characters was given as gift. In order to create to scroll, 70 artists participated in the scroll's creation. | 🇬🇧 | [Totaku](https://www.deviantart.com/totaku)
+[Doujin Works, Legality, Supporting Creators, and the Doujin Mentality](https://www.reddit.com/r/touhou/comments/2t8zy4/doujin_works_legality_supporting_creators_and_the/) | Following the ordeal with FSS's Touhou Super Smash Battles Indiegogo, and previous consideration of a community TLMC. I've been thinking pretty heavily about the doujin scene as a whole. | 🇬🇧 | [james7132](https://x.com/james7132)
 [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376) | Old high quality introductory videos | 🇬🇧 | [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376)
 [IonicFox](https://www.youtube.com/@IonicFox) | Video travel archive of conventions featuring Touhou. | 🇬🇧 | [IonicFox](https://www.youtube.com/@IonicFox)
 [Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
 [NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
-[Walfas](https://walfas.org/) | A Touhou blog from the 2010s that created Flash content. | 🇬🇧 | [KirbyM/@Walfie](https://x.com/walfieee)
+[Touhou Project ft. GS System (Canceled)](https://www.kickstarter.com/projects/18592227/touhou-project-ft-gs-system/posts/837866) | A Touhou card game in English. The reason for cancellation was that crowdfunding was not considered an appropriate monetization method under the Touhou derivative work guidelines at the time. | 🇬🇧 | [GS System](https://www.facebook.com/profile.php?id=100067759894610)
+[Redditaisai](https://redditaisai.com/#/) | An online Touhou doujin convention on /r/Touhou that brought together western Touhou fandom creators. It ran on [2016](https://www.reddit.com/r/touhou/comments/4sqrsw/redditaisai_2016/), [2017](https://www.reddit.com/r/touhou/comments/6q7iod/redditaisai_2017/), [2018](https://www.reddit.com/r/touhou/comments/91vtdl/redditaisai_2018/), and [2019](https://www.reddit.com/r/touhou/comments/ci9pax/redditaisai_2019/). | 🇬🇧 | [/r/Touhou](https://www.reddit.com/r/touhou/comments/3s2nju/rtouhous_hakurei_shrine_festival_super_advance/)
+[Walfas](https://walfas.org/) | A Touhou blog from the 2010s that created Flash content and is the origin for Walfas. | 🇬🇧 | [KirbyM/@Walfie](https://x.com/walfieee)
 
 ### Ascii
 *Go back to [Arts And Crafts](#arts-and-crafts)*
@@ -221,7 +226,9 @@ Name | Description | Language | Author
 [Ideología Inversa](https://www.youtube.com/c/IdeologiaInversa) | Canal 100% dedicado a Touhou Project | 🇲🇽 | [Ideología Inversa](https://www.youtube.com/@IdeologiaInversa)
 [Iyanez](https://www.youtube.com/@iyanez) | hello my name is iyanez i make 3d anims on blender and yea thats about it, mainly touhou stuff | 🇬🇧 | [@Iyanez11](https://twitter.com/Iyanez11)
 [Jo2n](https://www.youtube.com/@jo2n847) | I primarily do animations of touhou stuff sometime other games too, depend on how I'm vibing that day | 🇬🇧 | [@JNafuda](https://x.com/JNafuda)
+[Kanonical64](https://www.youtube.com/@Kanonical) | Hi, Kanonical here! I'm a transgender girl who loves playing and talking about video games. I want to make scripted videos which take a lot of time to make so my upload schedule is really inconsistent. | 🇬🇧 | [@Kanonical64](https://x.com/Kanonical64)
 [Kero-san](https://www.youtube.com/@Kerosan_of_Gensokyo) | Welcome everyone ! “Welcome to Gensokyo” is a YouTube show aimed at raising awareness of the Touhou universe through its characters and story | 🇫🇷 | [@Kerosan11](https://twitter.com/Kerosan11)
+[Lavishin Legit](https://www.youtube.com/@lavishinlegit) | Walfas animation videos. | 🇬🇧 | [LavishinLegit](https://www.deviantart.com/lavishinlegit)
 [lunaPrism](https://www.youtube.com/@lunaPrism) |  Small hitbox with a big dream. | 🇬🇧 | [@xlunaprism](https://twitter.com/xlunaprism)
 [Marco Hayabuza](https://www.youtube.com/@MarcoHayabuza) | Hago Streams y Vídeos jugando todo tipo de Juegos!! :D | 🇲🇽 | [@MarcoHayabusa](https://twitter.com/MarcoHayabusa)
 [MegamanOmega](https://www.youtube.com/@MegamanOmega184) | I'm an average Touhou player who decided "Hey, let's post all this stuff online and maybe help others get into the series". | 🇬🇧 | [MegamanOmega](https://www.youtube.com/@MegamanOmega184)
@@ -230,8 +237,8 @@ Name | Description | Language | Author
 [Mush-Broom](https://www.youtube.com/@mush-broom) |  Hello there, I'm currently making some weird kind of animations, enjoy!  | 🇬🇧 | [@MushBroom1](https://twitter.com/MushBroom1)
 [Sr Pelo](https://www.youtube.com/@SrPelo) |  Hi! I am Pelo, hope you enjoy the ride | 🇲🇽, 🇬🇧 | [Sr Pelo](https://srpelo.newgrounds.com/)
 [Surnist](https://www.youtube.com/@Surnist) | I'm posting videos regarding Touhou, often asking questions around the series and the world around it every so often | 🇬🇧 | 
-[Spirit-Eye](https://www.youtube.com/@spirit-eye) | Hello, I mainly do videos about Touhou ~~a lot of PC98 content~~ | 🇬🇧 | [@SpiritEye4](https://twitter.com/SpiritEye4)
-[TenkkoEX](https://www.youtube.com/@TenkkoEX) | Heyo I'm Tenkko, a dude who likes Touhou and makes videos about different topics related to the series. Lore, gameplay, fanworks, a little bit of everything. | 🇬🇧 | [TenkkoEX](https://www.youtube.com/@TenkkoEX)
+[Spirit-Eye](https://www.youtube.com/@spirit-eye) | Hello, I mainly do videos about Touhou, more specifically, I like talking about the locations, Characters and story/lore of Touhou, and that is what most of my videos are about.  | 🇬🇧 | [@SpiritEye4](https://twitter.com/SpiritEye4)
+[tenco](https://www.youtube.com/@thtenco) | Heyo I'm tenco, a dude who likes Touhou and makes videos about different topics related to the series. Lore, gameplay, fanworks, a little bit of everything. | 🇬🇧 | [@thtenco](https://x.com/thtenco)
 [Vegemite-Flavored Indomie](https://www.youtube.com/@vegemiteflavoredindomie) | I make MMD videos with varying degrees of quality | 🇮🇩, 🇬🇧 | [@ALLHAILDURIANS](https://twitter.com/ALLHAILDURIANS)
 [WalfasStationWagon](https://www.youtube.com/@WalfasStationWagon/) | Hello! This is the official page of Nitori's Mysterious Station Wagon of Touhou, Fsteaks & Tables (AKA The Walfas Station Wagon)! | 🇬🇧 | [WalfasStationWagon](https://www.deviantart.com/walfasstationwagon)
 [Yumemey](https://www.youtube.com/@Yumemey) | Touhou plushies are pretty cool :) | 🇬🇧 | [@Yumemimeme](https://twitter.com/Yumemimeme)
@@ -244,23 +251,27 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[A Coasean Solution to the Scarlet Devil Incident](https://gensokyoinstitute.wordpress.com/2014/10/) | Economic perspective on Remilia's Scarlet Mist Incident | 🇬🇧 | Michelangelo Landgrave
-[Do haniwa dream of ceramic sheep?](https://yamayuandadu.tumblr.com/) | Articles on historical references in Touhou. | 🇬🇧 | [Antonia](https://yamayuandadu.tumblr.com/about)
+[A Coasean Solution to the Scarlet Devil Incident](https://gensokyoinstitute.wordpress.com/2014/10/20/a-coasean-solution-to-the-scarlet-devil-incident/) | Economic perspective on Remilia's Scarlet Mist Incident | 🇬🇧 | Michelangelo Landgrave
+[Dead Fish Chronicle's Arah Timur: 10 Year Anniversary](https://afsafe.blogspot.com/2019/12/dead-fish-chronicles-arah-timur-10-year.html) | The Arah Timur anthology is a series of Touhou Project doujin comic compilation by the circle Dead Fish Chronicles, spanning a total of six books. The first of the series was released in Comic Fiesta 2009, and with today being exactly 10 years since that release, I would like to do a sort of retrospective of the series of books. | 🇬🇧 | [@erifaults](https://x.com/erifaults)
+[Do haniwa dream of ceramic sheep?](https://yamayuandadu.tumblr.com/) | Articles on mythological references in Touhou. | 🇬🇧 | [Antonia](https://yamayuandadu.tumblr.com/about)
 [Running PC98 Touhou on PC98](https://blog.soykaf.com/post/running-touhou-games-on-a-pc98-laptop/) | Getting Touhou games to run on a PC-9821 Na12 | 🇬🇧 | [Lainblog](https://blog.soykaf.com/)
 [Patchouli Knowledge laptop sticker](https://www.nayuki.io/page/patchouli-knowledge-laptop-sticker) | Writeup on the process and reasoning to add a Patchouli sticker to their laptop. | 🇬🇧 | [Nayuki](https://www.nayuki.io/page/about)
+[Suwa Grand Shrine – A Touhou Pilgrimage](https://web.archive.org/web/20160206232437/https://punynari.wordpress.com/2010/09/04/suwa-grand-shrine-a-touhou-pilgrimage/) | A pilgrimage report on locations featured in Mountain of Faith and Subterranean Animism. | 🇬🇧 | [punynari](https://web.archive.org/web/20160206213332/https://punynari.wordpress.com/about/)
 [THE MOST CULTURED MEME: NEW TRANSLATION REVEALS HIDDEN DEPTH IN “JAPANESE GOBLIN”](https://lostinlocalization.com/japanese-goblin/) | Analysis on the japanese lyrics to WE ARE JAPANESE GOBLIN | 🇬🇧, 🇯🇵 | [@lostinloc](https://x.com/lostinloc)
 [Touhou Project and the Single-Gender World](https://androgynousanime.blogspot.com/2014/02/touhou-project-and-single-gender-world.html) | Analysis of the thematic impacts of the series' single-gender world | 🇬🇧 | [Androgyny in Animation](https://androgynousanime.blogspot.com/)
 [Where does ZUN draws his fashion sense for some of the designs of the girls?](https://huppaduppa.tumblr.com/post/121357009631/where-does-zun-draws-his-fashion-sense-for-some-of) | Influences on ZUN's fashion designs | 🇬🇧 | [Huppa Inc. ©](https://huppaduppa.tumblr.com/)
+[“Yūgen” in the nature art of Touhou](https://gnosisonic.wordpress.com/2011/01/13/yugen-in-the-nature-art-of-touhou/) | The beauty on the focus of nature over the girls in Touhou art. | 🇬🇧 | [gnosisonic](https://gnosisonic.wordpress.com/)
 
 ### Chatrooms
 *Go back to [Social](#social)*
-
 
 *Chat with people fond of Touhou!*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[Adelaide Touhou Project Appreciation Society](https://discord.com/invite/xbmhpgx4Dw) | Our goal is to host meet ups while bringing the Touhou community in South Australia together. The aim of this server is to announce potentional Touhou meet ups (mainly in the city) and and build connections meeting likeminded fans! | 🇬🇧 | [Adelaide Touhou Project Appreciation Society](https://www.immortalsmoke.com/)
 [ArabSokyo](https://discord.gg/5nxSyGdmBA) | Arab Discord Server for Touhou | 🇸🇦 | [ArabSokyo](https://discord.gg/5nxSyGdmBA)
+[Bayhou Project](https://bayhou.com/) | The San Francisco Bay Area's Touhou fan group. We host regular gatherings, so be sure to check out our Meetup or Facebook pages for more info. | 🇬🇧 | [Bayhou Project](https://discord.gg/hrPsM66)
 [Paradise of Boundaries](https://discord.gg/DFguh3GYG2) | Comunidad y Círculo Creativo Hispano dedicado a Touhou Project. Nuestro propósito es incentivar y crear contenido con el fin de fortalecer y expandir a la comunidad hispana. | 🇲🇽 | [Paradise of Boundaries](https://discord.gg/DFguh3GYG2)
 [Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE) | Welcome to the PoFV netplay server! | 🇬🇧, Multilingual | [Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE)
 [The Gap](https://discord.gg/2hu) | Your place to find more curated Discord servers | 🇬🇧, Multilingual servers | [The Gap](https://discord.gg/2hu)
@@ -467,8 +478,10 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
-[World,Touhou](https://www.bilibili.com/read/readlist/rl147496) | Covers overseas Touhou communities by looking various aspects of the community's culture. [Some articles have english translations](https://panzerabwehrkanone.wordpress.com/). | 🇨🇳 | [Pak长](https://www.facebook.com/profile.php?id=100004353407020)
+[106 Touhou Posters](https://beacetina.com/106-touhou-posters) | After almost full 3 years of work, this personal project of mine is finally complete. It consists of minimally illustrated poster renditions of 106 characters from the video game series Touhou Project. | 🇬🇧 | [Bea cetina](https://beacetina.com/about)
+[Circle-Goka](http://circle-goka.blog.jp/) | A doujin circle that publishes doujinshi on Touhou networking and doujin economics. They also run the [Touhou Event Statistics Comittee](https://touhou-evt-stat.blog.jp/archives/10560571.html), compiling statistics on Touhou events. | 🇯🇵, 🇬🇧 | [@ci_goka](https://x.com/ci_goka)
 [Touhou lost media](https://moriyashrine.org/forums/topic/2428-touhou-lost-media/) | The goal of this topic is collecting information about lost media and links in one place. There are some categories for systematization. In each category the media goes from more well-known or having more chances to be found to more obscure. If you have some info about this lost media or some other lost media, post it. | 🇬🇧 | [vanyk](https://moriyashrine.org/profile/38795-vanyk/)
+[World,Touhou](https://www.bilibili.com/read/readlist/rl147496) | Covers overseas Touhou communities by looking various aspects of the community's culture. [Some articles have english translations](https://panzerabwehrkanone.wordpress.com/). | 🇨🇳 | [Pak长](https://www.facebook.com/profile.php?id=100004353407020)
 
 ### Modding
 *Go back to [Software](#software)*
@@ -546,4 +559,4 @@ Name | Description | Language | Author
 [Alice is great!](https://www.alicemargatroid.moe/) | Welcome to this little corner of the internet celebrating Alice Margatroid from Touhou Project! I hope you enjoy Alice as much as I do! | 🇬🇧 |
 [Usually Dead Dot Com](https://www.usuallydead.com/) | Hosts remastered versions of the writer's fanfictions | 🇬🇧 | Tyler Lovell
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
-
+[胡蝶の見果てぬ夢](https://web.archive.org/web/20170408235105/http://www.geocities.jp/edelfalter/recture/wordbn.htm) | Keine's dialogues on Japanese literature with other Touhou characters.  | 🇯🇵 | [胡蝶の見果てぬ夢](https://web.archive.org/web/20170410080921if_/http://www.geocities.jp:80/edelfalter/index2.html)
