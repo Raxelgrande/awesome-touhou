@@ -341,6 +341,7 @@ Name | Description | Language | Author
 [Touhou Character Tier List](https://tiermaker.com/create/all-relevant-touhou-characters-t1-t18-books-and-cds-1244738) | This template includes every single Touhou character that is relevant and appears in mainstream Touhou media. | 🇬🇧 | [Touhou Character Tier List](https://tiermaker.com/create/all-relevant-touhou-characters-t1-t18-books-and-cds-1244738)
 [Touhou Song Sorter](https://relick.me/song/) | This is a sorter for ZUN's Touhou (and other) songs. Pick your sources, and hit the Start button. | 🇬🇧 | [Touhou Song Sorter](https://github.com/relick/touhou-song-sorter)
 [Yukkuri Talk](https://yukkuritalk.com) | ゆっくりしていってね！！！| 🇬🇧 | [@kdingo](https://twitter.com/kdingo)
+[Zun Art](https://zunart.shinten.moe/) | Guess the face of the Touhou character! | 🇬🇧 🇯🇵 | [Zun Art](https://zunart.shinten.moe/)
 
 ### Games
 *Go back to [Software](#software)*
