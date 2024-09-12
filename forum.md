@@ -499,6 +499,7 @@ Name | Description | Language | Location | Author
 
 ### Scanlation
 *Get your translated manga in here!*
+
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Sanae's Bread Scans](https://sanaesbread.moe/) | We're a small scanlation team that likes to translate Touhou and Clannad doujinshi! | 🇬🇧 | contact@sanaesbread.moe
