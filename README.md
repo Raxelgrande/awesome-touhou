@@ -93,6 +93,7 @@ Thanks to all the [Contributors](https://github.com/Raxelgrande/awesome-touhou/g
     - [Information Websites](#information-websites)
     - [Podcasts](#podcasts)
   - #### [Fanfiction](#fanfiction)
+    - [Scanlation](#scanlation)
     - [Writing](#writing)
 
 ### Official Games
@@ -192,10 +193,12 @@ Name | Description | Language | Author
 [A Timeline of Hisouten(soku), and its Community and Meta-game](https://www.reddit.com/r/touhou/comments/6f3r8o/a_timeline_of_hisoutensoku_and_its_community_and/) | A timeline history of the Hisoutensoku community, starting from 2007 and ending at 2017. | 🇬🇧 | [Tessiro](https://x.com/Tessiro48)
 [AKYU'S Illusion Lab. east branch office](https://web.archive.org/web/20080503133642/http://toho.genso.info/) | A 2008 Japanese Touhou site index that actively recorded new fan activities in Touhou doujin circles. Essentially a information gathering site for the Japanese Touhou fandom.  | 🇯🇵 | [About](https://web.archive.org/web/20080517044447/http://toho.genso.info/manual.html)
 [AWA Touhou Scroll Project](https://www.shrinemaiden.org/forum/index.php?topic=14392.0) | For ZUN's appreance at Anime Weekend Atlanta 2013, a scroll featuring all of the Touhou characters was given as gift. In order to create to scroll, 70 artists participated in the scroll's creation. | 🇬🇧 | [Totaku](https://www.deviantart.com/totaku)
+[Dagobah Flash Gallery](https://dagobah.net/?search=touhou) | Very old videos, games, and art. Beware of the weird thumbnails! | 🇬🇧 | [Dagobah](https://dagobah.net/)
 [Doujin Works, Legality, Supporting Creators, and the Doujin Mentality](https://www.reddit.com/r/touhou/comments/2t8zy4/doujin_works_legality_supporting_creators_and_the/) | Following the ordeal with FSS's Touhou Super Smash Battles Indiegogo, and previous consideration of a community TLMC. I've been thinking pretty heavily about the doujin scene as a whole. | 🇬🇧 | [james7132](https://x.com/james7132)
 [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376) | Old high quality introductory videos | 🇬🇧 | [Hata no Kokoro](https://www.youtube.com/@hatanokokoro6376)
 [IonicFox](https://www.youtube.com/@IonicFox) | Video travel archive of conventions featuring Touhou. | 🇬🇧 | [IonicFox](https://www.youtube.com/@IonicFox)
 [Maidens of the Kaleidoscope Timeline](https://www.shrinemaiden.org/forum/index.php?topic=8592.0) | It's a long and storied history for a website - a history that ought to be told. | 🇬🇧 | [Credits](https://www.shrinemaiden.com/index.php?action=credits)
+[Moriya Shrine Forums](https://moriyashrine.org/forums/) | Let's discuss Touhou Project together! | 🇬🇧 | Moriya Shrine
 [NitorInc](https://github.com/NitorInc/NitoriWare) | Fan-made, community-driven collaboration to create a collection of microgames based on the Touhou universe and lore. | 🇬🇧 | [Contributors](https://github.com/NitorInc/NitoriWare/graphs/contributors)
 [Touhou Project ft. GS System (Canceled)](https://www.kickstarter.com/projects/18592227/touhou-project-ft-gs-system/posts/837866) | A Touhou card game in English. The reason for cancellation was that crowdfunding was not considered an appropriate monetization method under the Touhou derivative work guidelines at the time. | 🇬🇧 | [GS System](https://www.facebook.com/profile.php?id=100067759894610)
 [Redditaisai](https://redditaisai.com/#/) | An online Touhou doujin convention on /r/Touhou that brought together western Touhou fandom creators. It ran on [2016](https://www.reddit.com/r/touhou/comments/4sqrsw/redditaisai_2016/), [2017](https://www.reddit.com/r/touhou/comments/6q7iod/redditaisai_2017/), [2018](https://www.reddit.com/r/touhou/comments/91vtdl/redditaisai_2018/), and [2019](https://www.reddit.com/r/touhou/comments/ci9pax/redditaisai_2019/). | 🇬🇧 | [/r/Touhou](https://www.reddit.com/r/touhou/comments/3s2nju/rtouhous_hakurei_shrine_festival_super_advance/)
@@ -436,6 +439,7 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[Safebooru Touhou](https://safebooru.org/index.php?page=post&s=list&tags=touhou) | Website dedicated to gather all kinds of safe images, the link has the Touhou tag already selected | 🇬🇧 | [Safebooru](https://safebooru.org/)
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | [Touhou-Project.com](https://www.touhou-project.com)
 
 ### Information Websites 
@@ -509,6 +513,7 @@ Name | Description | Language | Author
 
 Name | Description | Language | Musical Genre | Author 
 ---- | ----------- | -------- | ------------- | ------
+[Gensokyo Radio](https://gensokyoradio.net) | The #1 radio station for fan-made Touhou Project arrangements since 2011. | 🇬🇧 | Radio, Multigenre | staff@gensokyoradio.net
 [Touhou Arrangement Chronicle](https://touhou.arrangement-chronicle.com/) | Eastern collaborative database for Touhou music, alike TouhouDB. | 🇯🇵 | Multigenre |[Touhou Arrangement Chronicle](https://touhou.arrangement-chronicle.com/)
 [Touhou Circles' Official Music Streaming](https://docs.google.com/spreadsheets/d/1pFKf0-yMSN-tkFs2G8zBkEly1fc9klfwUb-zgJiDPyc/edit?usp=drivesdk) | Some circles' official streaming websites. | 🇬🇧 | Multi Genere | [@mgisnotactive](https://twitter.com/mgisnotactive)
 [TouhouDB](https://touhoudb.com/) | The collaborative database for Touhou music, with artists, discography, PVs and more. | 🇬🇧 | Multigenre | [TouhouDB](https://touhoudb.com/)
@@ -527,6 +532,12 @@ Name | Description | Language | Location | Author
 [TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences. | 🇨🇳 | Multiple | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [TouhouFest](https://www.touhoufest.org/) | Touhou fans from across the country will gather to celebrate the coming season and enjoy all the Touhou community has to offer such as art, music, and more! | 🇺🇸 | 🇺🇸 | [TouhouFest](https://www.touhoufest.org/)
 [Touhou Kouroumu](https://koromu-toho.com/) | Doujin convention that happens bi-anually. | 🇯🇵 | 🇯🇵 | [Touhou Kouroumu](https://koromu-toho.com/)
+
+### Scanlation
+*Get your translated manga in here!*
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Sanae's Bread Scans](https://sanaesbread.moe/) | We're a small scanlation team that likes to translate Touhou and Clannad doujinshi! | 🇬🇧 | contact@sanaesbread.moe
 
 ### Shops
 *Go back to [Merchandising](#merchandising)*
