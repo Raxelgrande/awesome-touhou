@@ -310,7 +310,7 @@ Name | Description | Language | Author
 [Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List) | List of other Discord servers with Soku communities. | Multilingual | [Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List)
 [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) | Wiki for Hisoutensoku. Containts frame data, strategy, and much more. | 🇬🇧 | [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
 [Touhou 15.5 AoCF](https://discord.gg/kfJTRBq) | Main community server for the fighting game Antinomy of Common Flowers. | 🇬🇧, Available links for Multilingual servers | [Touhou 15.5 AoCF](https://discord.gg/kfJTRBq) 
-[Touhou AoCF Wiki](https://aocf.koumakan.jp/wiki/Antinomy_of_Common_Flowers_Wiki) | Wiki for AoCF. Containts frame data, strategy, and much more. | 🇬🇧, Available links for Multilingual servers | [Touhou 15.5 AoCF](https://discord.gg/kfJTRBq) 
+[Touhou AoCF Wiki](https://aocf.koumakan.jp/wiki/Antinomy_of_Common_Flowers_Wiki) | Wiki for AoCF. Containts frame data, strategy, and much more. | 🇬🇧 | [Touhou 15.5 AoCF](https://discord.gg/kfJTRBq) 
 
 
 ### Crafts
