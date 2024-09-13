@@ -494,7 +494,7 @@ Name | Description | Language | Author
 ### Modding
 *Go back to [Software](#software)*
 
-*Software dedicated to modifing Touhou Project games.*
+*Software dedicated to modifying Touhou Project games.*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
