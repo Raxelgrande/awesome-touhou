@@ -150,7 +150,7 @@ Name | Description | Language | Author
 ### Archival
 *Go back to [History](#history)*
 
-*Touhou came out in 1996, there is a lot of history and this is the place to watch the past*
+*Relics from the vast history of Touhou and its community, from 1996 to now.*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
@@ -181,7 +181,7 @@ Name | Description | Language | Author
 ### Audiovisual Creators
 *Go back to [Arts And Crafts](#arts-and-crafts)*
 
-*Find the makers of the videos you love!*
+*Find Touhou content creators!*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
@@ -242,7 +242,6 @@ Name | Description | Language | Author
 [Paradise of Boundaries](https://discord.gg/DFguh3GYG2) | Comunidad y Círculo Creativo Hispano dedicado a Touhou Project. Nuestro propósito es incentivar y crear contenido con el fin de fortalecer y expandir a la comunidad hispana. | 🇲🇽 | [Paradise of Boundaries](https://discord.gg/DFguh3GYG2)
 [Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE) | Welcome to the PoFV netplay server! | 🇬🇧, Multilingual | [Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE)
 [The Gap](https://discord.gg/2hu) | Your place to find more curated Discord servers. | 🇬🇧, Multilingual servers | [The Gap](https://discord.gg/2hu)
-[Touhou 15.5 AoCF](https://discord.gg/kfJTRBq) | Main community server for the fighting game Antinomy of Common Flowers. | 🇬🇧, Available links for Multilingual servers | [Touhou 15.5 AoCF](https://discord.gg/kfJTRBq) 
 [Touhou Discord](https://discord.com/invite/touhou) | The largest Touhou Project server on Discord! | 🇬🇧 | [Touhou Discord](https://discord.com/invite/touhou)
 
 ### Competitive Danmaku Replays And Scoring
@@ -267,18 +266,21 @@ Name | Description | Language | Author
 ### Competitive Fighting Games
 Go back to [Gaming Communities](#gaming-communities)
 
-*Who will win? Find about the best way to defeat the oponent here*
+*Live or let die! Find matches and training resources for Touhou fighting games here.*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Hisouten Discord](https://discord.gg/hisouten) | This is the main server for Touhou 12.3 Hisoutensoku and the international Hisoutensoku community. | 🇬🇧 | [Soku Delthas](https://soku.delthas.fr/)
 [Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List) | List of other Discord servers with Soku communities. | Multilingual | [Hisouten Discord Lists](https://hisouten.koumakan.jp/wiki/Discord_Servers_List)
-[Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) | Your source of information for everything Hisoutensoku. | 🇬🇧 | [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
+[Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki) | Wiki for Hisoutensoku. Contains frame data, strategy, and much more. | 🇬🇧 | [Touhou Hisoutensoku Wiki](https://hisouten.koumakan.jp/wiki/Touhou_Hisoutensoku_Wiki)
+[Touhou 15.5 AoCF](https://discord.gg/kfJTRBq) | Main community server for the fighting game Antinomy of Common Flowers. | 🇬🇧, Available links for Multilingual servers | [Touhou 15.5 AoCF](https://discord.gg/kfJTRBq) 
+[Touhou AoCF Wiki](https://aocf.koumakan.jp/wiki/Antinomy_of_Common_Flowers_Wiki) | Wiki for AoCF. Contains frame data, strategy, and much more. | 🇬🇧 | [Touhou 15.5 AoCF](https://discord.gg/kfJTRBq) 
+
 
 ### Crafts
 *Go back to [Arts And Crafts](#arts-and-crafts)*
 
-*Let's make and enjoy cool Touhou things made with our hands!*
+*For all things arts and crafts related to Touhou!*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
@@ -307,7 +309,7 @@ Name | Description | Language | Author
 *Go back to [Social](#social)*
 
 
-*Forums to discuss things about Touhou*
+*Forums to discuss things about Touhou.*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
@@ -341,7 +343,7 @@ Name | Description | Language | Author
 ### Fun Software
 *Go back to [Software](#software)*
 
-*Fun programs that are not games*
+*Fun programs that are not games.*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
@@ -360,7 +362,7 @@ Name | Description | Language | Author
 ### Games
 *Go back to [Software](#software)*
 
-*Awesome fangames that are based (in some way or another) on the Touhou Project series*
+*Awesome fangames that are based (in some way or another) on the Touhou Project series.*
 
 *If you can't find the fangame you are looking for, check [Touhou Wiki](https://en.touhouwiki.net/wiki/Category:Fangames) for fangames in general or [Touhou Curator](https://store.steampowered.com/curator/34784046-Touhou-Curator/) for fangames on Steam*
 
@@ -442,7 +444,7 @@ Name | Description | Language | Author
 ### Miscellaneous
 *Go back to [Miscellaneous Things](#miscellaneous-things)*
 
-*Your place for strange things that don't fit anywhere else* 
+*Your place for strange things that don't fit anywhere else...* 
 
 *It's likely some of these things are here due to language barriers or other difficulties, if you discover something, let us know.*
 
@@ -456,7 +458,7 @@ Name | Description | Language | Author
 ### Modding
 *Go back to [Software](#software)*
 
-*Software dedicated to modify the behavior or facilitate the enjoyment of Touhou Project games*
+*Software dedicated to modifying Touhou Project games.*
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
@@ -467,11 +469,12 @@ Name | Description | Language | Author
 [thprac](https://github.com/touhouworldcup/thprac) | A tool for practicing Touhou shmups | 🇬🇧 | [Touhou World Cup](https://github.com/touhouworldcup)
 [Touhou Danmakufu](http://dmf.shrinemaiden.org/) | A relatively easy-to-use STG maker program which leans toward making Touhou Project-style games with a C-like programming language. | 🇬🇧 | Touhou Danmakufu
 [Touhou Patches and Tools](https://maribelhearn.com/tools) | This page contains download links to all kinds of different patches or tools applicable to the official Touhou shooting games. | Multilingual | maribelhearn@disroot.org 
+[Mod:SOKU2](https://soku2.wordpress.com/) | Mod for Hisoutensoku which adds many new characters. | 🇬🇧 | [Mod:SOKU2](https://soku2.wordpress.com/)
 
 ### Music Streaming
 *Go back to [Music](#music)*
 
-*Your place to enjoy Doujin music via Streaming*
+*Your place to enjoy Doujin music via Streaming.*
 
 *If something's missing, try searching at [The Doujin Circles Section](https://github.com/Raxelgrande/awesome-touhou?tab=readme-ov-file#doujin-circles)*
 
@@ -536,5 +539,6 @@ Name | Description | Language | Author
 ---- | ----------- | -------- | ------
 [Alice is great!](https://www.alicemargatroid.moe/) | Welcome to this little corner of the internet celebrating Alice Margatroid from Touhou Project! I hope you enjoy Alice as much as I do! | 🇬🇧 |
 [Usually Dead Dot Com](https://www.usuallydead.com/) | Remastered versions of the writer's fanfictions. | 🇬🇧 | Tyler Lovell
+[Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
 [Touhou-Project.com](https://www.touhou-project.com) | We are a community of fans of the Touhou Project series of games and related material. Here you'll find not only discussion about this wonderful setting and its characters but also fanfiction written by talented individuals. | 🇬🇧 | Touhou-Project.com 
 [胡蝶の見果てぬ夢](https://web.archive.org/web/20170408235105/http://www.geocities.jp/edelfalter/recture/wordbn.htm) | Keine's dialogues on Japanese literature with other Touhou characters.  | 🇯🇵 | [胡蝶の見果てぬ夢](https://web.archive.org/web/20170410080921if_/http://www.geocities.jp:80/edelfalter/index2.html)
