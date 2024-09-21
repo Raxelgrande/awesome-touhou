@@ -533,6 +533,7 @@ Name | Description | Language | Location | Author
 [Bunbunmaru Newspaper Fan Club](https://bunbunmaru-np.com/) | Doujin convention | 🇯🇵 | 🇯🇵 | [Bunbunmaru Newspaper Fan Club](https://bunbunmaru-np.com/)
 [Ninth Generation Tea Party](https://ninth-gen-teaparty.info/) | Doujin convention | 🇯🇵 | 🇯🇵 | [Ninth Generation Tea Party](https://ninth-gen-teaparty.info/)
 [Reitaisai](https://reitaisai.com) | Yearly, Touhou Project-only convention that takes place every Spring in Tokyo Big Sight. | 🇯🇵 | Tokyo, Japan | [Reitaisai](https://reitaisai.com)
+[Re: Gensokyo Forum](https://gensokyoforum.info/) | A doujin convention structured similarly to a symposium as a forum for information and critique on Touhou. | 🇯🇵 | 🇯🇵 | [Re: Gensokyo Forum](https://gensokyoforum.info/)
 [TBH Offline Events](https://thwiki.cc/日程表) | Get information on offline events related to Touhou Project, oriented for eastern audiences. | 🇨🇳 | Multiple | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [TouhouFest](https://www.touhoufest.org/) | Touhou fans from across the country will gather to celebrate the coming season and enjoy all the Touhou community has to offer such as art, music, and more! | 🇺🇸 | 🇺🇸 | [TouhouFest](https://www.touhoufest.org/)
 [Touhou Kouroumu](https://koromu-toho.com/) | Doujin convention that happens bi-anually. | 🇯🇵 | 🇯🇵 | [Touhou Kouroumu](https://koromu-toho.com/)
