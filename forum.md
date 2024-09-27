@@ -142,12 +142,14 @@ Name | Description | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [東方Project News](https://touhou-project.news/) | Touhou Yomoya News, your official website for getting Touhou news. | 🇯🇵 | Team Shanghai Alice (ZUN), ©東方よもやま委員会
+[東方Project News' Bluesky](https://bsky.app/profile/touhou-project.bsky.social) | The official Bluesky account for Touhou Yomoya News | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Amusement Makers](http://www.kt.rim.or.jp/~aotaka/am/index.htm) | Old, inactive website of Amusement Makers. | 🇯🇵 | aotaka@kt.rim.or.jp
 [Kourindou Blog](https://kourindou.exblog.jp/) | ZUN's inactive blog. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Team Shanghai Alice](https://www16.big.or.jp/~zun/) | We are a circle that develops shoot 'em up games and creates music. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [The Guidelines for Touhou Project Fan Creations](https://touhou-project.news/guidelines_en/) | Legal guidelines in English, to provide fan creators with a brief understanding of dos and don'ts in a lenient manner. | 🇬🇧 | Team Shanghai Alice (ZUN)
 [Touhou Doujin Music Distribution](https://www.touhou-music.jp) | Making music for Touhou Project easier. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Touhou X](https://touhou-x.jp) | 25th Anniversary Touhou Website | 🇯🇵 | Team Shanghai Alice (ZUN) & ©アンノウンX
+[ZUN's Bluesky](https://bsky.app/profile/shanghai-alice.com) | The official Bluesky account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 
