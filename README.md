@@ -96,6 +96,8 @@ Thanks to all the [Contributors](https://github.com/Raxelgrande/awesome-touhou/g
   - #### [Fanfiction](#fanfiction)
     - [Scanlation](#scanlation)
     - [Writing](#writing)
+  - #### [Videos](#videos)
+    - [Gameplay Videos](#gameplay-videos)
 
 ### Official Games
 *Go back to [Official Works](#official-works)*
@@ -449,6 +451,15 @@ Name | Description | Language | Author
 [Touhou: New World](https://store.steampowered.com/app/2150660/Touhou_New_World/) | Delve back into the world of Touhou in this bullet hell action-RPG adventure! The boundary between Gensokyo and the outside world has been breached, and it falls to Reimu Hakurei and Marisa Kirisame to discover why. Level up skills, forge new equipment, and explore Gensokyo to uncover the truth! | 🇬🇧, 🇯🇵, 🇨🇳 | Ankake Spa
 [Touhou ~Red Empress Devil](https://store.steampowered.com/app/1734070/Touhou_Red_Empress_Devil/) | Roguelike BH Touhou game! If you have played "Enter The Gungeon" and wanted more BH action, then support this game! | Multilingual, check Steam page | [Studio Poco](https://twitter.com/studio_poco_en?lang=en)
 [Yoiyami Dancers: Twilight Danmaku Dancers](https://store.steampowered.com/app/1998530/Yoiyami_Dancers_Twilight_Danmaku_Dancers/) | Dodge to the beat of the rhythm while you deal with bosses and enemies in this cute side-scrolling rhythm hell! | 🇬🇧, 🇯🇵 | [tripper](https://twitter.com/7r1pp3r?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [六合ダイスケ](https://www.pixiv.net/en/users/1946476)
+
+### Gameplay Videos
+*Go back to [Videos](#videos)*
+
+*Watch gameplays of everything Touhou.*
+
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[JynX's Touhou Remakes Playlist](https://www.youtube.com/playlist?list=PLk6H3m3lpS_kC-_OMCFKI6VnszFllTOJ9) | JynX's (Len'en's creator) gameplay for his private remasters of PC98 Touhou | 🎮 | JynX
 
 ### Image Boards
 *Go back to [Arts And Crafts](#arts-and-crafts)*
