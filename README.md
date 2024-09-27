@@ -14,10 +14,10 @@ We really value your help, without it, this project would wither away very quick
 
 New to Touhou? Please read [Getting Started (shoot 'em up focused)](https://en.touhouwiki.net/wiki/Getting_Started), [Fandom](https://en.touhouwiki.net/wiki/Fandom) and [Touhou Reddit's Geting Started](https://www.reddit.com/r/touhou/comments/yt87b4/where_to_get_started_with_touhou_version_51/)
 
-## Contributing, Rules & Legal Information
+## Contributing & Rules
 If your work is mentioned in this project and you don't want to have it displayed, please contact us.
 
-We follow [The Guidelines for Touhou Project Fan Creations](https://touhou-project.news/guidelines_en/), if you find a violation of this, please let us know and we will take action to remove the content from the list. We also have a few additional rules:
+We have a few rules:
 
 - **Don't Be An Asshole:**
 The media here must be digestible to a wide audience. It has to contain things that are respectful and considerate to other people's circumstances. If necessary, this rule will get expanded, your morality and common sense should be good enough to respect others, don't prove us wrong.
@@ -90,6 +90,7 @@ Thanks to all the [Contributors](https://github.com/Raxelgrande/awesome-touhou/g
     - [Modding](#modding)
     - [Sound](#sound)
   - #### [Information](#information)
+    - [Critical Analysis](#critical-analysis)
     - [Information Websites](#information-websites)
     - [Podcasts](#podcasts)
   - #### [Fanfiction](#fanfiction)
@@ -178,6 +179,7 @@ Name | Description | Language | Author
 [Amusement Makers](http://www.kt.rim.or.jp/~aotaka/am/index.htm) | Old, inactive website of Amusement Makers. | 🇯🇵 | aotaka@kt.rim.or.jp
 [Kourindou Blog](https://kourindou.exblog.jp/) | ZUN's inactive blog. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Team Shanghai Alice](https://www16.big.or.jp/~zun/) | We are a circle that develops shoot 'em up games and creates music. | 🇯🇵 | Team Shanghai Alice (ZUN)
+[The Guidelines for Touhou Project Fan Creations](https://touhou-project.news/guidelines_en/) | Legal guidelines in English, to provide fan creators with a brief understanding of dos and don'ts in a lenient manner. | 🇬🇧 | Team Shanghai Alice (ZUN)
 [Touhou Doujin Music Distribution](https://www.touhou-music.jp) | Making music for Touhou Project easier. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Touhou X](https://touhou-x.jp) | 25th Anniversary Touhou Website | 🇯🇵 | Team Shanghai Alice (ZUN) & ©アンノウンX
 [ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | 🇯🇵 | Team Shanghai Alice (ZUN)
@@ -342,6 +344,17 @@ Name | Description | Language | Author
 [TBH Doujin List](https://thwiki.cc/同人社团列表) | List of Doujin circles/groups, categorized by region, year and type of work. | 🇨🇳 | [About Page](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E), Creative Commons
 [Touhou Wiki's Doujin Circles](https://en.touhouwiki.net/wiki/Doujin_circles) | This is a list of all of the doujin circles on our wiki. | Multilingual | [About Page](https://en.touhouwiki.net/wiki/Touhou_Wiki:About), Creative Commons 
 
+### Critical Analysis
+*Go back to [Information](#information)*
+
+
+*Disecting Touhou Project in depth.*
+
+Name | Description | Language | Author 
+---- | ----------- | -------- | ------
+[Archive of the Sealed Gods](https://archive-of-the-sealed-gods.neocities.org/) | A website that explores and documents the esoteric in Touhou Project in connection to spirituality. | 🇬🇧 | Emissary of the Kami
+[Reflections on the death of Touhou PC-98: Ultimate Collection and general rambling about Touhou Project](http://lainnet.arcesia.net/blog/2024_09_23_n01.html) | Blog post that rambles about copyright in Touhou Project and multiple parties affected by it | 🇬🇧 | [spaztron64](http://lainnet.arcesia.net/index.html)
+
 ### Forums
 *Go back to [Social](#social)*
 
@@ -489,7 +502,6 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [106 Touhou Posters](https://beacetina.com/106-touhou-posters) | After almost full 3 years of work, this personal project of mine is finally complete. It consists of minimally illustrated poster renditions of 106 characters from the video game series Touhou Project. | 🇬🇧 | [Bea cetina](https://beacetina.com/about)
-[Archive of the Sealed Gods](https://archive-of-the-sealed-gods.neocities.org/) | A website that explores and documents the esoteric in Touhou Project in connection to spirituality. | 🇬🇧 |
 [Circle-Goka](http://circle-goka.blog.jp/) | A doujin circle that publishes doujinshi on Touhou networking and doujin economics. They also run the [Touhou Event Statistics Comittee](https://touhou-evt-stat.blog.jp/archives/10560571.html), compiling statistics on Touhou events. | 🇯🇵, Certain parts are English | [@ci_goka](https://x.com/ci_goka)
 [Touhou lost media](https://moriyashrine.org/forums/topic/2428-touhou-lost-media/) | The goal of this topic is collecting information about lost media and links in one place. There are some categories for systematization. In each category the media goes from more well-known or having more chances to be found to more obscure. If you have some info about this lost media or some other lost media, post it. | 🇬🇧 | [vanyk](https://moriyashrine.org/profile/38795-vanyk/)
 [World,Touhou](https://www.bilibili.com/read/readlist/rl147496) | Covers overseas Touhou communities by looking at various aspects of the community's culture. [Some articles have english translations](https://panzerabwehrkanone.wordpress.com/). | 🇨🇳 | [Pak长](https://www.facebook.com/profile.php?id=100004353407020)
