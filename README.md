@@ -356,6 +356,7 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[Analysing DDC: Reversing the Ideology of Touhou](https://www.reddit.com/r/touhou/comments/wid6dk/analysing_ddc_reversing_the_ideology_of_touhou/) | Deep dive into Double Dealing Character (Touhou 14) | 🇬🇧 | [CatointheMiddle](https://www.reddit.com/user/CatointheMiddle/) 
 [Archive of the Sealed Gods](https://archive-of-the-sealed-gods.neocities.org/) | A website that explores and documents the esoteric in Touhou Project in connection to spirituality. | 🇬🇧 | Emissary of the Kami
 [Reflections on the death of Touhou PC-98: Ultimate Collection and general rambling about Touhou Project](http://lainnet.arcesia.net/blog/2024_09_23_n01.html) | Blog post that rambles about copyright in Touhou Project and multiple parties affected by it | 🇬🇧 | [spaztron64](http://lainnet.arcesia.net/index.html)
 
