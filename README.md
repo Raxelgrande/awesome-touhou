@@ -460,6 +460,7 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [JynX's Touhou Remakes Playlist](https://www.youtube.com/playlist?list=PLk6H3m3lpS_kC-_OMCFKI6VnszFllTOJ9) | JynX's (Len'en's creator) gameplay for his private remasters of PC98 Touhou | 🎮 | JynX
+[MegamanOmega's Touhou Playlists](https://www.youtube.com/@MegamanOmega184/playlists) | Hybrid text/video commentary gameplays of all the official Touhou games (1cc normal) | 🇬🇧 | [MegamanOmega](https://www.youtube.com/@MegamanOmega184)
 
 ### Image Boards
 *Go back to [Arts And Crafts](#arts-and-crafts)*
