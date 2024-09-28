@@ -287,6 +287,7 @@ Name | Description | Language | Author
 [Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE) | Welcome to the PoFV netplay server! | 🇬🇧, Multilingual | [Phantasmagoria Netplay Discord](https://discord.com/invite/2QPPPpE)
 [The Gap](https://discord.gg/2hu) | Your place to find more curated Discord servers. | 🇬🇧, Multilingual servers | [The Gap](https://discord.gg/2hu)
 [Touhou Discord](https://discord.com/invite/touhou) | The largest Touhou Project server on Discord! | 🇬🇧 | [Touhou Discord](https://discord.com/invite/touhou)
+[Touhou Replay Community Discord](https://discord.com/invite/xU3utzg) | Welcome to the Touhou Replay Showcase Discord server! | 🇬🇧 | [Touhou Replay Showcase](https://x.com/thrpyshowcase)
 
 ### Competitive Danmaku Replays And Scoring
 *Go back to [Gaming Communities](#gaming-communities)*
@@ -464,8 +465,12 @@ Name | Description | Language | Author
 
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
+[El Rincón de Touhou](https://www.youtube.com/@crisdaoff/videos) | Este canal recopila los mejores clips de Twitch sobre Touhou o " Algo de " Len'en | 🇪🇸 | [El Rincón de Touhou](https://www.youtube.com/@crisdaoff/videos)
 [JynX's Touhou Remakes Playlist](https://www.youtube.com/playlist?list=PLk6H3m3lpS_kC-_OMCFKI6VnszFllTOJ9) | JynX's (Len'en's creator) gameplay for his private remasters of PC98 Touhou | 🎮 | JynX
 [MegamanOmega's Touhou Playlists](https://www.youtube.com/@MegamanOmega184/playlists) | Hybrid text/video commentary gameplays of all the official Touhou games (1cc normal) | 🇬🇧 | [MegamanOmega](https://www.youtube.com/@MegamanOmega184)
+[PigeonVoyageur](https://www.youtube.com/c/PigeonxHunter/videos) | This only serve the purpose as to archive mostly unknown games in the channel's current state. | 🇬🇧 | [PigeonVoyageur](https://www.youtube.com/c/PigeonxHunter/videos)
+[Touhou Replay Showcase VODs](https://www.youtube.com/channel/UCYhGnYunYon3etuttwPw3cQ/videos) | Watching replays of Touhou while offering commentary | 🇬🇧 | [Touhou Replay Showcase](https://x.com/thrpyshowcase)
+[yeashie](https://www.youtube.com/@yeashie) |  Shmups, Fangames, Danmakufu, and random garbage I find on the Internet. | 🇬🇧 | [yeashie](https://yeashie-info.straw.page/)
 
 ### Image Boards
 *Go back to [Arts And Crafts](#arts-and-crafts)*
