@@ -150,7 +150,7 @@ Name | Description | Language | Author
 [Touhou Doujin Music Distribution](https://www.touhou-music.jp) | Making music for Touhou Project easier. | 🇯🇵 | Team Shanghai Alice (ZUN)
 [Touhou X](https://touhou-x.jp) | 25th Anniversary Touhou Website | 🇯🇵 | Team Shanghai Alice (ZUN) & ©アンノウンX
 [ZUN's Bluesky](https://bsky.app/profile/shanghai-alice.com) | The official Bluesky account. | 🇯🇵 | Team Shanghai Alice (ZUN)
-[ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. | 🇯🇵 | Team Shanghai Alice (ZUN)
+[ZUN's Twitter](https://twitter.com/korindo) | The official Twitter account. (BEWARE⚠️! Got recently hacked, enter carefully) | 🇯🇵 | Team Shanghai Alice (ZUN)
 [ZUN's YouTube](https://www.youtube.com/channel/UCRslviI58g0iRunL7z4LG7A) | The official YouTube account. | 🇯🇵 | Team Shanghai Alice (ZUN)
 
 ### Archival
