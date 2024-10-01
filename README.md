@@ -248,7 +248,8 @@ Name | Description | Language | Author
 [minusT](https://www.youtube.com/@0minusT) | I make animations using blender. | 🇬🇧 | [@tauminust](https://x.com/tauminust)
 [Mush-Broom](https://www.youtube.com/@mush-broom) |  Hello there, I'm currently making some weird kind of animations, enjoy!  | 🇬🇧 | [@MushBroom1](https://twitter.com/MushBroom1)
 [Sr Pelo](https://www.youtube.com/@SrPelo) |  Hi! I am Pelo, hope you enjoy the ride | 🇲🇽, 🇬🇧 | [Sr Pelo](https://srpelo.newgrounds.com/)
-[Surnist](https://www.youtube.com/@Surnist) | I'm posting videos regarding Touhou, often asking questions around the series and the world around it every so often | 🇬🇧 | 
+[Surnist](https://www.youtube.com/@Surnist) | I'm posting videos regarding Touhou, often asking questions around the series and the world around it every so often | 🇬🇧 | [Surnist](https://www.youtube.com/@Surnist) 
+[Suzunaan](https://www.youtube.com/@suzunaan1158) |  Bienvenidos a Suzunaan. Aquí encontrarán información de Touhou Project. | 🇪🇸 | [Suzunaan's Blogspot](https://suzunaanlatam.blogspot.com/)
 [Spirit-Eye](https://www.youtube.com/@spirit-eye) | Hello, I mainly do videos about Touhou, more specifically, I like talking about the locations, Characters and story/lore of Touhou, and that is what most of my videos are about.  | 🇬🇧 | [@SpiritEye4](https://twitter.com/SpiritEye4)
 [tenco](https://www.youtube.com/@thtenco) | Heyo I'm tenco, a dude who likes Touhou and makes videos about different topics related to the series. Lore, gameplay, fanworks, a little bit of everything. | 🇬🇧 | [@thtenco](https://x.com/thtenco)
 [Vegemite-Flavored Indomie](https://www.youtube.com/@vegemiteflavoredindomie) | I make MMD videos with varying degrees of quality | 🇮🇩, 🇬🇧 | [@ALLHAILDURIANS](https://twitter.com/ALLHAILDURIANS)
