@@ -248,7 +248,8 @@ Name | Description | Language | Author
 [minusT](https://www.youtube.com/@0minusT) | I make animations using blender. | 🇬🇧 | [@tauminust](https://x.com/tauminust)
 [Mush-Broom](https://www.youtube.com/@mush-broom) |  Hello there, I'm currently making some weird kind of animations, enjoy!  | 🇬🇧 | [@MushBroom1](https://twitter.com/MushBroom1)
 [Sr Pelo](https://www.youtube.com/@SrPelo) |  Hi! I am Pelo, hope you enjoy the ride | 🇲🇽, 🇬🇧 | [Sr Pelo](https://srpelo.newgrounds.com/)
-[Surnist](https://www.youtube.com/@Surnist) | I'm posting videos regarding Touhou, often asking questions around the series and the world around it every so often | 🇬🇧 | 
+[Surnist](https://www.youtube.com/@Surnist) | I'm posting videos regarding Touhou, often asking questions around the series and the world around it every so often | 🇬🇧 | [Surnist](https://www.youtube.com/@Surnist)
+[Suzunaan](https://www.youtube.com/@suzunaan1158) |  Bienvenidos a Suzunaan. Aquí encontrarán información de Touhou Project. | 🇪🇸 | [Suzunaan's Blogspot](https://suzunaanlatam.blogspot.com/)
 [Spirit-Eye](https://www.youtube.com/@spirit-eye) | Hello, I mainly do videos about Touhou, more specifically, I like talking about the locations, Characters and story/lore of Touhou, and that is what most of my videos are about.  | 🇬🇧 | [@SpiritEye4](https://twitter.com/SpiritEye4)
 [tenco](https://www.youtube.com/@thtenco) | Heyo I'm tenco, a dude who likes Touhou and makes videos about different topics related to the series. Lore, gameplay, fanworks, a little bit of everything. | 🇬🇧 | [@thtenco](https://x.com/thtenco)
 [Vegemite-Flavored Indomie](https://www.youtube.com/@vegemiteflavoredindomie) | I make MMD videos with varying degrees of quality | 🇮🇩, 🇬🇧 | [@ALLHAILDURIANS](https://twitter.com/ALLHAILDURIANS)
@@ -489,6 +490,7 @@ Name | Description | Language | Author
 Name | Description | Language | Author 
 ---- | ----------- | -------- | ------
 [Safebooru Touhou](https://safebooru.org/index.php?page=post&s=list&tags=touhou) | Website dedicated to gather all kinds of safe images, the link has the Touhou tag already selected | 🇬🇧 | [Safebooru](https://safebooru.org/)
+[TouhouArt Bluesky](https://bsky.app/profile/did:plc:iixuv6fgbxzz46jo4bmcgs42/feed/aaaiktzb65wl6) | Bluesky sister feed of GensouSky, dedicated exclusively to Art. | Multilingual | [˚☽‧⁺˖⋆ phosphophyllite 𓍊‧𓋼₊](https://bsky.app/profile/lunardial.nexus)
 
 ### Information Websites 
 *Go back to [Information](#information)*
@@ -535,6 +537,7 @@ Name | Description | Language | Author
 [106 Touhou Posters](https://beacetina.com/106-touhou-posters) | After almost full 3 years of work, this personal project of mine is finally complete. It consists of minimally illustrated poster renditions of 106 characters from the video game series Touhou Project. | 🇬🇧 | [Bea cetina](https://beacetina.com/about)
 [Circle-Goka](http://circle-goka.blog.jp/) | A doujin circle that publishes doujinshi on Touhou networking and doujin economics. They also run the [Touhou Event Statistics Committee](https://touhou-evt-stat.blog.jp/archives/10560571.html), compiling statistics on Touhou events. | 🇯🇵, Certain parts are English | [@ci_goka](https://x.com/ci_goka)
 [GensouSky Bluesky](https://bsky.app/profile/lunardial.nexus/feed/aaah44h2osv4k) | Most prominent Touhou space in Bluesky social media. Any and all touhou-related content by chronological order. | 🇬🇧, 🇯🇵 | [˚☽‧⁺˖⋆ phosphophyllite 𓍊‧𓋼₊](https://bsky.app/profile/lunardial.nexus)
+[ReC98](https://rec98.nmlgc.net/) | Source code reconstruction, mods, and technical research of and surrounding PC-98 Touhou and Seihou | 🇬🇧 | [Nmlgc](https://github.com/nmlgc)
 [Touhou lost media](https://moriyashrine.org/forums/topic/2428-touhou-lost-media/) | The goal of this topic is collecting information about lost media and links in one place. There are some categories for systematization. In each category the media goes from more well-known or having more chances to be found to more obscure. If you have some info about this lost media or some other lost media, post it. | 🇬🇧 | [vanyk](https://moriyashrine.org/profile/38795-vanyk/)
 [World,Touhou](https://www.bilibili.com/read/readlist/rl147496) | Covers overseas Touhou communities by looking at various aspects of the community's culture. [Some articles have english translations](https://panzerabwehrkanone.wordpress.com/). | 🇨🇳 | [Pak长](https://www.facebook.com/profile.php?id=100004353407020)
 
@@ -568,6 +571,7 @@ Name | Description | Language | Musical Genre | Author
 [Touhou Circles' Official Music Streaming](https://docs.google.com/spreadsheets/d/1pFKf0-yMSN-tkFs2G8zBkEly1fc9klfwUb-zgJiDPyc/edit?usp=drivesdk) | Some circles' official streaming websites. | 🇬🇧 | Multi Genere | [@mgisnotactive](https://twitter.com/mgisnotactive)
 [TouhouDB](https://touhoudb.com/) | The collaborative database for Touhou music, with artists, discography, PVs and more. | 🇬🇧 | Multigenre | [TouhouDB](https://touhoudb.com/)
 [Touhou Karaoke Lookup](https://touhou-karaoke.com) | Search your favorite Doujin songs to sing! | 🇯🇵 | Multigenre | © 迷い家の白猫
+[TouhouMusic Bluesky](https://bsky.app/profile/did:plc:iixuv6fgbxzz46jo4bmcgs42/feed/aaalp6gunhshe) | Bluesky sister feed of GensouSky, dedicated exclusively to Music | Multilingual | Multigenre | [˚☽‧⁺˖⋆ phosphophyllite 𓍊‧𓋼₊](https://bsky.app/profile/lunardial.nexus)
 
 ### Real Life Events
 *Go back to [Social](#social)*
